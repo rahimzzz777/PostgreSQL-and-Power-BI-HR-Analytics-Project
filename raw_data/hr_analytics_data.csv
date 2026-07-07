@@ -1,0 +1,1481 @@
+﻿EmpID,Age,AgeGroup,Attrition,BusinessTravel,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,Gender,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,SalarySlab,OverTime,PercentSalaryHike,TotalWorkingYears,WorkLifeBalance,YearsAtCompany
+RM297,18,18-25,Yes,Travel_Rarely,Research & Development,3,3,Life Sciences,1,405,Male,Laboratory Technician,3,Single,1420,Upto 5k,No,13,0,3,0
+RM302,18,18-25,No,Travel_Rarely,Sales,10,3,Medical,1,411,Female,Sales Representative,3,Single,1200,Upto 5k,No,12,0,3,0
+RM458,18,18-25,Yes,Travel_Frequently,Sales,5,3,Marketing,1,614,Male,Sales Representative,2,Single,1878,Upto 5k,Yes,14,0,3,0
+RM728,18,18-25,No,Non-Travel,Research & Development,5,2,Life Sciences,1,1012,Male,Research Scientist,4,Single,1051,Upto 5k,No,15,0,3,0
+RM829,18,18-25,Yes,Non-Travel,Research & Development,8,1,Medical,1,1156,Male,Laboratory Technician,3,Single,1904,Upto 5k,No,12,0,3,0
+RM973,18,18-25,No,Non-Travel,Research & Development,1,3,Life Sciences,1,1368,Female,Laboratory Technician,4,Single,1611,Upto 5k,No,15,0,4,0
+RM1154,18,18-25,Yes,Travel_Frequently,Sales,3,2,Medical,1,1624,Female,Sales Representative,4,Single,1569,Upto 5k,Yes,12,0,4,0
+RM1312,18,18-25,No,Non-Travel,Research & Development,14,3,Medical,1,1839,Female,Research Scientist,3,Single,1514,Upto 5k,No,16,0,1,0
+RM128,19,18-25,Yes,Travel_Rarely,Sales,22,1,Marketing,1,167,Male,Sales Representative,3,Single,1675,Upto 5k,Yes,19,0,2,0
+RM150,19,18-25,No,Travel_Rarely,Research & Development,3,1,Medical,1,201,Female,Laboratory Technician,2,Single,1483,Upto 5k,No,14,1,3,1
+RM172,19,18-25,Yes,Travel_Frequently,Sales,1,1,Technical Degree,1,235,Female,Sales Representative,1,Single,2325,Upto 5k,No,21,1,4,0
+RM178,19,18-25,Yes,Travel_Rarely,Research & Development,2,3,Life Sciences,1,243,Male,Laboratory Technician,4,Single,1102,Upto 5k,No,22,1,2,1
+RM423,19,18-25,Yes,Travel_Rarely,Human Resources,2,2,Technical Degree,1,566,Male,Human Resources,4,Single,2564,Upto 5k,No,12,1,4,1
+RM689,19,18-25,Yes,Travel_Rarely,Sales,21,3,Other,1,959,Male,Sales Representative,2,Single,2121,Upto 5k,Yes,13,1,4,1
+RM854,19,18-25,No,Travel_Rarely,Research & Development,9,2,Life Sciences,1,1193,Male,Research Scientist,1,Single,2552,Upto 5k,No,25,1,3,1
+RM893,19,18-25,Yes,Non-Travel,Research & Development,10,3,Medical,1,1248,Female,Research Scientist,2,Single,1859,Upto 5k,Yes,25,1,4,1
+RM910,19,18-25,No,Travel_Rarely,Research & Development,25,3,Life Sciences,1,1269,Female,Research Scientist,4,Single,2994,Upto 5k,Yes,12,1,3,1
+RM103,20,18-25,Yes,Travel_Frequently,Research & Development,6,3,Life Sciences,1,137,Female,Laboratory Technician,4,Single,2926,Upto 5k,Yes,18,1,3,1
+RM488,20,18-25,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,657,Female,Research Scientist,2,Single,2836,Upto 5k,No,13,1,4,1
+RM514,20,18-25,Yes,Travel_Rarely,Research & Development,10,1,Medical,1,701,Male,Research Scientist,3,Single,1009,Upto 5k,Yes,11,1,3,1
+RM663,20,18-25,Yes,Travel_Rarely,Sales,2,3,Medical,1,922,Female,Sales Representative,3,Single,2044,Upto 5k,No,13,2,2,2
+RM690,20,18-25,Yes,Travel_Rarely,Research & Development,4,3,Technical Degree,1,960,Male,Laboratory Technician,1,Single,2973,Upto 5k,No,19,1,3,1
+RM732,20,18-25,Yes,Travel_Rarely,Research & Development,11,3,Medical,1,1016,Female,Research Scientist,1,Single,2600,Upto 5k,Yes,15,1,3,1
+RM777,20,18-25,Yes,Travel_Frequently,Sales,9,3,Marketing,1,1077,Female,Sales Representative,4,Single,2323,Upto 5k,Yes,14,2,3,2
+RM857,20,18-25,No,Travel_Rarely,Research & Development,3,3,Life Sciences,1,1198,Male,Laboratory Technician,3,Single,3033,Upto 5k,No,12,2,2,2
+RM877,20,18-25,No,Travel_Rarely,Sales,21,3,Marketing,1,1226,Male,Sales Representative,4,Single,2678,Upto 5k,No,17,2,3,2
+RM1179,20,18-25,No,Travel_Rarely,Sales,2,3,Medical,1,1657,Female,Sales Representative,3,Single,2783,Upto 5k,No,19,2,3,2
+RM1198,20,18-25,No,Travel_Rarely,Sales,9,1,Life Sciences,1,1680,Male,Sales Representative,1,Single,2728,Upto 5k,No,11,2,3,2
+RM024,21,18-25,No,Travel_Rarely,Research & Development,15,2,Life Sciences,1,30,Male,Research Scientist,4,Single,1232,Upto 5k,No,14,0,3,0
+RM275,21,18-25,No,Travel_Rarely,Research & Development,3,2,Medical,1,379,Male,Research Scientist,3,Single,3230,Upto 5k,No,17,3,4,3
+RM358,21,18-25,Yes,Travel_Frequently,Sales,1,1,Technical Degree,1,478,Female,Sales Representative,2,Single,2174,Upto 5k,Yes,11,3,3,3
+RM363,21,18-25,No,Non-Travel,Sales,9,2,Medical,1,484,Male,Sales Representative,4,Single,2610,Upto 5k,No,24,3,2,3
+RM371,21,18-25,Yes,Travel_Rarely,Sales,12,3,Life Sciences,1,494,Female,Sales Representative,2,Single,2716,Upto 5k,No,15,1,3,1
+RM497,21,18-25,No,Travel_Rarely,Sales,22,1,Technical Degree,1,669,Male,Sales Representative,3,Single,3447,Upto 5k,No,11,3,3,3
+RM664,21,18-25,Yes,Travel_Rarely,Research & Development,18,1,Other,1,923,Female,Research Scientist,4,Single,2693,Upto 5k,No,19,1,2,1
+RM778,21,18-25,Yes,Travel_Rarely,Research & Development,10,3,Life Sciences,1,1079,Female,Laboratory Technician,1,Single,1416,Upto 5k,No,13,1,2,1
+RM816,21,18-25,No,Travel_Rarely,Research & Development,1,1,Technical Degree,1,1131,Female,Research Scientist,2,Single,2070,Upto 5k,Yes,11,2,4,2
+RM916,21,18-25,Yes,Travel_Frequently,Research & Development,10,2,Life Sciences,1,1279,Female,Laboratory Technician,3,Single,2625,Upto 5k,No,20,2,1,2
+RM1153,21,18-25,No,Travel_Rarely,Research & Development,5,1,Medical,1,1623,Male,Research Scientist,4,Single,3117,Upto 5k,No,18,3,3,2
+RM1272,21,18-25,Yes,Travel_Rarely,Sales,7,1,Marketing,1,1780,Male,Sales Representative,2,Single,2679,Upto 5k,No,13,1,3,1
+RM1437,21,18-25,No,Travel_Rarely,Sales,5,1,Medical,1,2021,Male,Sales Representative,1,Single,2380,Upto 5k,Yes,11,2,3,2
+RM018,22,18-25,No,Non-Travel,Research & Development,16,2,Medical,1,22,Male,Laboratory Technician,4,Divorced,2935,Upto 5k,Yes,13,1,2,1
+RM110,22,18-25,No,Travel_Rarely,Research & Development,15,3,Medical,1,144,Female,Laboratory Technician,4,Single,2871,Upto 5k,No,15,1,3,0
+RM129,22,18-25,No,Travel_Rarely,Research & Development,2,1,Technical Degree,1,169,Male,Laboratory Technician,4,Married,2523,Upto 5k,No,14,3,3,2
+RM161,22,18-25,No,Travel_Rarely,Research & Development,19,1,Medical,1,217,Male,Research Scientist,4,Married,2323,Upto 5k,No,24,2,3,2
+RM207,22,18-25,No,Travel_Rarely,Research & Development,5,3,Life Sciences,1,284,Male,Research Scientist,2,Divorced,2328,Upto 5k,Yes,16,4,2,4
+RM384,22,18-25,No,Travel_Rarely,Research & Development,11,3,Medical,1,511,Female,Research Scientist,2,Married,2244,Upto 5k,No,13,2,3,2
+RM444,22,18-25,Yes,Travel_Frequently,Research & Development,4,1,Technical Degree,1,593,Male,Laboratory Technician,3,Single,3894,Upto 5k,No,16,4,3,2
+RM499,22,18-25,No,Travel_Rarely,Research & Development,6,1,Medical,1,675,Male,Research Scientist,3,Married,2773,Upto 5k,No,20,3,3,2
+RM631,22,18-25,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,872,Male,Manufacturing Director,4,Married,4775,Upto 5k,No,22,4,1,2
+RM667,22,18-25,Yes,Travel_Rarely,Research & Development,3,1,Life Sciences,1,926,Female,Manufacturing Director,3,Married,4171,Upto 5k,Yes,19,4,4,3
+RM735,22,18-25,No,Travel_Rarely,Research & Development,8,1,Life Sciences,1,1019,Male,Laboratory Technician,1,Married,2451,Upto 5k,No,15,4,2,4
+RM861,22,18-25,Yes,Travel_Frequently,Research & Development,3,4,Life Sciences,1,1203,Male,Research Scientist,4,Married,2853,Upto 5k,Yes,11,1,3,0
+RM1138,22,18-25,No,Non-Travel,Research & Development,26,2,Other,1,1605,Female,Research Scientist,3,Married,2814,Upto 5k,Yes,14,4,2,4
+RM1274,22,18-25,Yes,Travel_Rarely,Research & Development,8,1,Medical,1,1783,Female,Laboratory Technician,1,Married,2398,Upto 5k,Yes,17,1,3,1
+RM1340,22,18-25,Yes,Travel_Rarely,Research & Development,7,1,Life Sciences,1,1878,Male,Research Scientist,2,Single,2472,Upto 5k,Yes,23,1,3,1
+RM1424,22,18-25,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,2007,Male,Research Scientist,3,Single,3375,Upto 5k,No,12,4,4,3
+RM087,23,18-25,No,Travel_Rarely,Sales,2,1,Technical Degree,1,113,Male,Sales Representative,1,Divorced,2322,Upto 5k,No,13,3,3,0
+RM346,23,18-25,No,Travel_Rarely,Research & Development,26,1,Life Sciences,1,465,Male,Research Scientist,4,Divorced,2904,Upto 5k,No,12,4,2,4
+RM517,23,18-25,No,Travel_Rarely,Research & Development,4,3,Medical,1,705,Male,Research Scientist,1,Married,2819,Upto 5k,No,16,5,4,3
+RM551,23,18-25,No,Travel_Rarely,Research & Development,9,1,Medical,1,758,Male,Laboratory Technician,1,Married,2500,Upto 5k,No,14,5,4,4
+RM566,23,18-25,No,Travel_Rarely,Research & Development,10,1,Medical,1,784,Male,Research Scientist,3,Single,3505,Upto 5k,No,18,2,3,2
+RM586,23,18-25,Yes,Travel_Rarely,Research & Development,6,3,Life Sciences,1,811,Male,Laboratory Technician,1,Married,1601,Upto 5k,Yes,21,1,3,0
+RM911,23,18-25,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,1270,Male,Research Scientist,3,Married,1223,Upto 5k,No,22,1,3,1
+RM1083,23,18-25,No,Travel_Rarely,Research & Development,20,1,Life Sciences,1,1533,Male,Laboratory Technician,3,Single,2272,Upto 5k,No,14,5,3,4
+RM1128,23,18-25,No,Travel_Rarely,Research & Development,10,3,Technical Degree,1,1592,Male,Research Scientist,3,Married,2073,Upto 5k,No,16,4,3,2
+RM1202,23,18-25,Yes,Travel_Rarely,Research & Development,8,1,Medical,1,1684,Male,Laboratory Technician,3,Single,3989,Upto 5k,Yes,11,5,3,5
+RM1214,23,18-25,Yes,Travel_Rarely,Sales,7,3,Life Sciences,1,1702,Male,Sales Representative,4,Divorced,2275,Upto 5k,Yes,21,3,3,3
+RM1239,23,18-25,No,Travel_Rarely,Research & Development,4,1,Medical,1,1735,Female,Laboratory Technician,2,Single,3295,Upto 5k,No,13,3,1,3
+RM1409,23,18-25,No,Travel_Rarely,Research & Development,12,2,Other,1,1982,Male,Laboratory Technician,4,Single,2647,Upto 5k,No,13,5,4,5
+RM1439,23,18-25,Yes,Travel_Frequently,Sales,9,3,Marketing,1,2023,Male,Sales Representative,1,Married,1790,Upto 5k,No,19,1,2,1
+RM021,24,18-25,No,Non-Travel,Research & Development,11,2,Other,1,26,Female,Manufacturing Director,3,Divorced,4011,Upto 5k,No,18,5,2,4
+RM035,24,18-25,Yes,Travel_Rarely,Research & Development,1,3,Medical,1,45,Male,Research Scientist,4,Married,2293,Upto 5k,Yes,16,6,2,2
+RM097,24,18-25,No,Travel_Rarely,Sales,3,2,Other,1,128,Female,Sales Executive,3,Married,4999,Upto 5k,No,21,4,2,3
+RM114,24,18-25,No,Travel_Rarely,Research & Development,18,1,Life Sciences,1,150,Male,Laboratory Technician,3,Married,2774,Upto 5k,No,12,6,3,5
+RM381,24,18-25,No,Travel_Rarely,Sales,10,4,Marketing,1,507,Female,Sales Executive,3,Divorced,4260,Upto 5k,Yes,12,5,4,5
+RM415,24,18-25,Yes,Travel_Rarely,Sales,1,1,Technical Degree,1,554,Female,Sales Representative,2,Single,3202,Upto 5k,Yes,16,6,3,5
+RM471,24,18-25,No,Travel_Frequently,Sales,24,3,Medical,1,632,Male,Sales Representative,4,Married,2400,Upto 5k,No,13,3,3,2
+RM475,24,18-25,No,Travel_Rarely,Research & Development,23,3,Medical,1,639,Male,Research Scientist,4,Married,2725,Upto 5k,Yes,11,6,3,6
+RM477,24,18-25,No,Travel_Rarely,Research & Development,17,2,Other,1,643,Male,Laboratory Technician,2,Married,2127,Upto 5k,No,21,1,3,1
+RM480,24,18-25,Yes,Travel_Frequently,Research & Development,7,3,Life Sciences,1,647,Female,Laboratory Technician,3,Married,2886,Upto 5k,Yes,16,6,3,6
+RM526,24,18-25,Yes,Travel_Rarely,Sales,3,2,Life Sciences,1,720,Female,Sales Executive,3,Single,4577,Upto 5k,No,14,4,3,2
+RM587,24,18-25,No,Non-Travel,Research & Development,9,3,Life Sciences,1,812,Male,Laboratory Technician,2,Divorced,2694,Upto 5k,No,11,1,3,1
+RM641,24,18-25,No,Non-Travel,Research & Development,4,1,Life Sciences,1,888,Male,Laboratory Technician,4,Married,3162,Upto 5k,No,17,6,2,5
+RM725,24,18-25,No,Travel_Rarely,Research & Development,17,1,Medical,1,1009,Female,Manufacturing Director,3,Divorced,4377,Upto 5k,No,15,5,3,4
+RM842,24,18-25,No,Travel_Rarely,Research & Development,24,3,Medical,1,1173,Male,Laboratory Technician,2,Single,3597,Upto 5k,No,22,6,3,4
+RM872,24,18-25,Yes,Travel_Rarely,Research & Development,17,2,Life Sciences,1,1219,Female,Laboratory Technician,2,Married,2210,Upto 5k,No,13,1,1,1
+RM1026,24,18-25,No,Travel_Rarely,Sales,4,1,Medical,1,1445,Female,Sales Executive,3,Married,4162,Upto 5k,Yes,12,5,3,5
+RM1061,24,18-25,Yes,Travel_Frequently,Research & Development,9,3,Medical,1,1494,Male,Laboratory Technician,1,Single,3172,Upto 5k,Yes,11,4,2,0
+RM1062,24,18-25,No,Non-Travel,Sales,13,2,Life Sciences,1,1495,Female,Sales Representative,2,Married,2033,Upto 5k,No,13,1,3,1
+RM1098,24,18-25,No,Travel_Rarely,Research & Development,21,2,Technical Degree,1,1551,Male,Laboratory Technician,1,Divorced,2296,Upto 5k,No,14,2,3,1
+RM1169,24,18-25,No,Travel_Frequently,Research & Development,2,1,Technical Degree,1,1646,Female,Research Scientist,4,Single,3760,Upto 5k,Yes,13,6,3,6
+RM1218,24,18-25,No,Travel_Rarely,Research & Development,9,3,Medical,1,1707,Male,Research Scientist,3,Married,4401,Upto 5k,No,16,5,3,5
+RM1223,24,18-25,Yes,Travel_Rarely,Human Resources,22,1,Human Resources,1,1714,Male,Human Resources,3,Married,1555,Upto 5k,No,11,1,3,1
+RM1231,24,18-25,No,Travel_Rarely,Research & Development,29,1,Medical,1,1725,Male,Laboratory Technician,1,Divorced,3907,Upto 5k,No,13,6,4,6
+RM1246,24,18-25,No,Travel_Frequently,Human Resources,10,3,Medical,1,1746,Male,Human Resources,4,Married,2145,Upto 5k,No,14,3,3,2
+RM1408,24,18-25,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,1981,Male,Healthcare Representative,3,Single,4617,Upto 5k,No,12,4,2,4
+RM108,25,18-25,Yes,Travel_Rarely,Sales,5,3,Marketing,1,142,Male,Sales Executive,3,Single,5744,5k-10k,Yes,11,6,3,6
+RM109,25,18-25,No,Travel_Rarely,Research & Development,7,1,Medical,1,143,Male,Research Scientist,4,Married,2889,Upto 5k,No,11,2,3,2
+RM139,25,18-25,No,Travel_Rarely,Sales,28,3,Life Sciences,1,183,Male,Sales Executive,3,Married,8639,5k-10k,No,18,6,3,2
+RM256,25,18-25,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,350,Female,Manufacturing Director,3,Married,4898,Upto 5k,No,12,5,3,4
+RM268,25,18-25,No,Non-Travel,Research & Development,5,2,Life Sciences,1,369,Male,Healthcare Representative,1,Divorced,4000,Upto 5k,No,12,6,3,6
+RM398,25,18-25,No,Travel_Rarely,Sales,4,2,Life Sciences,1,527,Female,Sales Executive,4,Single,4487,Upto 5k,Yes,11,5,3,5
+RM406,25,18-25,Yes,Travel_Rarely,Research & Development,3,3,Medical,1,538,Male,Laboratory Technician,1,Married,4031,Upto 5k,No,13,6,3,2
+RM479,25,18-25,No,Travel_Rarely,Sales,13,1,Medical,1,645,Male,Sales Representative,3,Married,2096,Upto 5k,No,11,7,3,7
+RM518,25,18-25,No,Travel_Rarely,Sales,8,3,Life Sciences,1,707,Male,Sales Executive,2,Married,4851,Upto 5k,No,22,4,3,3
+RM564,25,18-25,No,Travel_Rarely,Sales,26,1,Medical,1,781,Female,Sales Executive,4,Single,6180,5k-10k,No,23,6,2,6
+RM619,25,18-25,No,Travel_Rarely,Research & Development,2,1,Medical,1,854,Male,Research Scientist,1,Single,3424,Upto 5k,No,13,6,2,4
+RM635,25,18-25,No,Travel_Rarely,Sales,3,1,Other,1,879,Male,Sales Executive,1,Married,4194,Upto 5k,Yes,18,5,3,5
+RM639,25,18-25,No,Travel_Rarely,Sales,4,1,Marketing,1,885,Male,Sales Executive,1,Married,4256,Upto 5k,No,12,5,4,5
+RM684,25,18-25,Yes,Travel_Rarely,Sales,19,2,Marketing,1,952,Male,Sales Representative,2,Married,2413,Upto 5k,Yes,18,1,3,1
+RM797,25,18-25,Yes,Travel_Rarely,Research & Development,4,1,Technical Degree,1,1106,Male,Laboratory Technician,4,Married,3691,Upto 5k,Yes,15,7,4,7
+RM886,25,18-25,No,Travel_Rarely,Sales,10,4,Life Sciences,1,1240,Male,Sales Executive,4,Single,4950,Upto 5k,No,14,5,3,4
+RM912,25,18-25,Yes,Travel_Frequently,Sales,24,1,Life Sciences,1,1273,Male,Sales Representative,4,Single,1118,Upto 5k,Yes,14,1,3,1
+RM935,25,18-25,No,Travel_Rarely,Research & Development,1,3,Medical,1,1303,Female,Research Scientist,2,Single,2096,Upto 5k,No,18,2,2,2
+RM966,25,18-25,No,Travel_Rarely,Research & Development,19,1,Medical,1,1358,Male,Laboratory Technician,4,Married,3669,Upto 5k,No,11,7,2,3
+RM994,25,18-25,No,Travel_Rarely,Sales,18,1,Life Sciences,1,1399,Male,Sales Executive,3,Married,6232,5k-10k,No,11,6,2,3
+RM1004,25,18-25,No,Travel_Rarely,Research & Development,1,3,Technical Degree,1,1415,Male,Laboratory Technician,4,Married,3229,Upto 5k,No,11,7,2,3
+RM1022,25,18-25,Yes,Travel_Rarely,Sales,9,2,Life Sciences,1,1439,Male,Sales Representative,1,Married,4400,Upto 5k,No,12,6,3,3
+RM1175,25,18-25,No,Travel_Frequently,Research & Development,2,1,Life Sciences,1,1653,Male,Manufacturing Director,3,Divorced,5206,5k-10k,No,17,7,3,7
+RM1412,25,18-25,No,Travel_Rarely,Human Resources,2,3,Human Resources,1,1987,Female,Human Resources,2,Married,2187,Upto 5k,No,14,6,3,2
+RM1414,25,18-25,No,Travel_Rarely,Research & Development,2,1,Other,1,1992,Male,Laboratory Technician,3,Divorced,3977,Upto 5k,Yes,19,7,2,2
+RM1434,25,18-25,No,Travel_Rarely,Sales,8,2,Other,1,2018,Female,Sales Executive,3,Divorced,4907,Upto 5k,Yes,22,6,2,5
+RM043,26,26-35,Yes,Travel_Rarely,Research & Development,25,3,Life Sciences,1,55,Male,Laboratory Technician,3,Single,2293,Upto 5k,No,12,1,2,1
+RM055,26,26-35,No,Travel_Rarely,Sales,23,3,Marketing,1,72,Female,Sales Executive,4,Married,4157,Upto 5k,Yes,19,5,2,2
+RM126,26,26-35,No,Travel_Rarely,Research & Development,6,3,Other,1,164,Female,Research Scientist,2,Married,2368,Upto 5k,No,19,5,2,5
+RM135,26,26-35,No,Travel_Rarely,Human Resources,25,1,Life Sciences,1,177,Female,Human Resources,3,Married,2942,Upto 5k,No,23,8,3,8
+RM279,26,26-35,No,Travel_Frequently,Research & Development,1,3,Life Sciences,1,384,Female,Manufacturing Director,2,Divorced,6397,5k-10k,No,20,6,1,6
+RM285,26,26-35,No,Travel_Frequently,Research & Development,11,2,Medical,1,390,Male,Healthcare Representative,1,Married,4741,Upto 5k,Yes,13,5,3,5
+RM289,26,26-35,Yes,Travel_Rarely,Research & Development,16,4,Medical,1,394,Male,Laboratory Technician,2,Divorced,2373,Upto 5k,Yes,13,5,3,3
+RM294,26,26-35,Yes,Travel_Rarely,Sales,4,4,Marketing,1,401,Male,Sales Executive,4,Single,5828,5k-10k,Yes,12,8,3,8
+RM356,26,26-35,No,Travel_Rarely,Sales,1,3,Life Sciences,1,476,Male,Sales Executive,3,Married,5296,5k-10k,No,17,8,3,8
+RM383,26,26-35,Yes,Travel_Frequently,Research & Development,3,1,Technical Degree,1,510,Male,Research Scientist,1,Single,3102,Upto 5k,No,22,7,3,6
+RM419,26,26-35,No,Travel_Rarely,Research & Development,23,3,Life Sciences,1,560,Female,Research Scientist,4,Divorced,2886,Upto 5k,No,22,3,1,3
+RM454,26,26-35,Yes,Travel_Frequently,Human Resources,17,4,Life Sciences,1,608,Female,Human Resources,3,Divorced,2741,Upto 5k,Yes,11,8,2,7
+RM461,26,26-35,No,Travel_Rarely,Sales,29,2,Medical,1,618,Male,Sales Executive,3,Divorced,4306,Upto 5k,No,12,8,3,0
+RM464,26,26-35,Yes,Travel_Rarely,Research & Development,24,3,Technical Degree,1,622,Male,Laboratory Technician,4,Single,2340,Upto 5k,Yes,18,1,1,1
+RM476,26,26-35,No,Travel_Rarely,Sales,28,2,Marketing,1,641,Male,Sales Executive,2,Married,6272,5k-10k,No,20,6,4,5
+RM506,26,26-35,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,686,Female,Laboratory Technician,4,Married,2659,Upto 5k,Yes,13,3,3,3
+RM572,26,26-35,No,Travel_Frequently,Research & Development,1,2,Life Sciences,1,792,Female,Laboratory Technician,4,Divorced,4364,Upto 5k,No,14,5,3,2
+RM574,26,26-35,Yes,Travel_Rarely,Sales,8,3,Technical Degree,1,796,Male,Sales Executive,1,Single,5326,5k-10k,No,17,6,2,4
+RM615,26,26-35,Yes,Travel_Frequently,Research & Development,5,2,Medical,1,848,Female,Research Scientist,3,Married,2366,Upto 5k,Yes,14,8,3,8
+RM686,26,26-35,No,Travel_Frequently,Sales,1,3,Medical,1,956,Male,Sales Executive,1,Single,4294,Upto 5k,No,12,7,3,7
+RM734,26,26-35,No,Travel_Rarely,Research & Development,2,2,Medical,1,1018,Male,Manufacturing Director,4,Married,5472,5k-10k,No,12,8,3,8
+RM749,26,26-35,Yes,Non-Travel,Sales,29,2,Medical,1,1037,Male,Sales Executive,1,Single,4969,Upto 5k,No,18,7,3,2
+RM763,26,26-35,Yes,Travel_Frequently,Research & Development,2,3,Life Sciences,1,1053,Male,Research Scientist,1,Married,2042,Upto 5k,Yes,14,6,3,3
+RM770,26,26-35,No,Travel_Frequently,Research & Development,1,1,Medical,1,1068,Female,Research Scientist,3,Divorced,2007,Upto 5k,No,13,5,3,5
+RM782,26,26-35,No,Travel_Rarely,Research & Development,1,2,Medical,1,1083,Male,Laboratory Technician,1,Married,3955,Upto 5k,No,16,6,3,5
+RM798,26,26-35,Yes,Travel_Rarely,Research & Development,21,3,Medical,1,1107,Male,Laboratory Technician,3,Divorced,2377,Upto 5k,No,20,1,2,1
+RM844,26,26-35,No,Travel_Rarely,Research & Development,3,4,Medical,1,1177,Male,Laboratory Technician,4,Married,4420,Upto 5k,No,22,8,3,8
+RM913,26,26-35,No,Travel_Rarely,Research & Development,4,2,Life Sciences,1,1275,Male,Research Scientist,4,Single,2875,Upto 5k,Yes,20,8,2,8
+RM999,26,26-35,No,Travel_Rarely,Research & Development,2,1,Medical,1,1407,Male,Research Scientist,4,Single,3904,Upto 5k,No,12,5,3,4
+RM1005,26,26-35,No,Travel_Rarely,Research & Development,7,3,Other,1,1417,Male,Laboratory Technician,1,Single,3578,Upto 5k,No,12,8,3,7
+RM1119,26,26-35,No,Travel_Rarely,Research & Development,3,3,Life Sciences,1,1581,Female,Research Scientist,4,Married,2061,Upto 5k,No,21,1,3,1
+RM1207,26,26-35,No,Non-Travel,Research & Development,7,3,Medical,1,1693,Male,Laboratory Technician,4,Single,2570,Upto 5k,No,20,7,3,7
+RM1225,26,26-35,No,Travel_Rarely,Research & Development,17,4,Medical,1,1718,Male,Laboratory Technician,3,Married,2305,Upto 5k,No,15,3,4,3
+RM1298,26,26-35,Yes,Travel_Rarely,Human Resources,20,2,Medical,1,1818,Female,Human Resources,2,Married,2148,Upto 5k,Yes,11,6,3,5
+RM1310,26,26-35,No,Travel_Rarely,Sales,10,3,Medical,1,1836,Male,Sales Executive,4,Single,4684,Upto 5k,No,13,5,3,5
+RM1350,26,26-35,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,1893,Female,Research Scientist,3,Married,2933,Upto 5k,Yes,13,1,2,1
+RM1362,26,26-35,No,Travel_Frequently,Research & Development,6,3,Other,1,1918,Male,Laboratory Technician,4,Married,2544,Upto 5k,No,18,8,3,7
+RM1387,26,26-35,No,Travel_Rarely,Research & Development,1,3,Medical,1,1952,Male,Laboratory Technician,1,Single,2867,Upto 5k,No,13,8,2,7
+RM1465,26,26-35,No,Travel_Rarely,Sales,5,3,Other,1,2060,Female,Sales Representative,3,Single,2966,Upto 5k,No,18,5,3,4
+RM1465,26,26-35,No,Travel_Rarely,Sales,5,3,Other,1,2060,Female,Sales Representative,3,Single,2966,Upto 5k,No,18,5,3,4
+RM005,27,26-35,No,Travel_Rarely,Research & Development,2,1,Medical,1,7,Male,Laboratory Technician,2,Married,3468,Upto 5k,No,12,6,3,2
+RM042,27,26-35,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,54,Female,Laboratory Technician,1,Divorced,2341,Upto 5k,No,13,1,3,1
+RM044,27,26-35,No,Travel_Frequently,Sales,8,3,Life Sciences,1,56,Male,Sales Executive,3,Single,8726,5k-10k,No,15,9,3,9
+RM162,27,26-35,No,Non-Travel,Research & Development,9,3,Medical,1,218,Male,Research Scientist,2,Divorced,2024,Upto 5k,No,18,6,1,2
+RM165,27,26-35,No,Non-Travel,Research & Development,3,3,Medical,1,224,Male,Research Scientist,3,Divorced,2566,Upto 5k,Yes,15,1,2,1
+RM171,27,26-35,No,Travel_Rarely,Research & Development,17,3,Technical Degree,1,233,Male,Research Scientist,2,Married,3058,Upto 5k,Yes,16,6,2,5
+RM192,27,26-35,No,Travel_Rarely,Research & Development,9,3,Medical,1,260,Female,Research Scientist,2,Single,2279,Upto 5k,No,16,7,2,7
+RM201,27,26-35,No,Travel_Frequently,Research & Development,1,1,Technical Degree,1,274,Male,Manufacturing Director,1,Married,4298,Upto 5k,No,19,6,3,2
+RM213,27,26-35,No,Travel_Frequently,Sales,20,3,Life Sciences,1,293,Female,Sales Executive,3,Single,9981,5k-10k,No,14,7,3,7
+RM319,27,26-35,No,Travel_Rarely,Research & Development,5,3,Life Sciences,1,434,Female,Research Scientist,2,Single,2478,Upto 5k,Yes,12,4,2,4
+RM321,27,26-35,No,Travel_Rarely,Sales,2,3,Life Sciences,1,437,Male,Sales Executive,3,Single,4478,Upto 5k,Yes,11,5,3,5
+RM332,27,26-35,No,Non-Travel,Sales,1,1,Marketing,1,449,Male,Sales Executive,2,Married,6349,5k-10k,Yes,13,6,3,5
+RM340,27,26-35,No,Travel_Rarely,Sales,8,4,Marketing,1,458,Female,Sales Executive,2,Married,6214,5k-10k,No,18,8,3,8
+RM374,27,26-35,No,Travel_Rarely,Research & Development,1,2,Medical,1,497,Male,Laboratory Technician,2,Divorced,3816,Upto 5k,No,11,5,3,5
+RM486,27,26-35,No,Travel_Rarely,Research & Development,6,4,Medical,1,655,Female,Research Scientist,3,Divorced,2187,Upto 5k,No,12,6,2,5
+RM496,27,26-35,Yes,Travel_Rarely,Sales,2,1,Marketing,1,667,Male,Sales Representative,1,Divorced,3041,Upto 5k,No,11,5,3,4
+RM513,27,26-35,No,Travel_Rarely,Research & Development,3,4,Medical,1,700,Male,Research Scientist,4,Single,2045,Upto 5k,No,13,5,3,4
+RM522,27,26-35,No,Travel_Frequently,Sales,3,1,Medical,1,714,Female,Sales Executive,4,Divorced,4647,Upto 5k,Yes,20,6,3,6
+RM531,27,26-35,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,725,Female,Manufacturing Director,1,Married,7412,5k-10k,No,11,9,3,9
+RM538,27,26-35,No,Travel_Frequently,Research & Development,10,2,Life Sciences,1,733,Male,Manufacturing Director,1,Divorced,8793,5k-10k,No,21,9,2,9
+RM555,27,26-35,No,Travel_Rarely,Research & Development,7,3,Medical,1,764,Female,Healthcare Representative,1,Single,6811,5k-10k,No,19,9,1,7
+RM577,27,26-35,No,Travel_Frequently,Sales,8,1,Marketing,1,800,Male,Sales Executive,4,Married,4342,Upto 5k,No,19,5,3,4
+RM611,27,26-35,No,Travel_Rarely,Research & Development,5,1,Technical Degree,1,844,Male,Research Director,4,Divorced,12808,10k-15k,Yes,16,9,3,9
+RM616,27,26-35,No,Non-Travel,Research & Development,3,3,Medical,1,850,Male,Research Scientist,4,Married,1706,Upto 5k,No,11,0,2,0
+RM671,27,26-35,No,Travel_Rarely,Research & Development,4,3,Life Sciences,1,933,Female,Research Scientist,3,Single,2318,Upto 5k,No,19,1,3,1
+RM718,27,26-35,No,Travel_Rarely,Research & Development,16,4,Technical Degree,1,1001,Female,Laboratory Technician,2,Married,2811,Upto 5k,No,14,4,3,2
+RM740,27,26-35,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,1027,Female,Manufacturing Director,4,Married,4227,Upto 5k,No,18,4,3,3
+RM787,27,26-35,No,Non-Travel,Research & Development,8,5,Life Sciences,1,1094,Male,Laboratory Technician,3,Married,4621,Upto 5k,No,19,3,3,3
+RM834,27,26-35,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,1162,Male,Research Scientist,3,Married,2539,Upto 5k,No,13,4,3,4
+RM890,27,26-35,No,Travel_Rarely,Research & Development,14,3,Life Sciences,1,1244,Male,Research Scientist,1,Married,2235,Upto 5k,Yes,14,9,2,9
+RM903,27,26-35,No,Travel_Rarely,Research & Development,4,2,Life Sciences,1,1259,Male,Research Scientist,3,Divorced,2517,Upto 5k,No,11,5,3,5
+RM971,27,26-35,No,Travel_Rarely,Sales,11,3,Medical,1,1364,Female,Sales Representative,4,Married,2534,Upto 5k,No,14,5,3,1
+RM975,27,26-35,No,Travel_Frequently,Sales,2,1,Life Sciences,1,1371,Male,Sales Executive,4,Single,5071,5k-10k,No,20,8,3,6
+RM997,27,26-35,No,Travel_Rarely,Sales,10,3,Marketing,1,1403,Female,Sales Executive,4,Married,5769,5k-10k,Yes,11,6,3,6
+RM998,27,26-35,Yes,Travel_Rarely,Research & Development,17,4,Life Sciences,1,1405,Female,Research Scientist,3,Single,2394,Upto 5k,Yes,13,8,3,8
+RM1018,27,26-35,No,Travel_Rarely,Research & Development,11,1,Life Sciences,1,1434,Male,Laboratory Technician,1,Married,2099,Upto 5k,No,14,6,4,5
+RM1150,27,26-35,No,Travel_Rarely,Research & Development,19,3,Other,1,1619,Male,Laboratory Technician,1,Divorced,4066,Upto 5k,No,11,7,3,7
+RM1170,27,26-35,No,Travel_Rarely,Research & Development,8,3,Medical,1,1647,Female,Research Scientist,3,Married,3517,Upto 5k,No,17,5,3,3
+RM1171,27,26-35,No,Travel_Frequently,Research & Development,2,3,Medical,1,1648,Male,Research Scientist,4,Single,2580,Upto 5k,No,13,6,2,4
+RM1249,27,26-35,No,Travel_Rarely,Research & Development,8,3,Medical,1,1751,Female,Research Scientist,4,Single,3445,Upto 5k,No,11,6,2,6
+RM1318,27,26-35,No,Travel_Frequently,Research & Development,5,2,Life Sciences,1,1850,Female,Laboratory Technician,4,Single,2379,Upto 5k,Yes,14,6,2,5
+RM1329,27,26-35,No,Travel_Rarely,Sales,23,1,Medical,1,1864,Female,Sales Representative,3,Married,3540,Upto 5k,No,21,9,3,9
+RM1335,27,26-35,No,Travel_Frequently,Research & Development,15,3,Life Sciences,1,1870,Female,Research Scientist,1,Married,4774,Upto 5k,No,19,8,2,7
+RM1351,27,26-35,No,Travel_Rarely,Sales,2,2,Medical,1,1898,Female,Sales Executive,3,Single,6500,5k-10k,No,14,9,2,8
+RM1368,27,26-35,No,TravelRarely,Research & Development,2,4,Technical Degree,1,1931,Male,Research Scientist,2,Married,2226,Upto 5k,No,11,6,2,5
+RM1380,27,26-35,Yes,Travel_Frequently,Human Resources,22,3,Human Resources,1,1944,Female,Human Resources,2,Married,2863,Upto 5k,No,12,1,3,1
+RM1394,27,26-35,No,Travel_Rarely,Sales,9,3,Marketing,1,1965,Male,Sales Executive,4,Single,4105,Upto 5k,No,14,7,3,7
+RM1468,27,26-35,No,Travel_Rarely,Research & Development,4,3,Life Sciences,1,2064,Male,Manufacturing Director,2,Married,6142,5k-10k,Yes,20,6,3,6
+RM1468,27,26-35,No,Travel_Rarely,Research & Development,4,3,Life Sciences,1,2064,Male,Manufacturing Director,2,Married,6142,5k-10k,Yes,20,6,3,6
+RM015,28,26-35,Yes,Travel_Rarely,Research & Development,24,3,Life Sciences,1,19,Male,Laboratory Technician,3,Single,2028,Upto 5k,Yes,14,6,3,4
+RM052,28,26-35,Yes,Travel_Rarely,Research & Development,5,4,Technical Degree,1,65,Male,Laboratory Technician,3,Single,3441,Upto 5k,Yes,13,2,2,2
+RM098,28,26-35,No,Non-Travel,Sales,4,3,Medical,1,129,Male,Sales Executive,3,Married,4221,Upto 5k,No,15,5,4,5
+RM163,28,26-35,No,Travel_Rarely,Research & Development,21,3,Medical,1,221,Male,Research Scientist,4,Married,2713,Upto 5k,No,11,5,1,5
+RM265,28,26-35,Yes,Travel_Rarely,Research & Development,2,4,Life Sciences,1,364,Male,Laboratory Technician,3,Single,3485,Upto 5k,No,11,5,1,0
+RM273,28,26-35,No,Travel_Rarely,Research & Development,9,3,Medical,1,377,Male,Research Scientist,4,Married,2070,Upto 5k,No,23,5,2,5
+RM290,28,26-35,No,Travel_Rarely,Research & Development,8,2,Life Sciences,1,395,Female,Research Scientist,4,Single,3310,Upto 5k,No,21,5,3,5
+RM303,28,26-35,No,Travel_Rarely,Research & Development,16,2,Medical,1,412,Male,Healthcare Representative,1,Single,5661,5k-10k,No,19,9,3,8
+RM324,28,26-35,Yes,Travel_Rarely,Research & Development,2,4,Medical,1,440,Male,Research Scientist,4,Married,3464,Upto 5k,Yes,13,5,2,3
+RM375,28,26-35,No,Travel_Rarely,Sales,9,4,Life Sciences,1,498,Male,Sales Executive,4,Single,5253,5k-10k,No,16,7,3,7
+RM405,28,26-35,No,Travel_Rarely,Research & Development,17,2,Medical,1,536,Male,Laboratory Technician,1,Divorced,4558,Upto 5k,No,12,10,3,10
+RM541,28,26-35,Yes,Travel_Rarely,Research & Development,1,2,Life Sciences,1,741,Female,Research Scientist,2,Single,2216,Upto 5k,Yes,13,10,3,7
+RM599,28,26-35,Yes,Travel_Rarely,Research & Development,2,4,Medical,1,828,Male,Research Scientist,3,Single,4382,Upto 5k,No,17,5,2,2
+RM613,28,26-35,No,Travel_Rarely,Sales,2,4,Marketing,1,846,Female,Sales Executive,2,Married,4779,Upto 5k,Yes,20,8,3,8
+RM630,28,26-35,No,Travel_Rarely,Human Resources,8,2,Medical,1,869,Male,Human Resources,4,Divorced,4936,Upto 5k,No,13,6,3,5
+RM660,28,26-35,No,Travel_Rarely,Sales,5,4,Medical,1,916,Male,Sales Executive,4,Single,4908,Upto 5k,No,14,4,3,4
+RM669,28,26-35,No,Travel_Rarely,Research & Development,9,3,Medical,1,930,Female,Research Scientist,3,Divorced,2377,Upto 5k,No,18,6,3,2
+RM765,28,26-35,No,Travel_Rarely,Sales,10,1,Medical,1,1056,Male,Sales Representative,2,Married,1052,Upto 5k,No,22,1,3,1
+RM781,28,26-35,Yes,Non-Travel,Research & Development,24,2,Technical Degree,1,1082,Male,Healthcare Representative,1,Single,8722,5k-10k,No,12,10,2,10
+RM789,28,26-35,No,Travel_Rarely,Research & Development,10,3,Other,1,1097,Female,Research Scientist,3,Single,3660,Upto 5k,No,13,10,4,8
+RM794,28,26-35,No,Travel_Rarely,Research & Development,15,2,Life Sciences,1,1102,Male,Laboratory Technician,3,Divorced,2207,Upto 5k,No,16,4,2,4
+RM801,28,26-35,Yes,Travel_Frequently,Research & Development,1,3,Medical,1,1111,Male,Laboratory Technician,2,Divorced,2596,Upto 5k,No,15,1,3,1
+RM810,28,26-35,No,Travel_Rarely,Research & Development,3,3,Medical,1,1121,Female,Manufacturing Director,2,Divorced,7655,5k-10k,No,17,10,2,9
+RM820,28,26-35,No,Travel_Rarely,Research & Development,2,1,Life Sciences,1,1136,Male,Research Scientist,2,Married,3201,Upto 5k,No,17,6,1,5
+RM828,28,26-35,No,Travel_Frequently,Research & Development,6,3,Life Sciences,1,1154,Male,Research Scientist,3,Divorced,2703,Upto 5k,Yes,14,3,3,3
+RM843,28,26-35,Yes,Travel_Rarely,Research & Development,12,1,Life Sciences,1,1175,Female,Laboratory Technician,4,Married,2515,Upto 5k,Yes,11,1,2,1
+RM869,28,26-35,No,Travel_Rarely,Research & Development,19,4,Medical,1,1216,Male,Laboratory Technician,1,Married,3196,Upto 5k,No,12,6,3,6
+RM922,28,26-35,No,Travel_Frequently,Research & Development,1,4,Medical,1,1286,Male,Laboratory Technician,3,Single,2154,Upto 5k,Yes,11,5,2,4
+RM930,28,26-35,No,Travel_Frequently,Research & Development,2,3,Life Sciences,1,1296,Male,Laboratory Technician,4,Married,3867,Upto 5k,Yes,12,2,3,2
+RM934,28,26-35,No,Travel_Rarely,Research & Development,1,3,Technical Degree,1,1301,Male,Research Scientist,1,Single,2080,Upto 5k,No,11,5,2,3
+RM945,28,26-35,No,Non-Travel,Research & Development,1,3,Life Sciences,1,1315,Female,Laboratory Technician,4,Married,6674,5k-10k,No,11,10,3,9
+RM985,28,26-35,No,Travel_Rarely,Sales,26,3,Life Sciences,1,1387,Male,Sales Executive,1,Married,4724,Upto 5k,No,11,5,3,5
+RM1042,28,26-35,No,Travel_Rarely,Sales,5,3,Medical,1,1469,Male,Sales Executive,1,Single,8463,5k-10k,No,18,6,3,5
+RM1057,28,26-35,Yes,Travel_Frequently,Sales,1,3,Technical Degree,1,1486,Male,Sales Representative,3,Married,2909,Upto 5k,No,15,5,4,3
+RM1069,28,26-35,Yes,Travel_Frequently,Research & Development,2,2,Medical,1,1504,Male,Laboratory Technician,1,Single,2561,Upto 5k,No,11,8,2,0
+RM1070,28,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1506,Male,Research Scientist,3,Divorced,1563,Upto 5k,No,14,1,1,1
+RM1071,28,26-35,No,Travel_Frequently,Sales,7,3,Life Sciences,1,1507,Male,Sales Executive,1,Single,4898,Upto 5k,No,14,5,3,4
+RM1074,28,26-35,No,Travel_Rarely,Research & Development,29,1,Life Sciences,1,1514,Male,Manufacturing Director,2,Married,6549,5k-10k,No,14,8,2,8
+RM1137,28,26-35,Yes,Travel_Rarely,Research & Development,24,3,Medical,1,1604,Male,Laboratory Technician,2,Married,2408,Upto 5k,Yes,17,1,3,1
+RM1152,28,26-35,No,Travel_Rarely,Research & Development,27,3,Medical,1,1622,Female,Manufacturing Director,1,Divorced,4877,Upto 5k,No,21,6,2,5
+RM1284,28,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1799,Male,Research Scientist,4,Married,2044,Upto 5k,No,11,5,4,5
+RM1308,28,26-35,No,Travel_Rarely,Research & Development,1,3,Medical,1,1834,Female,Research Scientist,1,Married,3591,Upto 5k,No,25,3,3,3
+RM1324,28,26-35,No,Non-Travel,Human Resources,1,2,Life Sciences,1,1858,Male,Human Resources,4,Divorced,2706,Upto 5k,No,15,3,3,3
+RM1338,28,26-35,No,Travel_Rarely,Sales,3,3,Medical,1,1875,Female,Sales Representative,2,Married,2856,Upto 5k,No,19,1,3,1
+RM1365,28,26-35,No,Travel_Frequently,Sales,1,2,Life Sciences,1,1927,Male,Sales Executive,4,Married,6834,5k-10k,Yes,12,7,3,7
+RM1370,28,26-35,Yes,Travel_Rarely,Sales,13,2,Marketing,1,1933,Female,Sales Executive,3,Single,9854,5k-10k,Yes,11,6,3,2
+RM1382,28,26-35,No,Non-Travel,Research & Development,16,3,Medical,1,1947,Male,Research Scientist,3,Single,2144,Upto 5k,No,14,5,2,5
+RM1391,28,26-35,Yes,Travel_Rarely,Research & Development,17,3,Technical Degree,1,1960,Male,Laboratory Technician,4,Divorced,2367,Upto 5k,No,12,6,2,4
+RM012,29,26-35,No,Travel_Rarely,Research & Development,15,2,Life Sciences,1,15,Female,Laboratory Technician,3,Single,4193,Upto 5k,Yes,12,10,3,9
+RM016,29,26-35,No,Travel_Rarely,Research & Development,21,4,Life Sciences,1,20,Female,Manufacturing Director,1,Divorced,9980,5k-10k,No,11,10,3,10
+RM072,29,26-35,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,94,Male,Research Scientist,2,Married,2703,Upto 5k,No,23,6,3,5
+RM156,29,26-35,No,Non-Travel,Research & Development,1,1,Technical Degree,1,208,Male,Manufacturing Director,3,Married,4319,Upto 5k,No,13,10,3,10
+RM206,29,26-35,Yes,Travel_Rarely,Sales,27,3,Marketing,1,283,Female,Sales Executive,4,Married,7639,5k-10k,No,22,10,2,10
+RM218,29,26-35,Yes,Travel_Rarely,Research & Development,1,3,Technical Degree,1,300,Male,Research Scientist,3,Single,2058,Upto 5k,No,14,7,2,6
+RM228,29,26-35,No,Travel_Frequently,Sales,1,1,Medical,1,312,Female,Sales Executive,4,Married,7918,5k-10k,No,14,11,3,11
+RM230,29,26-35,Yes,Travel_Rarely,Research & Development,18,1,Medical,1,315,Male,Research Scientist,4,Single,2389,Upto 5k,Yes,13,4,2,4
+RM253,29,26-35,No,Travel_Rarely,Research & Development,15,3,Life Sciences,1,346,Male,Research Scientist,4,Single,2340,Upto 5k,No,19,6,3,6
+RM255,29,26-35,No,Travel_Rarely,Sales,20,2,Marketing,1,349,Male,Sales Executive,4,Divorced,6931,5k-10k,No,14,10,3,3
+RM266,29,26-35,No,Travel_Rarely,Sales,2,3,Medical,1,366,Male,Sales Executive,2,Married,6644,5k-10k,No,19,10,3,0
+RM283,29,26-35,No,Travel_Frequently,Sales,2,2,Life Sciences,1,388,Male,Sales Executive,4,Single,4554,Upto 5k,No,18,10,2,10
+RM337,29,26-35,Yes,Travel_Rarely,Research & Development,8,4,Other,1,454,Male,Laboratory Technician,1,Married,2119,Upto 5k,Yes,11,7,2,7
+RM338,29,26-35,No,Travel_Rarely,Research & Development,9,5,Other,1,455,Male,Laboratory Technician,4,Single,3983,Upto 5k,No,17,4,3,3
+RM344,29,26-35,No,Travel_Rarely,Sales,10,1,Marketing,1,463,Female,Sales Executive,2,Divorced,8268,5k-10k,Yes,14,7,3,7
+RM350,29,26-35,No,Non-Travel,Sales,2,3,Life Sciences,1,469,Male,Sales Executive,3,Married,4649,Upto 5k,No,14,4,2,4
+RM372,29,26-35,No,Travel_Rarely,Research & Development,23,3,Life Sciences,1,495,Male,Research Scientist,4,Single,2201,Upto 5k,No,16,6,3,3
+RM421,29,26-35,No,Travel_Rarely,Research & Development,3,4,Medical,1,564,Male,Research Director,3,Married,11935,10k-15k,No,18,10,3,10
+RM422,29,26-35,Yes,Travel_Rarely,Research & Development,25,5,Technical Degree,1,565,Female,Research Scientist,2,Married,2546,Upto 5k,No,16,6,4,2
+RM455,29,26-35,No,Travel_Rarely,Research & Development,19,3,Technical Degree,1,611,Male,Manufacturing Director,4,Divorced,4262,Upto 5k,No,12,8,4,3
+RM508,29,26-35,No,Travel_Rarely,Sales,3,2,Medical,1,690,Female,Sales Executive,3,Married,5561,5k-10k,No,14,6,2,6
+RM520,29,26-35,No,Travel_Frequently,Research & Development,1,4,Life Sciences,1,710,Male,Research Scientist,4,Divorced,2720,Upto 5k,No,18,10,3,10
+RM547,29,26-35,No,Travel_Rarely,Sales,10,3,Life Sciences,1,749,Male,Sales Representative,3,Single,2642,Upto 5k,No,11,1,3,1
+RM556,29,26-35,No,Travel_Rarely,Sales,10,3,Marketing,1,766,Male,Sales Representative,2,Divorced,2297,Upto 5k,No,14,2,3,2
+RM573,29,26-35,No,Travel_Rarely,Research & Development,27,3,Medical,1,793,Female,Healthcare Representative,3,Married,4335,Upto 5k,No,12,11,2,8
+RM590,29,26-35,Yes,Travel_Rarely,Research & Development,1,2,Life Sciences,1,816,Female,Laboratory Technician,1,Married,2319,Upto 5k,Yes,11,1,3,1
+RM595,29,26-35,No,Travel_Rarely,Research & Development,23,2,Life Sciences,1,824,Male,Research Scientist,3,Married,2700,Upto 5k,No,24,10,3,10
+RM646,29,26-35,Yes,Travel_Rarely,Sales,1,3,Medical,1,896,Female,Sales Representative,3,Divorced,2800,Upto 5k,Yes,19,5,3,3
+RM658,29,26-35,No,Travel_Rarely,Research & Development,7,1,Medical,1,912,Female,Laboratory Technician,4,Divorced,2532,Upto 5k,No,14,8,3,4
+RM698,29,26-35,No,Travel_Frequently,Sales,20,3,Technical Degree,1,974,Female,Sales Representative,4,Married,2157,Upto 5k,No,15,3,3,3
+RM712,29,26-35,Yes,Travel_Rarely,Research & Development,10,3,Life Sciences,1,994,Female,Research Scientist,1,Single,2404,Upto 5k,Yes,20,3,3,0
+RM809,29,26-35,No,Travel_Rarely,Research & Development,28,4,Life Sciences,1,1120,Female,Research Scientist,4,Divorced,2514,Upto 5k,No,22,11,3,7
+RM824,29,26-35,No,Travel_Frequently,Research & Development,10,3,Life Sciences,1,1143,Female,Research Scientist,2,Divorced,3291,Upto 5k,No,14,8,2,7
+RM826,29,26-35,No,Travel_Rarely,Research & Development,8,1,Medical,1,1150,Male,Manufacturing Director,4,Married,5056,5k-10k,Yes,15,10,2,10
+RM837,29,26-35,Yes,Travel_Rarely,Sales,23,1,Life Sciences,1,1165,Female,Sales Executive,1,Married,7336,5k-10k,No,13,11,1,11
+RM853,29,26-35,No,Travel_Rarely,Research & Development,6,1,Medical,1,1192,Female,Laboratory Technician,4,Married,3131,Upto 5k,No,13,10,3,10
+RM860,29,26-35,No,Travel_Rarely,Research & Development,15,1,Life Sciences,1,1202,Female,Research Scientist,4,Married,2168,Upto 5k,Yes,18,6,2,5
+RM894,29,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1249,Female,Research Scientist,4,Divorced,3760,Upto 5k,No,15,3,3,3
+RM904,29,26-35,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,1260,Male,Healthcare Representative,4,Divorced,6623,5k-10k,Yes,11,6,3,6
+RM906,29,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1264,Female,Research Director,4,Divorced,16124,15k+,No,14,9,2,7
+RM933,29,26-35,Yes,Travel_Rarely,Research & Development,7,3,Technical Degree,1,1299,Female,Laboratory Technician,3,Divorced,3339,Upto 5k,Yes,13,10,3,7
+RM1006,29,26-35,No,Travel_Rarely,Human Resources,17,3,Other,1,1419,Male,Human Resources,1,Single,7988,5k-10k,No,13,10,2,10
+RM1008,29,26-35,Yes,Travel_Frequently,Research & Development,14,1,Other,1,1421,Female,Healthcare Representative,4,Single,7553,5k-10k,Yes,12,9,3,8
+RM1058,29,26-35,Yes,Travel_Frequently,Sales,13,3,Technical Degree,1,1487,Female,Sales Executive,2,Single,5765,5k-10k,No,11,7,1,5
+RM1064,29,26-35,No,Travel_Rarely,Sales,19,3,Life Sciences,1,1497,Male,Sales Executive,3,Divorced,8620,5k-10k,No,14,10,3,10
+RM1073,29,26-35,No,Travel_Frequently,Research & Development,2,1,Life Sciences,1,1513,Female,Laboratory Technician,2,Married,3180,Upto 5k,No,13,4,3,3
+RM1078,29,26-35,Yes,Travel_Rarely,Research & Development,1,4,Technical Degree,1,1522,Male,Research Scientist,1,Single,2362,Upto 5k,No,13,11,1,9
+RM1091,29,26-35,No,Travel_Rarely,Research & Development,8,1,Other,1,1544,Female,Healthcare Representative,1,Married,9715,5k-10k,No,13,9,3,7
+RM1105,29,26-35,No,Travel_Rarely,Research & Development,9,3,Life Sciences,1,1558,Male,Research Scientist,3,Married,2451,Upto 5k,No,18,5,2,1
+RM1123,29,26-35,No,Travel_Rarely,Research & Development,3,1,Medical,1,1586,Male,Laboratory Technician,1,Single,4723,Upto 5k,Yes,18,10,3,10
+RM1126,29,26-35,No,Travel_Frequently,Research & Development,2,1,Life Sciences,1,1590,Male,Healthcare Representative,4,Divorced,8853,5k-10k,No,19,6,4,6
+RM1173,29,26-35,No,Travel_Rarely,Sales,10,3,Medical,1,1650,Male,Sales Executive,3,Single,5869,5k-10k,No,11,8,3,5
+RM1189,29,26-35,No,Travel_Rarely,Sales,5,3,Medical,1,1669,Male,Sales Executive,2,Divorced,4187,Upto 5k,Yes,13,10,2,10
+RM1220,29,26-35,No,Travel_Rarely,Research & Development,9,4,Medical,1,1709,Female,Laboratory Technician,3,Married,2974,Upto 5k,No,17,9,3,5
+RM1250,29,26-35,Yes,Travel_Rarely,Sales,9,3,Marketing,1,1752,Female,Sales Representative,2,Single,2760,Upto 5k,No,13,2,3,2
+RM1251,29,26-35,No,Travel_Frequently,Research & Development,1,3,Life Sciences,1,1753,Male,Healthcare Representative,3,Single,6294,5k-10k,Yes,12,10,4,3
+RM1259,29,26-35,No,Travel_Rarely,Research & Development,4,3,Technical Degree,1,1762,Female,Research Scientist,1,Divorced,2109,Upto 5k,No,13,1,3,1
+RM1314,29,26-35,Yes,Travel_Rarely,Human Resources,13,3,Human Resources,1,1844,Male,Human Resources,1,Divorced,2335,Upto 5k,Yes,15,4,3,2
+RM1319,29,26-35,No,Travel_Frequently,Research & Development,20,1,Medical,1,1852,Male,Laboratory Technician,4,Married,3812,Upto 5k,No,13,11,4,11
+RM1325,29,26-35,No,Travel_Rarely,Research & Development,29,1,Life Sciences,1,1859,Male,Healthcare Representative,3,Divorced,6384,5k-10k,No,17,11,3,7
+RM1330,29,26-35,No,TravelRarely,Human Resources,6,1,Medical,1,1865,Male,Human Resources,2,Married,2804,Upto 5k,No,11,1,3,1
+RM1333,29,26-35,Yes,Travel_Frequently,Research & Development,24,2,Life Sciences,1,1868,Male,Research Scientist,4,Single,2439,Upto 5k,Yes,24,1,2,1
+RM1344,29,26-35,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,1883,Male,Laboratory Technician,1,Single,2062,Upto 5k,No,14,11,3,3
+RM1366,29,26-35,Yes,Travel_Frequently,Sales,24,3,Technical Degree,1,1928,Male,Sales Representative,1,Single,1091,Upto 5k,No,17,1,3,1
+RM1388,29,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1954,Male,Healthcare Representative,1,Married,5373,5k-10k,No,12,6,2,5
+RM1443,29,26-35,Yes,Travel_Rarely,Research & Development,1,4,Medical,1,2027,Male,Research Scientist,4,Married,4787,Upto 5k,Yes,14,4,4,2
+RM1460,29,26-35,No,Travel_Rarely,Research & Development,13,2,Other,1,2053,Male,Laboratory Technician,2,Married,4025,Upto 5k,Yes,13,10,3,4
+RM1461,29,26-35,No,Travel_Rarely,Research & Development,28,4,Medical,1,2054,Female,Research Scientist,1,Single,3785,Upto 5k,No,14,5,1,5
+RM1461,29,26-35,No,Travel_Rarely,Research & Development,28,4,Medical,1,2054,Female,Research Scientist,1,Single,3785,Upto 5k,No,14,5,1,5
+RM008,30,26-35,No,Travel_Rarely,Research & Development,24,1,Life Sciences,1,11,Male,Laboratory Technician,3,Divorced,2693,Upto 5k,No,22,1,3,1
+RM033,30,26-35,No,Travel_Rarely,Research & Development,9,2,Medical,1,41,Male,Laboratory Technician,3,Single,2206,Upto 5k,No,13,10,3,10
+RM045,30,26-35,No,Travel_Frequently,Research & Development,1,2,Medical,1,57,Female,Laboratory Technician,4,Single,4011,Upto 5k,No,23,12,3,12
+RM081,30,26-35,No,Travel_Rarely,Research & Development,1,1,Life Sciences,1,104,Male,Laboratory Technician,4,Married,5126,5k-10k,Yes,12,10,2,10
+RM089,30,26-35,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,117,Male,Healthcare Representative,4,Married,4152,Upto 5k,No,19,11,3,11
+RM093,30,26-35,No,Travel_Rarely,Sales,4,2,Medical,1,121,Female,Sales Executive,2,Divorced,5209,5k-10k,Yes,12,11,2,11
+RM121,30,26-35,No,Travel_Frequently,Research & Development,23,3,Life Sciences,1,159,Male,Research Scientist,3,Divorced,2613,Upto 5k,No,25,10,2,10
+RM140,30,26-35,No,Travel_Rarely,Human Resources,9,3,Human Resources,1,184,Male,Human Resources,4,Married,6347,5k-10k,Yes,19,12,1,11
+RM144,30,26-35,No,Travel_Rarely,Research & Development,18,3,Life Sciences,1,194,Female,Research Scientist,3,Single,2632,Upto 5k,No,14,5,2,5
+RM146,30,26-35,No,Travel_Rarely,Research & Development,5,3,Technical Degree,1,197,Female,Research Scientist,1,Divorced,3204,Upto 5k,No,14,8,3,3
+RM147,30,26-35,No,Travel_Rarely,Research & Development,2,1,Medical,1,198,Male,Laboratory Technician,4,Single,2720,Upto 5k,No,13,6,3,5
+RM168,30,26-35,No,Travel_Rarely,Sales,5,3,Life Sciences,1,228,Female,Sales Executive,4,Married,9419,5k-10k,No,12,12,3,10
+RM174,30,26-35,No,Non-Travel,Research & Development,9,3,Medical,1,239,Male,Laboratory Technician,1,Divorced,3072,Upto 5k,No,11,12,3,12
+RM212,30,26-35,No,Non-Travel,Research & Development,1,1,Life Sciences,1,292,Male,Manufacturing Director,3,Single,8474,5k-10k,No,22,12,3,11
+RM215,30,26-35,Yes,Travel_Rarely,Research & Development,3,3,Technical Degree,1,297,Female,Research Scientist,1,Single,2657,Upto 5k,Yes,11,8,3,5
+RM217,30,26-35,Yes,Travel_Frequently,Sales,26,4,Marketing,1,299,Female,Sales Executive,1,Single,6696,5k-10k,No,15,9,2,6
+RM325,30,26-35,No,Travel_Rarely,Research & Development,28,2,Medical,1,441,Female,Research Scientist,4,Married,5775,5k-10k,No,13,11,3,10
+RM339,30,26-35,No,Travel_Rarely,Sales,5,3,Marketing,1,456,Female,Sales Executive,3,Divorced,6118,5k-10k,No,13,10,3,10
+RM355,30,26-35,No,Non-Travel,Sales,25,2,Technical Degree,1,475,Female,Sales Executive,3,Married,4736,Upto 5k,Yes,12,4,4,2
+RM382,30,26-35,No,Travel_Rarely,Sales,2,1,Technical Degree,1,508,Male,Sales Representative,2,Married,2476,Upto 5k,No,18,1,3,1
+RM386,30,26-35,Yes,Travel_Frequently,Research & Development,4,3,Technical Degree,1,514,Male,Research Scientist,4,Single,2285,Upto 5k,Yes,23,3,3,1
+RM403,30,26-35,No,Travel_Rarely,Sales,12,3,Technical Degree,1,533,Female,Sales Executive,3,Single,6577,5k-10k,No,11,6,3,5
+RM411,30,26-35,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,548,Female,Manufacturing Director,4,Single,6091,5k-10k,No,20,11,3,5
+RM420,30,26-35,No,Non-Travel,Research & Development,3,3,Life Sciences,1,562,Male,Laboratory Technician,4,Married,2097,Upto 5k,No,15,9,1,5
+RM424,30,26-35,No,Non-Travel,Sales,22,4,Other,1,567,Female,Sales Executive,1,Married,8412,5k-10k,No,11,10,3,9
+RM427,30,26-35,No,Non-Travel,Research & Development,2,3,Medical,1,571,Female,Laboratory Technician,4,Single,2564,Upto 5k,No,14,12,2,11
+RM438,30,26-35,No,Travel_Rarely,Sales,7,1,Marketing,1,585,Male,Sales Representative,2,Single,2983,Upto 5k,No,14,4,3,3
+RM481,30,26-35,Yes,Travel_Frequently,Sales,12,4,Life Sciences,1,648,Male,Sales Representative,1,Married,2033,Upto 5k,No,18,1,4,1
+RM502,30,26-35,No,Travel_Frequently,Research & Development,3,3,Medical,1,680,Female,Research Scientist,3,Divorced,2083,Upto 5k,No,20,1,3,1
+RM546,30,26-35,No,Travel_Rarely,Sales,27,5,Marketing,1,747,Male,Sales Executive,4,Divorced,5304,5k-10k,No,23,10,2,8
+RM582,30,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,806,Male,Laboratory Technician,3,Married,3833,Upto 5k,No,21,7,3,2
+RM603,30,26-35,No,Travel_Rarely,Research & Development,2,3,Medical,1,833,Female,Manufacturing Director,4,Single,6877,5k-10k,Yes,24,12,2,0
+RM624,30,26-35,No,Travel_Frequently,Research & Development,5,4,Life Sciences,1,861,Male,Research Scientist,4,Divorced,3761,Upto 5k,No,12,10,2,5
+RM703,30,26-35,No,Travel_Rarely,Sales,8,2,Other,1,982,Male,Sales Executive,3,Divorced,7264,5k-10k,No,11,10,4,8
+RM721,30,26-35,Yes,Travel_Rarely,Research & Development,22,3,Life Sciences,1,1004,Female,Research Scientist,3,Married,2132,Upto 5k,Yes,11,7,3,5
+RM731,30,26-35,No,Travel_Rarely,Research & Development,8,2,Life Sciences,1,1015,Female,Research Director,1,Married,11416,10k-15k,Yes,12,9,2,8
+RM733,30,26-35,Yes,Travel_Frequently,Research & Development,5,3,Medical,1,1017,Female,Laboratory Technician,2,Single,2422,Upto 5k,No,17,4,3,3
+RM783,30,26-35,No,Travel_Rarely,Research & Development,20,3,Other,1,1084,Male,Manufacturing Director,1,Married,9957,5k-10k,No,15,7,2,6
+RM845,30,26-35,No,Travel_Rarely,Sales,10,3,Marketing,1,1179,Male,Sales Executive,3,Married,6578,5k-10k,No,18,10,3,10
+RM866,30,26-35,No,Travel_Rarely,Sales,29,4,Life Sciences,1,1211,Male,Sales Executive,1,Divorced,4115,Upto 5k,No,19,8,3,4
+RM875,30,26-35,No,Travel_Rarely,Research & Development,7,4,Life Sciences,1,1224,Male,Laboratory Technician,3,Divorced,3491,Upto 5k,No,13,10,2,10
+RM887,30,26-35,No,Travel_Rarely,Research & Development,1,3,Medical,1,1241,Male,Research Scientist,2,Married,3579,Upto 5k,Yes,21,12,3,11
+RM932,30,26-35,No,Non-Travel,Research & Development,9,2,Medical,1,1298,Female,Manufacturing Director,3,Single,4695,Upto 5k,Yes,18,10,3,8
+RM942,30,26-35,No,Travel_Rarely,Research & Development,6,3,Technical Degree,1,1311,Female,Laboratory Technician,4,Married,4627,Upto 5k,No,12,10,3,9
+RM949,30,26-35,No,Travel_Rarely,Research & Development,17,4,Medical,1,1321,Female,Manager,1,Married,11916,10k-15k,Yes,23,9,3,9
+RM1014,30,26-35,No,Travel_Rarely,Sales,7,4,Marketing,1,1428,Female,Sales Executive,1,Divorced,4779,Upto 5k,No,14,8,3,3
+RM1050,30,26-35,No,Travel_Rarely,Sales,16,1,Life Sciences,1,1479,Male,Sales Executive,3,Married,5301,5k-10k,No,15,4,2,2
+RM1053,30,26-35,No,Non-Travel,Research & Development,7,3,Technical Degree,1,1482,Male,Research Scientist,3,Divorced,1274,Upto 5k,No,13,1,2,1
+RM1065,30,26-35,No,Travel_Rarely,Human Resources,1,3,Life Sciences,1,1499,Male,Human Resources,3,Divorced,2064,Upto 5k,No,21,6,4,5
+RM1107,30,26-35,Yes,Travel_Rarely,Sales,1,3,Life Sciences,1,1562,Male,Sales Executive,1,Married,9714,5k-10k,No,11,10,3,10
+RM1110,30,26-35,No,Travel_Rarely,Sales,29,4,Technical Degree,1,1568,Male,Sales Executive,2,Married,9250,5k-10k,No,12,9,3,4
+RM1142,30,26-35,No,Travel_Rarely,Research & Development,7,3,Medical,1,1609,Male,Research Scientist,2,Married,2141,Upto 5k,No,12,6,2,6
+RM1234,30,26-35,No,Travel_Rarely,Research & Development,16,1,Life Sciences,1,1729,Male,Research Scientist,4,Married,2862,Upto 5k,No,12,10,2,10
+RM1245,30,26-35,No,Travel_Frequently,Research & Development,2,4,Technical Degree,1,1745,Female,Research Scientist,1,Single,4968,Upto 5k,No,16,10,3,9
+RM1247,30,26-35,Yes,Travel_Frequently,Human Resources,8,3,Human Resources,1,1747,Female,Human Resources,4,Divorced,2180,Upto 5k,No,11,6,2,4
+RM1252,30,26-35,No,Travel_Rarely,Sales,15,2,Marketing,1,1754,Male,Sales Executive,1,Divorced,7140,5k-10k,No,11,12,3,7
+RM1260,30,26-35,No,Travel_Rarely,Research & Development,16,3,Life Sciences,1,1763,Male,Healthcare Representative,3,Married,5294,5k-10k,No,16,10,3,7
+RM1297,30,26-35,No,Travel_Rarely,Research & Development,10,3,Medical,1,1816,Female,Manufacturing Director,3,Single,9667,5k-10k,No,14,9,3,7
+RM1339,30,26-35,Yes,Travel_Rarely,Sales,9,3,Medical,1,1876,Male,Sales Representative,4,Single,1081,Upto 5k,No,13,1,2,1
+RM1413,30,26-35,No,Travel_Rarely,Research & Development,1,2,Medical,1,1989,Male,Laboratory Technician,2,Married,3748,Upto 5k,No,13,12,2,12
+RM013,31,26-35,No,Travel_Rarely,Research & Development,26,1,Life Sciences,1,16,Male,Research Scientist,3,Divorced,2911,Upto 5k,No,17,5,2,5
+RM059,31,26-35,No,Travel_Rarely,Research & Development,7,4,Life Sciences,1,76,Male,Laboratory Technician,4,Divorced,5915,5k-10k,No,22,10,2,7
+RM073,31,26-35,No,Travel_Rarely,Research & Development,1,4,Medical,1,95,Male,Research Scientist,2,Single,2501,Upto 5k,No,17,1,3,1
+RM076,31,26-35,No,Travel_Rarely,Research & Development,8,4,Life Sciences,1,98,Female,Manufacturing Director,4,Single,4424,Upto 5k,No,23,11,3,11
+RM125,31,26-35,Yes,Travel_Rarely,Sales,6,4,Life Sciences,1,163,Male,Sales Executive,3,Married,6172,5k-10k,Yes,18,12,2,7
+RM133,31,26-35,Yes,Travel_Rarely,Sales,20,3,Life Sciences,1,175,Female,Sales Executive,3,Married,4559,Upto 5k,Yes,11,4,3,2
+RM181,31,26-35,No,Travel_Rarely,Research & Development,12,1,Medical,1,246,Female,Research Scientist,4,Married,3929,Upto 5k,Yes,23,7,3,4
+RM225,31,26-35,No,Non-Travel,Research & Development,1,4,Medical,1,308,Male,Manufacturing Director,3,Married,4345,Upto 5k,No,12,6,3,5
+RM246,31,26-35,No,Travel_Frequently,Research & Development,3,4,Medical,1,337,Male,Research Director,3,Divorced,13675,10k-15k,No,12,9,3,2
+RM260,31,26-35,Yes,Travel_Frequently,Research & Development,29,2,Medical,1,355,Male,Laboratory Technician,2,Single,3479,Upto 5k,No,11,6,4,5
+RM267,31,26-35,No,Travel_Rarely,Research & Development,23,3,Medical,1,367,Male,Healthcare Representative,4,Married,5582,5k-10k,No,21,10,3,9
+RM293,31,26-35,No,Travel_Frequently,Sales,5,3,Marketing,1,399,Female,Sales Representative,2,Divorced,2789,Upto 5k,No,11,2,2,2
+RM304,31,26-35,No,Travel_Rarely,Sales,7,3,Technical Degree,1,416,Male,Sales Executive,4,Married,6929,5k-10k,No,11,10,2,8
+RM310,31,26-35,No,Travel_Rarely,Research & Development,5,4,Technical Degree,1,423,Male,Research Scientist,4,Married,4821,Upto 5k,Yes,12,6,3,5
+RM311,31,26-35,No,Travel_Rarely,Human Resources,2,3,Human Resources,1,424,Male,Human Resources,1,Married,6410,5k-10k,No,12,9,3,2
+RM313,31,26-35,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,426,Male,Research Scientist,4,Divorced,2695,Upto 5k,Yes,18,3,1,2
+RM322,31,26-35,No,Travel_Rarely,Sales,7,3,Marketing,1,438,Male,Sales Executive,4,Divorced,7547,5k-10k,No,12,13,3,7
+RM326,31,26-35,No,Travel_Frequently,Research & Development,7,2,Life Sciences,1,442,Female,Manufacturing Director,3,Married,8943,5k-10k,No,24,10,3,10
+RM343,31,26-35,No,Travel_Rarely,Research & Development,7,4,Medical,1,462,Female,Manufacturing Director,4,Single,7143,5k-10k,Yes,14,11,2,11
+RM370,31,26-35,No,Travel_Rarely,Research & Development,9,4,Life Sciences,1,493,Male,Research Scientist,2,Single,2657,Upto 5k,Yes,16,3,3,2
+RM395,31,26-35,No,Travel_Rarely,Research & Development,7,2,Medical,1,524,Female,Manufacturing Director,1,Married,4306,Upto 5k,No,12,13,1,13
+RM400,31,26-35,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,530,Male,Laboratory Technician,1,Married,2218,Upto 5k,No,12,4,3,4
+RM435,31,26-35,No,Travel_Rarely,Research & Development,9,1,Life Sciences,1,581,Male,Manufacturing Director,2,Divorced,10648,10k-15k,No,25,13,4,13
+RM440,31,26-35,Yes,Travel_Frequently,Research & Development,20,3,Life Sciences,1,587,Male,Healthcare Representative,3,Married,9824,5k-10k,No,12,12,3,1
+RM451,31,26-35,No,Travel_Rarely,Sales,2,1,Life Sciences,1,604,Male,Sales Executive,4,Single,6582,5k-10k,Yes,13,10,4,6
+RM457,31,26-35,No,Travel_Rarely,Sales,7,3,Life Sciences,1,613,Male,Manager,4,Divorced,11557,10k-15k,No,21,10,2,5
+RM483,31,26-35,Yes,Travel_Rarely,Sales,13,4,Medical,1,650,Male,Sales Executive,1,Divorced,4233,Upto 5k,No,17,9,1,3
+RM485,31,26-35,No,Travel_Rarely,Sales,6,4,Medical,1,653,Male,Sales Executive,4,Divorced,5460,5k-10k,No,22,13,4,7
+RM645,31,26-35,No,Travel_Rarely,Research & Development,11,4,Life Sciences,1,895,Male,Research Scientist,4,Married,2356,Upto 5k,Yes,19,8,3,6
+RM676,31,26-35,No,Travel_Rarely,Sales,7,4,Life Sciences,1,941,Male,Sales Representative,3,Married,2329,Upto 5k,No,15,13,4,7
+RM680,31,26-35,No,Non-Travel,Sales,20,2,Marketing,1,947,Female,Sales Executive,3,Married,6932,5k-10k,No,13,9,2,9
+RM691,31,26-35,No,Travel_Rarely,Research & Development,12,3,Medical,1,961,Female,Healthcare Representative,4,Married,5855,5k-10k,Yes,11,10,1,9
+RM710,31,26-35,Yes,Non-Travel,Research & Development,9,2,Medical,1,991,Male,Research Scientist,1,Single,2321,Upto 5k,Yes,22,4,3,3
+RM727,31,26-35,No,Travel_Frequently,Research & Development,1,1,Life Sciences,1,1011,Female,Manufacturing Director,1,Married,4148,Upto 5k,No,12,4,3,4
+RM819,31,26-35,No,Travel_Frequently,Sales,20,3,Life Sciences,1,1135,Male,Sales Representative,4,Married,2791,Upto 5k,No,12,3,3,2
+RM832,31,26-35,Yes,Travel_Frequently,Research & Development,15,3,Medical,1,1160,Male,Laboratory Technician,3,Married,2610,Upto 5k,No,12,2,2,2
+RM896,31,26-35,No,Travel_Rarely,Research & Development,11,2,Medical,1,1251,Male,Healthcare Representative,1,Married,6833,5k-10k,Yes,12,6,2,6
+RM897,31,26-35,No,Travel_Rarely,Research & Development,24,3,Medical,1,1252,Female,Healthcare Representative,1,Single,6812,5k-10k,No,19,10,3,10
+RM951,31,26-35,No,Non-Travel,Sales,2,4,Life Sciences,1,1324,Female,Sales Executive,3,Divorced,9852,5k-10k,Yes,19,10,2,10
+RM953,31,26-35,Yes,Travel_Frequently,Sales,1,3,Life Sciences,1,1331,Female,Sales Representative,2,Single,2302,Upto 5k,Yes,11,3,4,3
+RM981,31,26-35,Yes,Travel_Frequently,Sales,2,3,Life Sciences,1,1379,Female,Sales Representative,4,Single,2785,Upto 5k,No,14,3,4,1
+RM986,31,26-35,Yes,Travel_Rarely,Research & Development,22,4,Medical,1,1389,Male,Manufacturing Director,3,Married,6179,5k-10k,Yes,15,10,2,10
+RM1013,31,26-35,Yes,Travel_Frequently,Sales,1,4,Life Sciences,1,1427,Female,Sales Representative,3,Single,1359,Upto 5k,No,12,1,3,1
+RM1015,31,26-35,No,Travel_Rarely,Research & Development,8,5,Life Sciences,1,1430,Female,Research Director,2,Single,16422,15k+,No,11,9,4,3
+RM1017,31,26-35,Yes,Travel_Rarely,Research & Development,8,3,Life Sciences,1,1433,Female,Research Scientist,2,Single,1261,Upto 5k,No,12,1,4,1
+RM1031,31,26-35,No,Travel_Rarely,Sales,8,2,Life Sciences,1,1453,Male,Sales Executive,4,Divorced,10793,10k-15k,No,18,13,3,13
+RM1034,31,26-35,Yes,Travel_Frequently,Research & Development,1,5,Life Sciences,1,1459,Female,Manufacturing Director,2,Single,7446,5k-10k,No,11,10,3,10
+RM1036,31,26-35,No,Travel_Rarely,Human Resources,8,2,Medical,1,1461,Female,Human Resources,2,Single,2109,Upto 5k,No,18,8,3,3
+RM1037,31,26-35,Yes,Travel_Frequently,Research & Development,2,3,Life Sciences,1,1464,Male,Laboratory Technician,4,Married,3722,Upto 5k,Yes,13,7,1,2
+RM1086,31,26-35,Yes,Travel_Frequently,Research & Development,3,3,Life Sciences,1,1537,Female,Research Scientist,3,Single,4084,Upto 5k,No,12,7,1,7
+RM1145,31,26-35,No,Travel_Frequently,Sales,2,4,Other,1,1613,Male,Sales Executive,1,Single,5332,5k-10k,No,13,10,3,5
+RM1192,31,26-35,No,Travel_Rarely,Sales,5,4,Life Sciences,1,1673,Female,Sales Executive,4,Married,5476,5k-10k,No,11,10,3,10
+RM1228,31,26-35,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,1721,Male,Laboratory Technician,3,Married,3477,Upto 5k,No,14,6,4,5
+RM1240,31,26-35,No,Travel_Frequently,Research & Development,24,1,Technical Degree,1,1736,Female,Manufacturing Director,4,Single,5238,5k-10k,No,20,9,2,5
+RM1248,31,26-35,No,Travel_Rarely,Sales,5,3,Technical Degree,1,1749,Male,Sales Executive,3,Married,8346,5k-10k,No,19,6,3,5
+RM1258,31,26-35,Yes,Travel_Rarely,Sales,16,4,Marketing,1,1761,Male,Sales Executive,3,Married,8161,5k-10k,No,13,10,3,1
+RM1275,31,26-35,No,Travel_Rarely,Sales,29,4,Marketing,1,1784,Female,Sales Executive,4,Married,5468,5k-10k,No,14,13,3,12
+RM1307,31,26-35,No,Travel_Frequently,Sales,7,4,Marketing,1,1833,Female,Sales Executive,1,Married,9637,5k-10k,No,14,9,3,3
+RM1313,31,26-35,Yes,Travel_Rarely,Human Resources,18,5,Human Resources,1,1842,Male,Human Resources,1,Married,2956,Upto 5k,No,17,2,3,1
+RM1342,31,26-35,No,Travel_Rarely,Research & Development,20,3,Life Sciences,1,1881,Male,Laboratory Technician,3,Divorced,4197,Upto 5k,No,11,10,3,10
+RM1359,31,26-35,No,Travel_Rarely,Sales,10,2,Medical,1,1912,Female,Sales Executive,4,Divorced,6583,5k-10k,Yes,11,8,3,5
+RM1361,31,26-35,No,Travel_Rarely,Research & Development,4,3,Medical,1,1916,Female,Laboratory Technician,3,Divorced,3978,Upto 5k,No,12,4,2,2
+RM1383,31,26-35,No,Non-Travel,Research & Development,3,2,Medical,1,1948,Male,Research Scientist,1,Divorced,3065,Upto 5k,Yes,13,4,4,4
+RM1390,31,26-35,No,Travel_Frequently,Research & Development,1,3,Life Sciences,1,1956,Male,Research Scientist,1,Married,5003,5k-10k,No,21,10,3,10
+RM1396,31,26-35,Yes,Travel_Frequently,Sales,26,4,Marketing,1,1967,Male,Sales Executive,4,Married,5617,5k-10k,Yes,11,10,3,10
+RM1403,31,26-35,No,Travel_Rarely,Research & Development,2,1,Medical,1,1974,Female,Laboratory Technician,4,Divorced,1129,Upto 5k,Yes,11,1,3,1
+RM1406,31,26-35,No,Non-Travel,Research & Development,10,3,Medical,1,1979,Female,Research Director,3,Married,11031,10k-15k,No,20,13,4,11
+RM1418,31,26-35,No,Travel_Rarely,Sales,2,2,Life Sciences,1,1996,Male,Sales Representative,3,Married,3067,Upto 5k,No,19,3,3,2
+RM1464,31,26-35,No,Non-Travel,Research & Development,5,3,Medical,1,2057,Male,Manufacturing Director,1,Single,9936,5k-10k,No,19,10,3,9
+RM1464,31,26-35,No,Non-Travel,Research & Development,5,3,Medical,1,2057,Male,Manufacturing Director,1,Single,9936,5k-10k,No,19,10,3,9
+RM006,32,26-35,No,Travel_Frequently,Research & Development,2,2,Life Sciences,1,8,Male,Laboratory Technician,4,Single,3068,Upto 5k,No,13,8,2,7
+RM017,32,26-35,No,Travel_Rarely,Research & Development,5,2,Life Sciences,1,21,Male,Research Scientist,2,Divorced,3298,Upto 5k,Yes,12,7,2,6
+RM027,32,26-35,Yes,Travel_Frequently,Research & Development,16,1,Life Sciences,1,33,Female,Research Scientist,1,Single,3919,Upto 5k,Yes,22,10,3,10
+RM061,32,26-35,No,Travel_Rarely,Research & Development,1,3,Medical,1,78,Male,Manufacturing Director,4,Married,6162,5k-10k,Yes,22,9,3,9
+RM074,32,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,96,Male,Research Scientist,2,Married,6220,5k-10k,No,17,10,3,10
+RM095,32,26-35,No,Travel_Rarely,Sales,6,4,Medical,1,125,Male,Sales Executive,3,Single,5010,5k-10k,No,16,12,3,11
+RM102,32,26-35,No,Travel_Rarely,Research & Development,1,1,Life Sciences,1,134,Male,Research Scientist,1,Single,2956,Upto 5k,No,13,1,3,1
+RM141,32,26-35,Yes,Travel_Rarely,Research & Development,9,3,Medical,1,190,Female,Laboratory Technician,1,Single,4200,Upto 5k,No,22,10,4,5
+RM145,32,26-35,No,Travel_Frequently,Sales,9,2,Medical,1,195,Male,Sales Executive,4,Divorced,4668,Upto 5k,No,17,9,4,8
+RM155,32,26-35,No,Travel_Frequently,Sales,8,3,Marketing,1,207,Female,Sales Executive,4,Single,8998,5k-10k,No,14,9,3,9
+RM170,32,26-35,No,Travel_Rarely,Research & Development,6,5,Life Sciences,1,231,Male,Research Scientist,3,Single,3038,Upto 5k,No,20,8,3,5
+RM211,32,26-35,Yes,Travel_Rarely,Sales,4,4,Medical,1,291,Male,Sales Executive,4,Married,10400,10k-15k,No,11,14,2,14
+RM239,32,26-35,No,Travel_Rarely,Sales,4,2,Life Sciences,1,330,Female,Sales Representative,2,Married,3931,Upto 5k,No,11,6,3,4
+RM240,32,26-35,Yes,Travel_Rarely,Research & Development,1,3,Life Sciences,1,331,Male,Laboratory Technician,3,Single,3730,Upto 5k,Yes,14,4,1,3
+RM242,32,26-35,No,Non-Travel,Sales,26,4,Marketing,1,333,Male,Sales Executive,4,Married,4465,Upto 5k,No,18,4,3,3
+RM261,32,26-35,No,Travel_Frequently,Research & Development,7,3,Life Sciences,1,359,Male,Laboratory Technician,2,Married,2794,Upto 5k,No,20,5,1,5
+RM263,32,26-35,No,Travel_Rarely,Research & Development,2,1,Technical Degree,1,362,Male,Laboratory Technician,1,Single,2176,Upto 5k,No,13,9,3,6
+RM307,32,26-35,No,Travel_Rarely,Sales,7,3,Life Sciences,1,420,Male,Sales Executive,3,Married,5484,5k-10k,No,14,13,2,13
+RM320,32,26-35,No,Travel_Rarely,Sales,8,2,Technical Degree,1,436,Female,Sales Executive,2,Married,5228,5k-10k,Yes,11,13,3,13
+RM323,32,26-35,No,Travel_Rarely,Research & Development,2,4,Medical,1,439,Female,Research Scientist,4,Single,5055,5k-10k,No,16,10,2,7
+RM352,32,26-35,No,Travel_Rarely,Research & Development,2,3,Medical,1,471,Female,Laboratory Technician,2,Married,2370,Upto 5k,No,13,8,3,8
+RM470,32,26-35,Yes,Non-Travel,Sales,11,4,Other,1,631,Male,Sales Executive,3,Married,4707,Upto 5k,No,12,6,3,4
+RM501,32,26-35,No,Travel_Rarely,Research & Development,9,4,Life Sciences,1,679,Female,Research Scientist,4,Married,6322,5k-10k,Yes,12,6,2,6
+RM528,32,26-35,No,Travel_Rarely,Sales,10,3,Marketing,1,722,Male,Sales Executive,4,Single,5396,5k-10k,No,12,10,2,10
+RM532,32,26-35,No,Travel_Rarely,Research & Development,3,2,Life Sciences,1,727,Female,Research Director,4,Single,11159,10k-15k,No,15,10,3,7
+RM559,32,26-35,No,Travel_Frequently,Research & Development,24,4,Life Sciences,1,772,Male,Laboratory Technician,4,Married,5309,5k-10k,No,15,10,3,10
+RM601,32,26-35,No,Travel_Rarely,Research & Development,4,3,Life Sciences,1,830,Female,Manufacturing Director,3,Married,6162,5k-10k,No,12,14,3,14
+RM623,32,26-35,No,Travel_Rarely,Sales,13,4,Life Sciences,1,859,Male,Sales Executive,4,Divorced,4403,Upto 5k,No,11,8,2,5
+RM627,32,26-35,No,Travel_Rarely,Research & Development,8,2,Medical,1,865,Female,Research Scientist,3,Married,5175,5k-10k,No,12,9,2,5
+RM638,32,26-35,No,Non-Travel,Research & Development,1,3,Life Sciences,1,882,Male,Laboratory Technician,4,Divorced,2314,Upto 5k,No,12,4,3,3
+RM642,32,26-35,No,Travel_Frequently,Sales,5,2,Life Sciences,1,889,Male,Sales Executive,2,Married,6524,5k-10k,No,14,10,3,10
+RM657,32,26-35,Yes,Travel_Rarely,Research & Development,25,4,Life Sciences,1,911,Male,Laboratory Technician,4,Single,2795,Upto 5k,Yes,24,1,1,1
+RM683,32,26-35,No,Non-Travel,Research & Development,1,3,Life Sciences,1,951,Female,Laboratory Technician,2,Married,2332,Upto 5k,No,20,5,3,3
+RM693,32,26-35,No,Travel_Rarely,Research & Development,3,4,Medical,1,966,Female,Manufacturing Director,1,Married,6725,5k-10k,No,12,8,4,8
+RM757,32,26-35,No,Non-Travel,Research & Development,29,4,Medical,1,1046,Female,Laboratory Technician,3,Single,4025,Upto 5k,No,12,10,3,8
+RM851,32,26-35,No,Non-Travel,Sales,2,1,Life Sciences,1,1190,Female,Sales Representative,1,Divorced,2827,Upto 5k,No,12,1,3,1
+RM881,32,26-35,No,Travel_Frequently,Research & Development,13,3,Other,1,1234,Female,Laboratory Technician,2,Married,2743,Upto 5k,No,20,2,3,2
+RM882,32,26-35,No,Travel_Frequently,Research & Development,2,2,Life Sciences,1,1235,Female,Research Scientist,3,Single,4998,Upto 5k,Yes,14,10,3,8
+RM936,32,26-35,No,Travel_Rarely,Sales,8,3,Medical,1,1304,Male,Sales Executive,4,Married,6209,5k-10k,No,15,10,4,10
+RM940,32,26-35,Yes,Travel_Rarely,Research & Development,7,2,Life Sciences,1,1309,Male,Laboratory Technician,3,Married,4883,Upto 5k,No,18,10,3,10
+RM992,32,26-35,No,Travel_Rarely,Sales,2,1,Marketing,1,1396,Male,Sales Executive,2,Married,4078,Upto 5k,Yes,13,4,2,3
+RM1027,32,26-35,No,Travel_Rarely,Sales,7,5,Marketing,1,1446,Male,Sales Executive,4,Married,9204,5k-10k,No,12,7,2,4
+RM1076,32,26-35,No,Travel_Rarely,Research & Development,10,3,Medical,1,1516,Male,Manager,4,Single,11244,10k-15k,No,25,10,4,5
+RM1102,32,26-35,No,Travel_Rarely,Research & Development,5,2,Life Sciences,1,1555,Female,Research Scientist,2,Married,5878,5k-10k,No,12,12,3,7
+RM1114,32,26-35,No,Non-Travel,Research & Development,1,4,Technical Degree,1,1574,Male,Research Scientist,1,Married,4087,Upto 5k,No,14,9,2,6
+RM1140,32,26-35,No,Travel_Rarely,Research & Development,5,4,Other,1,1607,Female,Research Scientist,4,Married,3312,Upto 5k,No,17,6,3,3
+RM1191,32,26-35,No,Travel_Rarely,Research & Development,2,3,Medical,1,1671,Male,Research Scientist,2,Divorced,5470,5k-10k,No,13,10,2,9
+RM1206,32,26-35,Yes,Travel_Rarely,Research & Development,2,4,Life Sciences,1,1692,Male,Laboratory Technician,2,Single,1393,Upto 5k,No,12,1,3,1
+RM1227,32,26-35,No,Travel_Frequently,Research & Development,10,3,Life Sciences,1,1720,Male,Research Scientist,3,Married,3433,Upto 5k,No,13,10,2,5
+RM1238,32,26-35,Yes,Travel_Rarely,Sales,1,2,Life Sciences,1,1734,Male,Sales Executive,2,Single,6735,5k-10k,No,15,10,3,0
+RM1242,32,26-35,No,Travel_Rarely,Sales,19,3,Life Sciences,1,1739,Male,Sales Executive,3,Married,9610,5k-10k,No,13,10,1,4
+RM1261,32,26-35,No,Non-Travel,Research & Development,5,4,Technical Degree,1,1764,Male,Research Scientist,2,Single,2718,Upto 5k,No,14,12,3,7
+RM1320,32,26-35,No,Travel_Frequently,Sales,10,4,Marketing,1,1853,Male,Sales Executive,4,Single,4648,Upto 5k,No,13,4,4,0
+RM1327,32,26-35,Yes,Travel_Rarely,Sales,2,4,Marketing,1,1862,Male,Sales Executive,2,Single,9907,5k-10k,Yes,12,7,2,2
+RM1376,32,26-35,Yes,Travel_Frequently,Research & Development,5,2,Life Sciences,1,1939,Female,Research Scientist,3,Single,2432,Upto 5k,Yes,14,8,3,4
+RM1389,32,26-35,No,Non-Travel,Research & Development,15,4,Medical,1,1955,Female,Healthcare Representative,4,Divorced,6667,5k-10k,No,18,9,3,5
+RM1395,32,26-35,No,Travel_Rarely,Research & Development,5,4,Life Sciences,1,1966,Male,Manufacturing Director,4,Single,9679,5k-10k,No,24,8,3,1
+RM1427,32,26-35,No,Travel_Rarely,Research & Development,29,4,Life Sciences,1,2010,Female,Laboratory Technician,2,Single,2837,Upto 5k,No,13,6,3,6
+RM1429,32,26-35,No,Travel_Rarely,Sales,1,4,Medical,1,2013,Male,Sales Representative,2,Married,2269,Upto 5k,No,14,3,3,2
+RM1432,32,26-35,No,Travel_Rarely,Sales,1,4,Marketing,1,2016,Female,Sales Executive,4,Married,10422,10k-15k,No,19,14,3,14
+RM1450,32,26-35,No,Travel_Rarely,Research & Development,2,3,Technical Degree,1,2038,Male,Research Scientist,1,Single,2439,Upto 5k,No,14,4,3,4
+RM004,33,26-35,No,Travel_Frequently,Research & Development,3,4,Life Sciences,1,5,Female,Research Scientist,3,Married,2909,Upto 5k,Yes,11,8,3,8
+RM031,33,26-35,No,Travel_Rarely,Research & Development,2,3,Medical,1,39,Male,Laboratory Technician,4,Single,2496,Upto 5k,No,11,7,3,1
+RM040,33,26-35,No,Travel_Frequently,Sales,1,3,Life Sciences,1,52,Female,Sales Executive,1,Married,5376,5k-10k,No,19,10,3,5
+RM056,33,26-35,No,Travel_Frequently,Research & Development,1,2,Life Sciences,1,73,Female,Research Director,4,Single,13458,10k-15k,Yes,12,15,3,15
+RM122,33,26-35,No,Non-Travel,Sales,22,2,Marketing,1,160,Male,Sales Executive,2,Married,6146,5k-10k,No,13,8,4,7
+RM177,33,26-35,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,242,Male,Research Scientist,4,Single,2500,Upto 5k,No,14,4,4,3
+RM186,33,26-35,No,Travel_Rarely,Research & Development,14,3,Medical,1,252,Female,Research Scientist,2,Married,2756,Upto 5k,No,13,8,3,8
+RM222,33,26-35,No,Travel_Rarely,Research & Development,4,4,Medical,1,305,Female,Research Scientist,2,Married,2622,Upto 5k,No,21,7,3,3
+RM235,33,26-35,Yes,Travel_Rarely,Research & Development,14,3,Medical,1,325,Male,Laboratory Technician,4,Married,2436,Upto 5k,Yes,13,8,1,5
+RM237,33,26-35,Yes,Travel_Rarely,Research & Development,2,2,Life Sciences,1,328,Female,Laboratory Technician,1,Married,2707,Upto 5k,No,20,13,4,9
+RM247,33,26-35,No,Travel_Rarely,Research & Development,5,4,Life Sciences,1,338,Female,Research Scientist,4,Married,2911,Upto 5k,No,13,2,2,2
+RM314,33,26-35,No,Travel_Frequently,Research & Development,5,4,Life Sciences,1,428,Female,Manager,2,Married,11878,10k-15k,No,11,12,3,10
+RM329,33,26-35,No,Travel_Frequently,Sales,10,3,Marketing,1,446,Male,Sales Executive,4,Single,4682,Upto 5k,No,14,9,2,7
+RM364,33,26-35,Yes,Travel_Rarely,Sales,5,3,Marketing,1,485,Female,Sales Representative,3,Single,2851,Upto 5k,Yes,13,1,3,1
+RM436,33,26-35,Yes,Travel_Rarely,Research & Development,15,1,Medical,1,582,Male,Manager,3,Married,13610,10k-15k,Yes,12,15,4,7
+RM437,33,26-35,Yes,Travel_Rarely,Research & Development,10,1,Medical,1,584,Male,Laboratory Technician,4,Divorced,3408,Upto 5k,No,13,8,3,4
+RM456,33,26-35,No,Travel_Rarely,Research & Development,1,5,Medical,1,612,Female,Research Director,3,Divorced,16184,15k+,No,19,10,3,6
+RM500,33,26-35,No,Travel_Rarely,Sales,8,4,Marketing,1,677,Male,Sales Executive,3,Divorced,7104,5k-10k,No,12,6,3,5
+RM510,33,26-35,No,Travel_Frequently,Research & Development,6,3,Life Sciences,1,692,Male,Healthcare Representative,4,Divorced,7725,5k-10k,No,23,15,1,13
+RM515,33,26-35,Yes,Travel_Frequently,Research & Development,3,3,Life Sciences,1,702,Male,Research Scientist,1,Single,3348,Upto 5k,Yes,11,10,3,10
+RM563,33,26-35,Yes,Travel_Rarely,Research & Development,1,4,Other,1,780,Male,Research Scientist,4,Single,2686,Upto 5k,Yes,13,10,2,10
+RM591,33,26-35,No,Travel_Rarely,Research & Development,7,3,Medical,1,817,Male,Research Director,3,Married,11691,10k-15k,No,11,14,4,13
+RM592,33,26-35,Yes,Travel_Rarely,Sales,16,3,Marketing,1,819,Female,Sales Executive,1,Single,5324,5k-10k,No,15,6,3,3
+RM620,33,26-35,No,Travel_Rarely,Sales,1,3,Medical,1,855,Male,Sales Executive,1,Divorced,4037,Upto 5k,No,22,9,3,9
+RM656,33,26-35,No,Travel_Rarely,Human Resources,3,2,Human Resources,1,910,Male,Human Resources,2,Divorced,2277,Upto 5k,Yes,11,7,4,4
+RM674,33,26-35,No,Travel_Rarely,Research & Development,1,4,Other,1,939,Male,Research Scientist,1,Single,2799,Upto 5k,Yes,11,6,3,3
+RM695,33,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,969,Female,Healthcare Representative,4,Single,6949,5k-10k,No,14,6,3,5
+RM711,33,26-35,No,Non-Travel,Sales,17,3,Life Sciences,1,992,Male,Manager,3,Single,17444,15k+,No,11,10,3,10
+RM713,33,26-35,No,Travel_Rarely,Research & Development,13,1,Life Sciences,1,995,Female,Research Scientist,4,Single,3452,Upto 5k,No,18,5,3,3
+RM716,33,26-35,No,Travel_Frequently,Research & Development,1,4,Other,1,998,Female,Healthcare Representative,2,Married,5488,5k-10k,Yes,13,6,3,6
+RM755,33,26-35,No,Non-Travel,Sales,8,1,Life Sciences,1,1044,Female,Sales Representative,4,Single,2342,Upto 5k,No,19,3,2,2
+RM791,33,26-35,No,Travel_Rarely,Research & Development,5,3,Life Sciences,1,1099,Male,Healthcare Representative,4,Divorced,7119,5k-10k,No,15,9,3,3
+RM793,33,26-35,Yes,Travel_Frequently,Research & Development,29,4,Medical,1,1101,Female,Research Scientist,3,Single,4508,Upto 5k,No,22,14,3,13
+RM799,33,26-35,Yes,Travel_Rarely,Research & Development,25,3,Medical,1,1108,Male,Research Scientist,2,Single,2313,Upto 5k,Yes,20,5,3,2
+RM803,33,26-35,No,Travel_Frequently,Sales,7,3,Life Sciences,1,1114,Female,Sales Executive,2,Married,4302,Upto 5k,No,17,4,3,3
+RM830,33,26-35,Yes,Travel_Rarely,Sales,9,4,Marketing,1,1157,Female,Sales Executive,1,Single,8224,5k-10k,Yes,17,6,3,5
+RM864,33,26-35,No,Travel_Rarely,Human Resources,2,3,Human Resources,1,1207,Male,Human Resources,3,Married,3600,Upto 5k,No,13,5,3,5
+RM873,33,26-35,No,Travel_Frequently,Sales,25,3,Medical,1,1220,Female,Sales Executive,3,Married,4539,Upto 5k,No,12,10,2,10
+RM884,33,26-35,No,Travel_Rarely,Research & Development,9,3,Medical,1,1238,Male,Research Scientist,4,Married,2781,Upto 5k,No,13,15,3,14
+RM909,33,26-35,No,Travel_Rarely,Sales,10,5,Marketing,1,1268,Male,Sales Executive,3,Divorced,8380,5k-10k,Yes,14,10,3,9
+RM991,33,26-35,No,Travel_Frequently,Sales,5,1,Life Sciences,1,1395,Male,Sales Executive,4,Married,9998,5k-10k,No,13,8,4,5
+RM1048,33,26-35,No,Travel_Frequently,Sales,7,3,Medical,1,1477,Male,Sales Executive,1,Married,4373,Upto 5k,No,14,5,3,4
+RM1067,33,26-35,No,Travel_Rarely,Research & Development,4,4,Medical,1,1502,Female,Laboratory Technician,2,Married,3838,Upto 5k,No,11,8,3,5
+RM1075,33,26-35,No,Travel_Rarely,Research & Development,8,5,Life Sciences,1,1515,Male,Healthcare Representative,3,Single,6388,5k-10k,Yes,17,14,3,0
+RM1092,33,26-35,No,Travel_Rarely,Research & Development,25,3,Life Sciences,1,1545,Male,Manufacturing Director,2,Single,4320,Upto 5k,No,13,5,3,5
+RM1096,33,26-35,No,Travel_Rarely,Research & Development,28,4,Life Sciences,1,1549,Male,Laboratory Technician,3,Married,5207,5k-10k,Yes,12,15,3,15
+RM1106,33,26-35,No,Travel_Rarely,Sales,8,4,Life Sciences,1,1560,Male,Sales Executive,1,Married,6392,5k-10k,No,13,8,1,2
+RM1190,33,26-35,No,Travel_Rarely,Sales,2,4,Medical,1,1670,Male,Sales Executive,4,Divorced,5505,5k-10k,No,14,6,3,6
+RM1199,33,26-35,No,Non-Travel,Sales,16,3,Life Sciences,1,1681,Female,Sales Executive,4,Divorced,5368,5k-10k,Yes,25,7,3,6
+RM1211,33,26-35,No,Travel_Rarely,Research & Development,21,3,Medical,1,1698,Male,Laboratory Technician,2,Married,2028,Upto 5k,No,18,14,3,14
+RM1254,33,26-35,No,Non-Travel,Sales,2,3,Marketing,1,1756,Female,Sales Executive,2,Single,5147,5k-10k,No,15,13,2,11
+RM1256,33,26-35,Yes,Travel_Rarely,Sales,16,3,Life Sciences,1,1758,Female,Sales Executive,1,Single,8564,5k-10k,Yes,20,11,2,0
+RM1266,33,26-35,No,Non-Travel,Research & Development,4,3,Technical Degree,1,1771,Male,Research Scientist,2,Divorced,3055,Upto 5k,No,15,11,2,9
+RM1283,33,26-35,No,Travel_Rarely,Research & Development,8,4,Life Sciences,1,1798,Male,Research Scientist,1,Married,3143,Upto 5k,No,19,14,3,10
+RM1364,33,26-35,No,Travel_Rarely,Sales,10,4,Marketing,1,1924,Male,Sales Executive,3,Single,5487,5k-10k,No,14,10,2,10
+RM1399,33,26-35,No,Travel_Frequently,Research & Development,7,2,Life Sciences,1,1970,Male,Healthcare Representative,3,Divorced,5968,5k-10k,No,20,9,3,9
+RM1416,33,26-35,No,Non-Travel,Research & Development,1,2,Medical,1,1994,Male,Laboratory Technician,3,Divorced,2008,Upto 5k,No,12,1,2,1
+RM1426,33,26-35,No,Travel_Rarely,Research & Development,15,2,Medical,1,2009,Female,Healthcare Representative,4,Married,4878,Upto 5k,Yes,13,10,3,9
+RM014,34,26-35,No,TravelRarely,Research & Development,19,2,Medical,1,18,Male,Laboratory Technician,4,Divorced,2661,Upto 5k,No,11,3,3,2
+RM023,34,26-35,No,TravelRarely,Research & Development,7,4,Life Sciences,1,28,Female,Research Director,2,Single,11994,10k-15k,No,11,13,3,12
+RM025,34,26-35,Yes,Travel_Rarely,Research & Development,6,1,Medical,1,31,Male,Research Scientist,1,Single,2960,Upto 5k,No,11,8,3,4
+RM047,34,26-35,No,Non-Travel,Sales,23,4,Marketing,1,60,Male,Sales Executive,3,Single,4568,Upto 5k,No,20,10,3,9
+RM085,34,26-35,No,Travel_Rarely,Research & Development,1,2,Medical,1,110,Male,Manufacturing Director,2,Married,4325,Upto 5k,No,15,5,3,5
+RM104,34,26-35,No,Travel_Rarely,Research & Development,6,4,Other,1,138,Female,Research Scientist,3,Single,4809,Upto 5k,No,14,16,3,16
+RM112,34,26-35,Yes,Travel_Frequently,Research & Development,7,3,Life Sciences,1,147,Male,Laboratory Technician,3,Single,6074,5k-10k,Yes,24,9,3,9
+RM115,34,26-35,No,Travel_Rarely,Research & Development,6,4,Life Sciences,1,151,Female,Research Scientist,2,Divorced,4505,Upto 5k,No,15,12,3,1
+RM117,34,26-35,No,Travel_Rarely,Research & Development,5,3,Medical,1,153,Female,Manager,1,Single,11631,10k-15k,No,12,14,3,11
+RM160,34,26-35,No,Travel_Frequently,Sales,2,4,Marketing,1,216,Female,Sales Representative,3,Married,2231,Upto 5k,No,18,6,3,4
+RM182,34,26-35,No,Travel_Rarely,Research & Development,27,2,Medical,1,247,Female,Research Scientist,2,Single,2311,Upto 5k,No,15,9,3,3
+RM189,34,26-35,No,Travel_Frequently,Research & Development,2,1,Life Sciences,1,256,Male,Manufacturing Director,3,Married,9547,5k-10k,No,17,10,2,10
+RM203,34,26-35,No,Travel_Frequently,Research & Development,10,4,Medical,1,277,Male,Research Scientist,3,Divorced,3815,Upto 5k,Yes,17,5,4,5
+RM248,34,26-35,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,339,Male,Manufacturing Director,1,Married,5957,5k-10k,No,13,13,3,11
+RM379,34,26-35,Yes,Non-Travel,Sales,19,3,Marketing,1,502,Male,Sales Executive,4,Single,5304,5k-10k,Yes,13,9,2,5
+RM394,34,26-35,No,Non-Travel,Sales,4,4,Marketing,1,523,Female,Sales Executive,3,Married,6538,5k-10k,No,15,6,3,3
+RM416,34,26-35,Yes,Travel_Frequently,Sales,6,2,Marketing,1,555,Female,Sales Representative,3,Divorced,2351,Upto 5k,No,16,3,2,2
+RM433,34,26-35,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,579,Male,Research Scientist,3,Divorced,2768,Upto 5k,No,12,14,3,7
+RM441,34,26-35,Yes,Travel_Frequently,Human Resources,23,3,Human Resources,1,590,Female,Human Resources,1,Divorced,9950,5k-10k,Yes,15,11,3,3
+RM463,34,26-35,No,Travel_Rarely,Sales,21,4,Life Sciences,1,621,Male,Sales Executive,4,Single,5337,5k-10k,No,12,10,3,10
+RM482,34,26-35,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,649,Male,Research Scientist,4,Married,3622,Upto 5k,Yes,13,6,3,6
+RM495,34,26-35,No,Travel_Rarely,Sales,14,3,Technical Degree,1,666,Female,Sales Representative,3,Divorced,2579,Upto 5k,Yes,18,8,3,8
+RM504,34,26-35,No,Travel_Rarely,Research & Development,1,5,Life Sciences,1,683,Male,Research Scientist,4,Married,2691,Upto 5k,No,12,10,2,10
+RM525,34,26-35,No,Travel_Rarely,Research & Development,9,3,Medical,1,717,Female,Healthcare Representative,2,Single,8621,5k-10k,No,14,9,4,8
+RM550,34,26-35,No,Travel_Rarely,Research & Development,8,2,Medical,1,757,Female,Healthcare Representative,3,Single,6142,5k-10k,No,11,10,3,5
+RM561,34,26-35,No,Travel_Rarely,Research & Development,8,5,Life Sciences,1,775,Female,Manufacturing Director,1,Divorced,5121,5k-10k,No,14,7,3,0
+RM568,34,26-35,No,Travel_Rarely,Sales,2,3,Other,1,786,Male,Sales Executive,4,Single,6274,5k-10k,No,22,6,3,6
+RM575,34,26-35,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,797,Female,Research Scientist,4,Single,3280,Upto 5k,No,16,10,3,4
+RM580,34,26-35,No,Travel_Rarely,Research & Development,2,4,Medical,1,804,Female,Research Scientist,1,Single,4381,Upto 5k,No,11,6,3,6
+RM584,34,26-35,No,Travel_Rarely,Sales,8,2,Life Sciences,1,808,Female,Sales Executive,1,Married,6500,5k-10k,No,17,6,3,3
+RM607,34,26-35,No,Travel_Frequently,Research & Development,16,4,Life Sciences,1,838,Female,Research Scientist,4,Single,2553,Upto 5k,No,16,6,3,5
+RM614,34,26-35,No,Travel_Rarely,Human Resources,3,2,Human Resources,1,847,Male,Human Resources,4,Married,3737,Upto 5k,No,19,4,1,3
+RM672,34,26-35,No,Travel_Rarely,Research & Development,10,3,Life Sciences,1,934,Male,Laboratory Technician,2,Divorced,2008,Upto 5k,No,14,1,3,1
+RM758,34,26-35,No,Travel_Rarely,Sales,1,4,Marketing,1,1047,Male,Sales Executive,4,Divorced,9725,5k-10k,No,11,16,2,15
+RM764,34,26-35,No,Travel_Rarely,Sales,10,4,Life Sciences,1,1055,Female,Sales Representative,3,Married,2220,Upto 5k,Yes,19,1,3,1
+RM795,34,26-35,No,Travel_Frequently,Research & Development,3,1,Life Sciences,1,1103,Male,Healthcare Representative,4,Single,7756,5k-10k,No,17,7,2,6
+RM804,34,26-35,No,Non-Travel,Research & Development,3,4,Life Sciences,1,1115,Male,Research Scientist,4,Married,2979,Upto 5k,No,17,6,3,0
+RM823,34,26-35,No,Travel_Frequently,Research & Development,2,2,Life Sciences,1,1140,Male,Manufacturing Director,3,Single,4033,Upto 5k,No,11,5,2,3
+RM835,34,26-35,No,Travel_Rarely,Sales,9,1,Life Sciences,1,1163,Female,Sales Executive,3,Married,5714,5k-10k,No,20,6,2,6
+RM848,34,26-35,No,Travel_Frequently,Research & Development,1,3,Medical,1,1184,Male,Healthcare Representative,1,Single,5343,5k-10k,No,20,14,3,13
+RM907,34,26-35,No,Travel_Rarely,Research & Development,20,3,Technical Degree,1,1265,Female,Research Scientist,3,Married,2585,Upto 5k,No,17,2,2,1
+RM918,34,26-35,No,Travel_Rarely,Sales,2,3,Marketing,1,1281,Female,Sales Executive,1,Single,4538,Upto 5k,Yes,12,4,3,3
+RM921,34,26-35,No,Travel_Frequently,Research & Development,19,3,Medical,1,1285,Female,Laboratory Technician,2,Divorced,4444,Upto 5k,No,13,15,4,11
+RM924,34,26-35,No,Travel_Frequently,Human Resources,11,3,Life Sciences,1,1289,Male,Human Resources,2,Married,4490,Upto 5k,No,11,14,4,10
+RM959,34,26-35,No,Travel_Rarely,Research & Development,9,3,Life Sciences,1,1344,Male,Healthcare Representative,4,Divorced,8500,5k-10k,No,11,10,2,9
+RM965,34,26-35,No,Travel_Rarely,Sales,15,2,Medical,1,1356,Female,Sales Executive,1,Single,6125,5k-10k,No,12,10,4,10
+RM978,34,26-35,No,Non-Travel,Research & Development,26,1,Technical Degree,1,1374,Female,Research Scientist,3,Divorced,2029,Upto 5k,No,20,5,3,5
+RM980,34,26-35,No,Travel_Rarely,Research & Development,29,3,Medical,1,1377,Male,Laboratory Technician,3,Married,5429,5k-10k,No,13,10,3,8
+RM984,34,26-35,No,Travel_Rarely,Research & Development,2,4,Technical Degree,1,1383,Female,Healthcare Representative,4,Single,6687,5k-10k,No,11,14,4,14
+RM1016,34,26-35,No,Travel_Frequently,Research & Development,1,4,Other,1,1431,Male,Research Scientist,1,Divorced,2996,Upto 5k,No,14,10,3,4
+RM1028,34,26-35,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1447,Female,Laboratory Technician,2,Married,3294,Upto 5k,No,17,7,2,5
+RM1040,34,26-35,Yes,Travel_Rarely,Human Resources,9,4,Technical Degree,1,1467,Female,Human Resources,3,Married,2742,Upto 5k,No,15,2,3,2
+RM1049,34,26-35,No,Travel_Rarely,Sales,3,3,Other,1,1478,Male,Sales Executive,1,Single,4759,Upto 5k,No,18,15,3,13
+RM1056,34,26-35,No,Travel_Frequently,Research & Development,15,3,Medical,1,1485,Male,Research Director,1,Divorced,17007,15k+,No,14,16,2,14
+RM1059,34,26-35,Yes,Travel_Rarely,Sales,24,4,Medical,1,1489,Female,Sales Executive,2,Single,4599,Upto 5k,Yes,23,16,4,15
+RM1085,34,26-35,No,Travel_Rarely,Sales,1,3,Technical Degree,1,1535,Male,Sales Executive,3,Married,7083,5k-10k,Yes,14,10,3,10
+RM1088,34,26-35,No,Travel_Rarely,Sales,7,2,Technical Degree,1,1541,Male,Sales Representative,3,Married,2308,Upto 5k,Yes,25,12,3,11
+RM1116,34,26-35,No,Travel_Rarely,Research & Development,7,4,Medical,1,1577,Male,Research Scientist,4,Single,2972,Upto 5k,No,13,1,1,1
+RM1118,34,26-35,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,1580,Male,Research Scientist,4,Married,5484,5k-10k,No,17,9,2,2
+RM1132,34,26-35,No,Travel_Frequently,Research & Development,10,4,Technical Degree,1,1597,Male,Healthcare Representative,3,Married,5063,5k-10k,No,14,8,2,8
+RM1147,34,26-35,No,Travel_Frequently,Research & Development,10,4,Life Sciences,1,1615,Male,Manufacturing Director,4,Divorced,4724,Upto 5k,No,13,9,3,9
+RM1180,34,26-35,No,Travel_Rarely,Research & Development,3,3,Life Sciences,1,1658,Female,Research Scientist,2,Divorced,5433,5k-10k,No,12,11,3,11
+RM1209,34,26-35,No,Travel_Rarely,Research & Development,5,2,Medical,1,1696,Male,Laboratory Technician,4,Married,3986,Upto 5k,No,14,15,4,15
+RM1213,34,26-35,No,Travel_Rarely,Research & Development,19,3,Life Sciences,1,1701,Female,Research Scientist,4,Married,2929,Upto 5k,No,12,10,3,10
+RM1253,34,26-35,No,Travel_Rarely,Research & Development,2,4,Medical,1,1755,Male,Research Scientist,4,Married,2932,Upto 5k,Yes,14,6,3,5
+RM1268,34,26-35,No,Non-Travel,Sales,10,3,Life Sciences,1,1774,Male,Sales Executive,3,Divorced,4001,Upto 5k,Yes,14,15,3,15
+RM1271,34,26-35,No,Travel_Rarely,Sales,3,2,Life Sciences,1,1779,Female,Sales Executive,4,Single,6029,5k-10k,No,12,6,3,2
+RM1291,34,26-35,Yes,Travel_Frequently,Research & Development,9,4,Life Sciences,1,1807,Male,Laboratory Technician,1,Married,5346,5k-10k,No,17,11,2,7
+RM1301,34,26-35,No,Travel_Rarely,Sales,8,2,Technical Degree,1,1823,Male,Sales Executive,3,Married,6799,5k-10k,No,21,10,3,10
+RM1343,34,26-35,No,Travel_Rarely,Sales,4,3,Life Sciences,1,1882,Male,Sales Executive,4,Married,9713,5k-10k,Yes,13,9,3,5
+RM1354,34,26-35,Yes,Non-Travel,Research & Development,16,4,Technical Degree,1,1905,Male,Research Scientist,1,Married,2307,Upto 5k,Yes,23,5,3,5
+RM1360,34,26-35,No,Travel_Rarely,Sales,3,1,Medical,1,1915,Female,Sales Executive,4,Married,8103,5k-10k,Yes,12,9,2,4
+RM1369,34,26-35,No,Travel_Frequently,Research & Development,22,4,Other,1,1932,Male,Research Scientist,4,Married,5747,5k-10k,Yes,15,16,3,15
+RM1385,34,26-35,No,Travel_Rarely,Sales,1,3,Marketing,1,1950,Male,Sales Executive,4,Single,9888,5k-10k,No,21,14,2,14
+RM1386,34,26-35,No,Travel_Rarely,Sales,13,4,Medical,1,1951,Male,Sales Executive,3,Divorced,8628,5k-10k,No,18,9,2,8
+RM1447,34,26-35,No,Travel_Rarely,Sales,28,3,Marketing,1,2035,Female,Sales Executive,3,Married,6712,5k-10k,No,21,8,3,8
+RM1470,34,26-35,No,TravelRarely,Research & Development,8,3,Medical,1,2068,Male,Laboratory Technician,3,Married,4404,Upto 5k,No,12,6,4,4
+RM1470,34,26-35,No,TravelRarely,Research & Development,8,3,Medical,1,2068,Male,Laboratory Technician,3,Married,4404,Upto 5k,No,12,6,4,4
+RM011,35,26-35,No,Travel_Rarely,Research & Development,16,3,Medical,1,14,Male,Laboratory Technician,2,Married,2426,Upto 5k,No,13,6,3,5
+RM038,35,26-35,No,Travel_Rarely,Sales,2,3,Marketing,1,49,Female,Sales Representative,4,Married,2014,Upto 5k,No,13,2,3,2
+RM041,35,26-35,No,Travel_Rarely,Research & Development,4,2,Other,1,53,Male,Laboratory Technician,4,Divorced,1951,Upto 5k,No,12,1,3,1
+RM050,35,26-35,No,Travel_Rarely,Research & Development,8,1,Life Sciences,1,63,Male,Laboratory Technician,4,Married,2269,Upto 5k,No,19,1,3,1
+RM054,35,26-35,No,Non-Travel,Research & Development,11,2,Medical,1,70,Male,Healthcare Representative,1,Married,9884,5k-10k,Yes,13,10,3,4
+RM057,35,26-35,No,Travel_Frequently,Sales,18,5,Life Sciences,1,74,Male,Sales Executive,1,Married,9069,5k-10k,No,22,9,2,9
+RM058,35,26-35,No,Travel_Rarely,Research & Development,23,4,Medical,1,75,Female,Laboratory Technician,1,Married,4014,Upto 5k,Yes,15,4,3,2
+RM069,35,26-35,No,Travel_Frequently,Research & Development,1,3,Medical,1,88,Male,Research Scientist,1,Married,2194,Upto 5k,No,13,5,2,3
+RM077,35,26-35,No,Travel_Rarely,Sales,1,4,Marketing,1,100,Male,Sales Executive,1,Single,4312,Upto 5k,No,14,16,3,15
+RM082,35,26-35,No,Travel_Rarely,Research & Development,1,3,Medical,1,105,Male,Research Scientist,3,Single,2859,Upto 5k,No,18,6,3,6
+RM152,35,26-35,No,Travel_Rarely,Sales,1,5,Marketing,1,204,Male,Sales Executive,2,Married,7295,5k-10k,No,13,10,3,10
+RM193,35,26-35,Yes,Travel_Rarely,Research & Development,23,2,Life Sciences,1,261,Male,Manufacturing Director,3,Married,5916,5k-10k,Yes,13,8,3,1
+RM197,35,26-35,No,Travel_Frequently,Research & Development,2,3,Medical,1,269,Female,Laboratory Technician,2,Single,4425,Upto 5k,No,11,10,3,6
+RM229,35,26-35,No,Travel_Frequently,Sales,1,3,Marketing,1,314,Female,Sales Executive,3,Single,8789,5k-10k,No,14,10,4,10
+RM277,35,26-35,No,Travel_Rarely,Research & Development,22,3,Life Sciences,1,381,Female,Manager,2,Divorced,11996,10k-15k,No,18,10,2,7
+RM298,35,26-35,No,Travel_Rarely,Sales,16,3,Marketing,1,406,Male,Sales Executive,2,Married,8020,5k-10k,No,15,12,2,11
+RM345,35,26-35,No,Travel_Rarely,Research & Development,5,4,Technical Degree,1,464,Male,Manufacturing Director,2,Single,8095,5k-10k,No,13,17,3,16
+RM373,35,26-35,No,Travel_Rarely,Research & Development,9,4,Life Sciences,1,496,Male,Healthcare Representative,2,Single,6540,5k-10k,No,19,10,3,1
+RM431,35,26-35,No,Travel_Rarely,Research & Development,22,3,Life Sciences,1,577,Male,Laboratory Technician,3,Single,4230,Upto 5k,No,15,6,3,5
+RM439,35,26-35,No,Travel_Rarely,Research & Development,16,3,Life Sciences,1,586,Male,Healthcare Representative,3,Married,7632,5k-10k,Yes,12,10,3,8
+RM448,35,26-35,No,Travel_Rarely,Sales,1,3,Marketing,1,600,Male,Sales Executive,3,Married,4717,Upto 5k,No,11,15,3,11
+RM462,35,26-35,No,Travel_Rarely,Sales,1,3,Medical,1,620,Female,Sales Executive,3,Single,4859,Upto 5k,No,16,5,3,5
+RM484,35,26-35,No,Travel_Rarely,Research & Development,25,2,Other,1,652,Male,Laboratory Technician,4,Single,3681,Upto 5k,No,14,9,3,3
+RM509,35,26-35,No,Travel_Rarely,Research & Development,6,4,Life Sciences,1,691,Male,Research Scientist,4,Single,6646,5k-10k,No,13,17,3,17
+RM516,35,26-35,No,Non-Travel,Research & Development,3,3,Life Sciences,1,704,Male,Laboratory Technician,3,Married,1281,Upto 5k,No,18,1,3,1
+RM558,35,26-35,No,Non-Travel,Research & Development,2,4,Life Sciences,1,771,Female,Healthcare Representative,1,Divorced,5093,5k-10k,No,11,16,4,1
+RM581,35,26-35,No,Travel_Rarely,Sales,8,4,Life Sciences,1,805,Female,Sales Representative,4,Married,2572,Upto 5k,No,16,3,2,3
+RM597,35,26-35,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,826,Female,Research Scientist,3,Single,2506,Upto 5k,No,13,7,3,2
+RM612,35,26-35,No,Travel_Rarely,Research & Development,7,3,Other,1,845,Male,Manufacturing Director,3,Single,10221,10k-15k,No,21,17,4,8
+RM621,35,26-35,No,Travel_Rarely,Research & Development,27,1,Medical,1,856,Female,Research Scientist,1,Single,2559,Upto 5k,No,11,6,2,6
+RM636,35,26-35,No,Travel_Rarely,Research & Development,9,3,Life Sciences,1,880,Female,Manufacturing Director,3,Married,10685,10k-15k,Yes,20,17,3,17
+RM637,35,26-35,Yes,Travel_Frequently,Research & Development,25,4,Life Sciences,1,881,Female,Research Scientist,2,Divorced,2022,Upto 5k,Yes,19,10,2,10
+RM648,35,26-35,No,Travel_Rarely,Research & Development,25,3,Technical Degree,1,899,Male,Manufacturing Director,2,Married,10903,10k-15k,No,16,16,3,13
+RM677,35,26-35,No,Travel_Rarely,Research & Development,21,1,Life Sciences,1,942,Female,Healthcare Representative,4,Married,4014,Upto 5k,Yes,25,10,1,10
+RM699,35,26-35,No,Travel_Rarely,Sales,18,3,Medical,1,975,Female,Sales Executive,3,Married,4601,Upto 5k,No,16,5,3,5
+RM705,35,26-35,No,Travel_Rarely,Sales,3,4,Life Sciences,1,984,Male,Sales Executive,4,Divorced,7823,5k-10k,No,13,12,3,10
+RM726,35,26-35,Yes,Travel_Rarely,Research & Development,14,4,Other,1,1010,Male,Laboratory Technician,2,Divorced,3743,Upto 5k,Yes,24,5,1,4
+RM730,35,26-35,No,Travel_Rarely,Research & Development,25,4,Medical,1,1014,Female,Healthcare Representative,3,Divorced,10388,10k-15k,Yes,11,16,2,16
+RM741,35,26-35,No,Travel_Rarely,Research & Development,10,3,Other,1,1028,Male,Laboratory Technician,4,Divorced,3917,Upto 5k,No,20,3,2,3
+RM792,35,26-35,Yes,Travel_Rarely,Sales,4,3,Technical Degree,1,1100,Male,Sales Executive,1,Single,9582,5k-10k,Yes,22,9,3,8
+RM821,35,26-35,No,Travel_Frequently,Sales,11,2,Marketing,1,1137,Male,Sales Executive,4,Divorced,4968,Upto 5k,No,11,5,3,5
+RM836,35,26-35,No,Travel_Rarely,Human Resources,8,4,Technical Degree,1,1164,Male,Human Resources,3,Single,4323,Upto 5k,No,17,6,1,5
+RM841,35,26-35,No,Travel_Rarely,Research & Development,1,4,Medical,1,1172,Male,Laboratory Technician,3,Married,2258,Upto 5k,No,12,10,3,8
+RM847,35,26-35,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,1182,Male,Manufacturing Director,2,Divorced,10274,10k-15k,No,18,15,4,7
+RM849,35,26-35,No,Travel_Frequently,Research & Development,4,4,Other,1,1185,Male,Laboratory Technician,4,Married,2376,Upto 5k,No,13,2,4,2
+RM871,35,26-35,No,Travel_Rarely,Sales,17,4,Life Sciences,1,1218,Male,Sales Executive,1,Married,8966,5k-10k,Yes,15,15,3,7
+RM889,35,26-35,No,Non-Travel,Sales,8,2,Marketing,1,1243,Female,Sales Executive,4,Married,10377,10k-15k,Yes,11,16,2,13
+RM925,35,26-35,No,Travel_Rarely,Research & Development,6,1,Life Sciences,1,1291,Male,Research Scientist,3,Married,3506,Upto 5k,Yes,14,4,3,3
+RM962,35,26-35,No,Travel_Frequently,Research & Development,4,4,Life Sciences,1,1350,Male,Research Scientist,3,Single,4249,Upto 5k,Yes,11,9,3,9
+RM974,35,26-35,No,Travel_Rarely,Research & Development,1,3,Medical,1,1369,Female,Laboratory Technician,4,Married,5363,5k-10k,No,12,10,3,9
+RM982,35,26-35,Yes,Travel_Frequently,Sales,18,4,Marketing,1,1380,Female,Sales Executive,3,Married,4614,Upto 5k,Yes,18,5,2,4
+RM1003,35,26-35,No,Travel_Frequently,Research & Development,18,2,Life Sciences,1,1412,Male,Manufacturing Director,4,Single,9362,5k-10k,No,11,10,3,2
+RM1060,35,26-35,No,Travel_Rarely,Sales,7,1,Life Sciences,1,1492,Male,Sales Representative,3,Married,2404,Upto 5k,No,13,1,3,1
+RM1082,35,26-35,No,Travel_Rarely,Research & Development,16,3,Life Sciences,1,1529,Female,Healthcare Representative,2,Single,8606,5k-10k,No,19,11,1,11
+RM1101,35,26-35,No,Travel_Rarely,Sales,28,4,Life Sciences,1,1554,Female,Sales Representative,3,Married,2430,Upto 5k,No,23,6,3,5
+RM1109,35,26-35,No,Travel_Rarely,Research & Development,1,3,Medical,1,1564,Male,Laboratory Technician,1,Single,2450,Upto 5k,No,19,3,3,3
+RM1111,35,26-35,Yes,Travel_Rarely,Research & Development,2,3,Life Sciences,1,1569,Female,Laboratory Technician,1,Divorced,2074,Upto 5k,Yes,12,1,3,1
+RM1124,35,26-35,No,Travel_Rarely,Research & Development,10,4,Medical,1,1587,Female,Healthcare Representative,3,Single,6142,5k-10k,Yes,16,10,3,5
+RM1131,35,26-35,No,Travel_Rarely,Research & Development,28,3,Life Sciences,1,1596,Male,Laboratory Technician,3,Married,3407,Upto 5k,No,17,10,2,10
+RM1135,35,26-35,No,Travel_Rarely,Research & Development,7,2,Life Sciences,1,1601,Male,Laboratory Technician,4,Married,2690,Upto 5k,No,18,1,2,1
+RM1151,35,26-35,No,Travel_Rarely,Research & Development,18,5,Life Sciences,1,1621,Male,Research Scientist,1,Married,5208,5k-10k,No,11,16,3,16
+RM1158,35,26-35,No,Non-Travel,Research & Development,8,4,Life Sciences,1,1630,Female,Healthcare Representative,3,Married,4148,Upto 5k,No,12,15,3,14
+RM1163,35,26-35,Yes,Travel_Rarely,Sales,10,3,Medical,1,1639,Male,Sales Executive,1,Married,10306,10k-15k,No,17,15,3,13
+RM1168,35,26-35,Yes,Travel_Rarely,Sales,15,2,Medical,1,1645,Male,Sales Executive,4,Divorced,5440,5k-10k,Yes,14,7,2,2
+RM1187,35,26-35,Yes,Travel_Frequently,Sales,12,4,Other,1,1667,Male,Sales Executive,4,Single,4581,Upto 5k,Yes,24,13,4,11
+RM1216,35,26-35,No,Travel_Frequently,Research & Development,2,4,Medical,1,1704,Male,Research Scientist,4,Single,4930,Upto 5k,Yes,14,6,4,5
+RM1233,35,26-35,No,Travel_Rarely,Research & Development,27,4,Life Sciences,1,1728,Male,Manufacturing Director,3,Married,6883,5k-10k,No,16,17,3,7
+RM1282,35,26-35,Yes,Travel_Rarely,Sales,27,3,Life Sciences,1,1797,Male,Sales Executive,4,Single,5813,5k-10k,Yes,18,10,3,10
+RM1289,35,26-35,No,Non-Travel,Research & Development,2,2,Medical,1,1804,Male,Manufacturing Director,4,Divorced,5762,5k-10k,No,14,15,3,7
+RM1303,35,26-35,No,Travel_Rarely,Research & Development,23,4,Medical,1,1826,Male,Laboratory Technician,3,Married,2705,Upto 5k,No,16,6,4,5
+RM1346,35,26-35,No,Travel_Rarely,Research & Development,16,2,Other,1,1886,Female,Manufacturing Director,2,Married,4788,Upto 5k,Yes,11,4,3,3
+RM1381,35,26-35,No,Travel_Rarely,Sales,18,4,Medical,1,1945,Male,Sales Executive,1,Married,5561,5k-10k,No,16,6,1,5
+RM1393,35,26-35,No,Travel_Rarely,Sales,7,4,Life Sciences,1,1962,Female,Sales Executive,4,Married,5204,5k-10k,Yes,11,10,3,10
+RM1423,35,26-35,No,TravelRarely,Research & Development,11,4,Medical,1,2003,Male,Laboratory Technician,3,Married,2660,Upto 5k,Yes,11,5,3,2
+RM1425,35,26-35,No,Travel_Rarely,Research & Development,9,4,Medical,1,2008,Male,Research Scientist,3,Single,5098,5k-10k,No,19,10,3,10
+RM1451,35,26-35,No,Travel_Rarely,Human Resources,26,4,Life Sciences,1,2040,Female,Human Resources,4,Single,8837,5k-10k,Yes,16,9,3,9
+RM1457,35,26-35,No,Travel_Frequently,Research & Development,18,4,Life Sciences,1,2049,Male,Healthcare Representative,3,Married,5689,5k-10k,Yes,14,10,4,10
+RM1459,35,26-35,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,2052,Female,Research Scientist,4,Married,2977,Upto 5k,No,12,4,3,4
+RM010,36,36-45,No,Travel_Rarely,Research & Development,27,3,Medical,1,13,Male,Healthcare Representative,3,Married,5237,5k-10k,No,13,17,2,7
+RM022,36,36-45,Yes,Travel_Rarely,Sales,9,4,Life Sciences,1,27,Male,Sales Representative,1,Single,3407,Upto 5k,No,23,10,3,5
+RM039,36,36-45,No,Travel_Rarely,Research & Development,5,4,Life Sciences,1,51,Female,Research Scientist,1,Married,3419,Upto 5k,Yes,14,6,4,1
+RM065,36,36-45,No,Travel_Rarely,Research & Development,8,3,Technical Degree,1,83,Female,Healthcare Representative,3,Divorced,10096,10k-15k,No,13,17,3,17
+RM067,36,36-45,No,Travel_Frequently,Research & Development,11,3,Life Sciences,1,85,Male,Manufacturing Director,2,Single,6499,5k-10k,No,13,6,3,6
+RM070,36,36-45,Yes,Travel_Rarely,Research & Development,9,3,Medical,1,90,Male,Research Scientist,3,Married,3388,Upto 5k,Yes,17,2,2,1
+RM075,36,36-45,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,97,Female,Laboratory Technician,4,Married,3038,Upto 5k,No,12,5,3,1
+RM118,36,36-45,No,Travel_Frequently,Sales,11,2,Technical Degree,1,154,Female,Sales Executive,4,Married,9738,5k-10k,No,14,10,3,9
+RM119,36,36-45,No,Travel_Rarely,Research & Development,3,2,Life Sciences,1,155,Female,Laboratory Technician,4,Divorced,2835,Upto 5k,No,22,7,3,1
+RM136,36,36-45,No,Travel_Rarely,Research & Development,6,2,Medical,1,178,Male,Manufacturing Director,2,Divorced,4941,Upto 5k,No,20,7,3,3
+RM173,36,36-45,No,Travel_Frequently,Research & Development,3,2,Medical,1,238,Male,Laboratory Technician,2,Single,2088,Upto 5k,No,12,13,2,8
+RM208,36,36-45,No,Travel_Frequently,Research & Development,18,1,Medical,1,286,Female,Laboratory Technician,4,Single,2153,Upto 5k,No,13,8,3,8
+RM221,36,36-45,No,Travel_Rarely,Research & Development,5,2,Life Sciences,1,304,Male,Laboratory Technician,2,Single,5914,5k-10k,No,16,16,4,13
+RM270,36,36-45,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,373,Male,Laboratory Technician,4,Married,3210,Upto 5k,No,11,16,3,15
+RM292,36,36-45,No,Travel_Rarely,Research & Development,3,3,Technical Degree,1,397,Male,Research Scientist,2,Single,4485,Upto 5k,No,12,10,3,8
+RM299,36,36-45,No,Travel_Frequently,Research & Development,18,4,Life Sciences,1,407,Male,Laboratory Technician,4,Married,3688,Upto 5k,No,18,4,3,1
+RM306,36,36-45,No,Non-Travel,Research & Development,24,4,Life Sciences,1,419,Female,Laboratory Technician,2,Married,5674,5k-10k,No,15,11,3,9
+RM359,36,36-45,No,Non-Travel,Sales,1,5,Medical,1,479,Female,Sales Executive,4,Single,6653,5k-10k,No,15,7,3,1
+RM360,36,36-45,No,Travel_Frequently,Sales,3,4,Medical,1,481,Male,Sales Executive,4,Married,9699,5k-10k,No,11,16,3,13
+RM378,36,36-45,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,501,Female,Research Scientist,3,Married,2543,Upto 5k,No,13,6,3,2
+RM385,36,36-45,No,Travel_Rarely,Sales,2,2,Medical,1,513,Male,Sales Executive,3,Married,7596,5k-10k,No,13,10,3,10
+RM443,36,36-45,No,Non-Travel,Sales,10,4,Medical,1,592,Male,Sales Executive,4,Single,9980,5k-10k,No,14,10,2,10
+RM512,36,36-45,No,Travel_Rarely,Research & Development,9,2,Medical,1,699,Male,Manufacturing Director,2,Divorced,8847,5k-10k,Yes,11,13,3,3
+RM542,36,36-45,No,Non-Travel,Research & Development,8,3,Life Sciences,1,742,Female,Research Director,1,Married,11713,10k-15k,No,14,10,3,8
+RM570,36,36-45,No,Non-Travel,Sales,8,4,Life Sciences,1,789,Male,Sales Executive,1,Single,7587,5k-10k,No,15,10,3,10
+RM594,36,36-45,No,Travel_Rarely,Research & Development,1,3,Other,1,823,Female,Manufacturing Director,2,Married,5228,5k-10k,No,15,10,3,9
+RM600,36,36-45,No,Travel_Rarely,Human Resources,13,3,Human Resources,1,829,Male,Human Resources,2,Married,2143,Upto 5k,No,13,8,3,5
+RM622,36,36-45,No,Travel_Rarely,Sales,1,2,Life Sciences,1,857,Male,Sales Executive,4,Married,6201,5k-10k,Yes,14,18,2,18
+RM634,36,36-45,No,Travel_Rarely,Human Resources,8,3,Life Sciences,1,878,Male,Human Resources,1,Married,2342,Upto 5k,No,21,6,3,5
+RM665,36,36-45,No,Travel_Rarely,Research & Development,14,1,Life Sciences,1,924,Male,Healthcare Representative,4,Married,6586,5k-10k,Yes,17,17,2,16
+RM681,36,36-45,No,Travel_Rarely,Research & Development,7,4,Other,1,949,Male,Research Scientist,4,Single,4678,Upto 5k,No,18,8,3,6
+RM688,36,36-45,No,Travel_Rarely,Research & Development,2,4,Medical,1,958,Male,Laboratory Technician,3,Single,2519,Upto 5k,No,21,16,3,11
+RM694,36,36-45,Yes,Travel_Rarely,Sales,3,1,Life Sciences,1,967,Male,Sales Executive,4,Married,10325,10k-15k,Yes,11,16,3,16
+RM709,36,36-45,No,Non-Travel,Sales,8,4,Technical Degree,1,990,Male,Sales Executive,4,Divorced,5079,5k-10k,No,13,12,3,7
+RM753,36,36-45,Yes,Travel_Rarely,Research & Development,16,4,Life Sciences,1,1042,Female,Laboratory Technician,1,Single,2743,Upto 5k,No,16,18,3,17
+RM762,36,36-45,Yes,Travel_Rarely,Research & Development,15,3,Other,1,1052,Male,Laboratory Technician,3,Divorced,4834,Upto 5k,No,14,9,2,1
+RM774,36,36-45,No,Travel_Rarely,Research & Development,12,5,Medical,1,1073,Female,Manufacturing Director,4,Single,8858,5k-10k,No,11,15,2,14
+RM818,36,36-45,No,Non-Travel,Research & Development,18,4,Life Sciences,1,1133,Male,Manufacturing Director,4,Single,7779,5k-10k,No,20,18,3,11
+RM874,36,36-45,No,Travel_Rarely,Research & Development,6,4,Life Sciences,1,1221,Male,Laboratory Technician,3,Divorced,2741,Upto 5k,No,14,7,3,7
+RM883,36,36-45,No,Travel_Rarely,Research & Development,1,3,Technical Degree,1,1237,Female,Manufacturing Director,1,Divorced,10252,10k-15k,Yes,21,17,3,7
+RM901,36,36-45,No,Travel_Frequently,Research & Development,3,3,Technical Degree,1,1257,Male,Research Scientist,2,Married,3692,Upto 5k,No,12,12,2,11
+RM928,36,36-45,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,1294,Female,Manufacturing Director,2,Single,5410,5k-10k,Yes,11,18,3,16
+RM943,36,36-45,No,Travel_Rarely,Research & Development,10,4,Technical Degree,1,1312,Female,Healthcare Representative,3,Married,7094,5k-10k,No,12,10,3,7
+RM969,36,36-45,No,Travel_Frequently,Sales,7,3,Marketing,1,1362,Female,Sales Executive,1,Married,4639,Upto 5k,No,16,17,2,15
+RM1012,36,36-45,No,Travel_Rarely,Sales,3,4,Marketing,1,1425,Female,Sales Executive,2,Single,9278,5k-10k,Yes,16,15,3,5
+RM1019,36,36-45,No,Travel_Rarely,Research & Development,4,4,Life Sciences,1,1435,Male,Laboratory Technician,4,Single,5810,5k-10k,No,16,10,2,10
+RM1020,36,36-45,No,Travel_Rarely,Sales,16,4,Marketing,1,1436,Female,Sales Executive,1,Married,5647,5k-10k,No,13,11,2,3
+RM1103,36,36-45,No,Travel_Rarely,Sales,2,4,Life Sciences,1,1556,Male,Sales Representative,4,Single,2644,Upto 5k,Yes,21,7,2,3
+RM1122,36,36-45,No,Travel_Rarely,Sales,1,4,Life Sciences,1,1585,Female,Sales Executive,3,Single,6815,5k-10k,No,13,15,3,1
+RM1129,36,36-45,No,Travel_Frequently,Research & Development,6,4,Life Sciences,1,1594,Male,Laboratory Technician,1,Married,5562,5k-10k,Yes,13,9,3,3
+RM1146,36,36-45,No,Travel_Rarely,Research & Development,12,4,Life Sciences,1,1614,Female,Manufacturing Director,3,Married,4663,Upto 5k,Yes,12,7,3,3
+RM1174,36,36-45,No,Travel_Rarely,Research & Development,5,4,Life Sciences,1,1651,Female,Healthcare Representative,1,Married,8008,5k-10k,No,12,9,3,3
+RM1181,36,36-45,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,1659,Male,Laboratory Technician,2,Single,2013,Upto 5k,No,11,15,3,4
+RM1183,36,36-45,No,Non-Travel,Research & Development,1,4,Medical,1,1662,Female,Manufacturing Director,3,Married,4374,Upto 5k,No,15,4,3,3
+RM1184,36,36-45,No,Travel_Rarely,Research & Development,3,2,Life Sciences,1,1664,Male,Healthcare Representative,1,Divorced,6842,5k-10k,No,20,13,3,5
+RM1200,36,36-45,No,Travel_Rarely,Research & Development,26,4,Life Sciences,1,1682,Male,Healthcare Representative,3,Married,5347,5k-10k,No,14,10,2,3
+RM1221,36,36-45,No,Travel_Rarely,Sales,2,4,Life Sciences,1,1710,Female,Sales Representative,4,Single,4502,Upto 5k,No,15,17,2,13
+RM1237,36,36-45,Yes,Travel_Rarely,Sales,13,5,Marketing,1,1733,Male,Sales Executive,1,Divorced,6134,5k-10k,Yes,13,16,3,2
+RM1279,36,36-45,No,Travel_Rarely,Research & Development,10,3,Life Sciences,1,1790,Male,Healthcare Representative,1,Married,8321,5k-10k,Yes,13,15,3,12
+RM1316,36,36-45,No,Travel_Rarely,Research & Development,2,4,Other,1,1847,Female,Research Scientist,2,Married,6962,5k-10k,Yes,22,15,3,1
+RM1341,36,36-45,No,Travel_Rarely,Sales,10,4,Technical Degree,1,1880,Female,Sales Executive,3,Married,5673,5k-10k,Yes,13,10,3,10
+RM1348,36,36-45,No,Travel_Frequently,Human Resources,2,1,Human Resources,1,1890,Male,Human Resources,4,Single,3886,Upto 5k,No,21,10,2,10
+RM1356,36,36-45,No,Travel_Rarely,Sales,17,2,Marketing,1,1908,Male,Sales Executive,2,Married,5507,5k-10k,No,16,12,1,4
+RM1384,36,36-45,No,Non-Travel,Research & Development,9,4,Life Sciences,1,1949,Male,Laboratory Technician,2,Married,2810,Upto 5k,No,22,5,3,5
+RM1440,36,36-45,No,Travel_Rarely,Sales,3,3,Medical,1,2024,Female,Sales Executive,4,Married,7644,5k-10k,No,19,10,3,9
+RM1441,36,36-45,No,Travel_Frequently,Research & Development,4,2,Life Sciences,1,2025,Female,Manufacturing Director,2,Divorced,5131,5k-10k,No,13,18,3,4
+RM1448,36,36-45,No,Non-Travel,Sales,15,4,Marketing,1,2036,Male,Sales Executive,4,Divorced,5406,5k-10k,No,24,15,2,15
+RM1454,36,36-45,No,Travel_Rarely,Sales,11,4,Marketing,1,2045,Female,Sales Executive,4,Married,6652,5k-10k,No,13,8,2,6
+RM1466,36,36-45,No,Travel_Frequently,Research & Development,23,2,Medical,1,2061,Male,Laboratory Technician,4,Married,2571,Upto 5k,No,17,17,3,5
+RM1466,36,36-45,No,Travel_Frequently,Research & Development,23,2,Medical,1,2061,Male,Laboratory Technician,4,Married,2571,Upto 5k,No,17,17,3,5
+RM003,37,36-45,Yes,Travel_Rarely,Research & Development,2,2,Other,1,4,Male,Laboratory Technician,3,Single,2090,Upto 5k,Yes,15,7,3,0
+RM048,37,36-45,No,Travel_Rarely,Research & Development,19,2,Life Sciences,1,61,Male,Research Scientist,2,Married,3022,Upto 5k,No,21,8,3,1
+RM060,37,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,77,Male,Manufacturing Director,3,Divorced,5993,5k-10k,No,18,7,4,7
+RM079,37,36-45,No,Travel_Rarely,Research & Development,7,4,Medical,1,102,Male,Research Director,3,Single,13664,10k-15k,No,13,16,4,5
+RM101,37,36-45,Yes,Travel_Rarely,Human Resources,6,4,Human Resources,1,133,Male,Human Resources,1,Divorced,2073,Upto 5k,Yes,22,7,3,3
+RM105,37,36-45,No,Non-Travel,Research & Development,2,2,Life Sciences,1,139,Male,Healthcare Representative,4,Divorced,5163,5k-10k,No,14,17,4,1
+RM116,37,36-45,No,Travel_Rarely,Sales,3,3,Life Sciences,1,152,Male,Sales Executive,4,Single,7428,5k-10k,No,12,12,3,5
+RM196,37,36-45,No,Travel_Rarely,Research & Development,21,3,Life Sciences,1,267,Male,Research Scientist,1,Married,3564,Upto 5k,Yes,12,8,2,8
+RM223,37,36-45,No,Travel_Frequently,Research & Development,11,3,Other,1,306,Male,Research Director,4,Divorced,12185,10k-15k,Yes,14,10,3,10
+RM227,37,36-45,No,Travel_Frequently,Sales,4,4,Marketing,1,311,Male,Sales Representative,4,Divorced,2793,Upto 5k,No,17,13,3,9
+RM249,37,36-45,No,Travel_Rarely,Research & Development,1,2,Medical,1,340,Female,Research Scientist,1,Married,3920,Upto 5k,No,14,17,2,3
+RM251,37,36-45,Yes,Travel_Frequently,Research & Development,10,3,Medical,1,342,Male,Manufacturing Director,3,Divorced,10048,10k-15k,No,11,17,3,1
+RM274,37,36-45,No,Travel_Rarely,Sales,6,4,Medical,1,378,Male,Sales Executive,4,Married,6502,5k-10k,No,14,7,4,5
+RM276,37,36-45,No,Non-Travel,Research & Development,1,4,Medical,1,380,Female,Research Director,4,Divorced,13603,10k-15k,Yes,18,15,3,5
+RM286,37,36-45,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,391,Female,Research Scientist,4,Single,2115,Upto 5k,No,12,17,3,17
+RM295,37,36-45,No,Travel_Frequently,Research & Development,9,3,Medical,1,403,Male,Research Scientist,4,Married,2326,Upto 5k,Yes,12,4,2,4
+RM341,37,36-45,No,Travel_Rarely,Research & Development,5,2,Medical,1,460,Male,Manufacturing Director,4,Divorced,6347,5k-10k,No,16,8,2,6
+RM354,37,36-45,No,Travel_Rarely,Research & Development,6,3,Medical,1,474,Male,Research Scientist,1,Divorced,5974,5k-10k,Yes,13,13,3,7
+RM365,37,36-45,No,Travel_Rarely,Research & Development,10,3,Medical,1,486,Female,Laboratory Technician,1,Married,3452,Upto 5k,No,20,17,3,5
+RM387,37,36-45,No,Travel_Rarely,Research & Development,14,3,Life Sciences,1,515,Female,Laboratory Technician,1,Divorced,3034,Upto 5k,No,12,18,2,18
+RM390,37,36-45,No,Travel_Rarely,Research & Development,10,4,Life Sciences,1,518,Male,Manufacturing Director,2,Single,4197,Upto 5k,Yes,12,18,2,1
+RM399,37,36-45,No,Non-Travel,Research & Development,25,5,Medical,1,529,Female,Research Scientist,3,Married,4449,Upto 5k,Yes,15,15,3,13
+RM465,37,36-45,No,Travel_Rarely,Research & Development,1,3,Technical Degree,1,623,Female,Manufacturing Director,4,Single,7491,5k-10k,No,17,12,4,6
+RM468,37,36-45,No,Non-Travel,Sales,9,4,Medical,1,626,Male,Sales Executive,2,Divorced,8834,5k-10k,No,13,9,3,9
+RM473,37,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,635,Female,Manufacturing Director,2,Married,6447,5k-10k,No,12,8,2,6
+RM487,37,36-45,No,Travel_Rarely,Sales,2,3,Marketing,1,656,Male,Sales Executive,3,Married,9602,5k-10k,Yes,11,17,2,3
+RM507,37,36-45,No,Travel_Rarely,Research & Development,3,3,Other,1,689,Male,Manufacturing Director,3,Married,9434,5k-10k,No,15,10,3,10
+RM523,37,36-45,No,Travel_Rarely,Research & Development,10,2,Life Sciences,1,715,Male,Research Scientist,4,Single,4680,Upto 5k,No,17,4,3,1
+RM578,37,36-45,No,Travel_Rarely,Research & Development,10,1,Life Sciences,1,802,Female,Research Scientist,1,Divorced,2782,Upto 5k,Yes,13,6,2,5
+RM629,37,36-45,No,Travel_Rarely,Sales,16,4,Marketing,1,868,Male,Sales Executive,3,Divorced,6334,5k-10k,No,19,9,3,1
+RM649,37,36-45,No,Travel_Frequently,Sales,21,2,Medical,1,900,Female,Sales Representative,4,Married,2973,Upto 5k,No,15,10,3,5
+RM653,37,36-45,No,Non-Travel,Sales,19,2,Medical,1,904,Male,Sales Executive,2,Single,7642,5k-10k,Yes,13,10,3,10
+RM696,37,36-45,Yes,Travel_Rarely,Sales,1,4,Life Sciences,1,970,Male,Sales Executive,3,Married,10609,10k-15k,No,11,17,1,14
+RM745,37,36-45,Yes,Travel_Rarely,Research & Development,11,2,Medical,1,1033,Female,Healthcare Representative,2,Married,4777,Upto 5k,No,15,15,1,1
+RM768,37,36-45,No,Travel_Rarely,Research & Development,3,3,Other,1,1062,Female,Healthcare Representative,2,Single,4107,Upto 5k,No,15,8,2,4
+RM796,37,36-45,No,Travel_Rarely,Sales,10,4,Life Sciences,1,1105,Female,Sales Executive,4,Divorced,6694,5k-10k,Yes,14,8,3,1
+RM833,37,36-45,No,Travel_Rarely,Research & Development,25,2,Medical,1,1161,Female,Healthcare Representative,4,Divorced,5731,5k-10k,No,13,9,3,6
+RM856,37,36-45,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1196,Female,Manufacturing Director,4,Married,6474,5k-10k,No,13,14,2,14
+RM990,37,36-45,No,Travel_Rarely,Research & Development,4,1,Life Sciences,1,1394,Male,Research Scientist,3,Married,2996,Upto 5k,Yes,15,8,3,6
+RM1002,37,36-45,No,Travel_Rarely,Research & Development,11,3,Medical,1,1411,Female,Laboratory Technician,3,Single,3629,Upto 5k,No,18,8,3,3
+RM1023,37,36-45,No,Non-Travel,Research & Development,5,2,Technical Degree,1,1440,Male,Laboratory Technician,3,Single,3500,Upto 5k,No,14,7,1,6
+RM1090,37,36-45,No,Travel_Rarely,Research & Development,13,3,Medical,1,1543,Male,Research Scientist,4,Married,4285,Upto 5k,No,17,10,3,10
+RM1159,37,36-45,No,Travel_Rarely,Research & Development,19,3,Life Sciences,1,1631,Male,Manufacturing Director,3,Married,5768,5k-10k,No,17,9,2,4
+RM1164,37,36-45,No,Travel_Rarely,Research & Development,10,3,Medical,1,1640,Female,Research Scientist,2,Married,3936,Upto 5k,No,11,8,1,8
+RM1212,37,36-45,No,Travel_Frequently,Sales,1,4,Medical,1,1700,Male,Sales Executive,4,Divorced,9525,5k-10k,No,14,6,2,6
+RM1277,37,36-45,No,Travel_Rarely,Sales,9,2,Marketing,1,1787,Male,Sales Executive,2,Married,4189,Upto 5k,No,14,5,3,5
+RM1281,37,36-45,No,Travel_Rarely,Human Resources,8,2,Other,1,1794,Male,Human Resources,2,Divorced,4071,Upto 5k,No,13,19,2,10
+RM1292,37,36-45,Yes,Travel_Rarely,Research & Development,10,4,Medical,1,1809,Male,Manufacturing Director,1,Single,4213,Upto 5k,No,15,10,1,10
+RM1345,37,36-45,No,Travel_Rarely,Research & Development,7,4,Medical,1,1885,Male,Research Scientist,1,Married,4284,Upto 5k,Yes,22,16,3,5
+RM1433,37,36-45,No,Travel_Rarely,Research & Development,10,3,Life Sciences,1,2017,Female,Research Director,4,Married,13744,10k-15k,Yes,25,16,3,16
+RM009,38,36-45,No,Travel_Frequently,Research & Development,23,3,Life Sciences,1,12,Male,Manufacturing Director,3,Single,9526,5k-10k,No,21,10,3,9
+RM020,38,36-45,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,24,Male,Research Scientist,4,Single,3944,Upto 5k,Yes,11,6,3,3
+RM062,38,36-45,No,Travel_Frequently,Research & Development,29,5,Life Sciences,1,79,Female,Laboratory Technician,4,Single,2406,Upto 5k,No,11,10,3,10
+RM084,38,36-45,No,Non-Travel,Research & Development,6,3,Medical,1,107,Female,Research Scientist,4,Divorced,5329,5k-10k,Yes,12,17,3,13
+RM143,38,36-45,No,Travel_Rarely,Research & Development,3,5,Technical Degree,1,193,Female,Research Scientist,3,Single,4317,Upto 5k,Yes,20,19,3,3
+RM169,38,36-45,No,Travel_Rarely,Sales,1,4,Life Sciences,1,230,Female,Sales Executive,4,Single,8686,5k-10k,No,22,12,4,8
+RM180,38,36-45,No,Travel_Rarely,Research & Development,9,2,Life Sciences,1,245,Female,Laboratory Technician,4,Single,2288,Upto 5k,No,12,2,3,2
+RM199,38,36-45,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,271,Male,Manufacturing Director,3,Married,6553,5k-10k,No,14,14,3,1
+RM200,38,36-45,No,Travel_Rarely,Research & Development,29,3,Technical Degree,1,273,Male,Manufacturing Director,4,Married,6261,5k-10k,No,18,9,1,7
+RM205,38,36-45,Yes,Travel_Rarely,Research & Development,29,1,Medical,1,282,Male,Healthcare Representative,1,Married,6673,5k-10k,Yes,19,17,3,1
+RM224,38,36-45,No,Travel_Rarely,Sales,3,3,Life Sciences,1,307,Male,Sales Executive,3,Divorced,10609,10k-15k,No,12,17,2,16
+RM262,38,36-45,No,Non-Travel,Sales,2,2,Life Sciences,1,361,Male,Sales Executive,4,Married,5249,5k-10k,No,18,13,3,8
+RM278,38,36-45,No,Travel_Rarely,Sales,7,2,Medical,1,382,Female,Sales Executive,1,Divorced,5605,5k-10k,Yes,24,8,3,8
+RM288,38,36-45,No,Travel_Rarely,Research & Development,23,4,Life Sciences,1,393,Male,Healthcare Representative,4,Divorced,5745,5k-10k,No,14,10,3,2
+RM308,38,36-45,No,Travel_Rarely,Research & Development,25,2,Life Sciences,1,421,Female,Research Director,2,Married,12061,10k-15k,No,17,19,3,10
+RM342,38,36-45,No,Travel_Rarely,Research & Development,15,2,Life Sciences,1,461,Male,Research Director,4,Divorced,11510,10k-15k,Yes,14,12,3,11
+RM417,38,36-45,No,Travel_Frequently,Research & Development,2,2,Life Sciences,1,556,Male,Laboratory Technician,4,Married,1702,Upto 5k,Yes,23,1,3,1
+RM472,38,36-45,No,Travel_Rarely,Research & Development,10,3,Medical,1,634,Female,Healthcare Representative,3,Married,9824,5k-10k,No,19,18,3,1
+RM491,38,36-45,No,Travel_Rarely,Research & Development,1,1,Life Sciences,1,662,Female,Research Scientist,1,Single,2619,Upto 5k,No,17,8,2,0
+RM519,38,36-45,No,Travel_Rarely,Sales,7,4,Marketing,1,709,Female,Sales Executive,4,Single,4028,Upto 5k,No,20,8,3,7
+RM530,38,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,724,Female,Healthcare Representative,4,Single,7625,5k-10k,No,13,10,2,9
+RM543,38,36-45,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,743,Female,Manufacturing Director,3,Single,7861,5k-10k,Yes,14,10,4,1
+RM560,38,36-45,No,Travel_Rarely,Research & Development,2,5,Medical,1,773,Male,Research Scientist,3,Married,3057,Upto 5k,Yes,13,6,1,1
+RM579,38,36-45,No,Travel_Frequently,Research & Development,2,4,Life Sciences,1,803,Female,Manufacturing Director,1,Single,5980,5k-10k,Yes,12,17,3,15
+RM606,38,36-45,No,Travel_Frequently,Research & Development,12,3,Life Sciences,1,837,Male,Healthcare Representative,1,Divorced,6288,5k-10k,No,15,13,2,4
+RM643,38,36-45,No,Travel_Rarely,Sales,9,3,Marketing,1,893,Male,Sales Representative,2,Married,2899,Upto 5k,No,19,3,3,2
+RM682,38,36-45,No,Travel_Rarely,Research & Development,1,3,Technical Degree,1,950,Female,Research Director,1,Married,13582,10k-15k,No,13,15,3,15
+RM704,38,36-45,No,Non-Travel,Sales,10,3,Technical Degree,1,983,Female,Sales Executive,4,Single,5666,5k-10k,Yes,13,6,3,5
+RM723,38,36-45,No,Travel_Frequently,Research & Development,10,1,Medical,1,1006,Male,Research Scientist,3,Married,2684,Upto 5k,No,17,3,2,2
+RM748,38,36-45,No,Travel_Rarely,Sales,3,4,Life Sciences,1,1036,Male,Sales Executive,4,Single,6861,5k-10k,Yes,12,19,3,1
+RM766,38,36-45,No,Travel_Frequently,Research & Development,3,4,Other,1,1060,Male,Research Scientist,3,Married,2821,Upto 5k,No,16,8,3,2
+RM785,38,36-45,No,Travel_Rarely,Research & Development,17,1,Life Sciences,1,1088,Female,Healthcare Representative,3,Married,8823,5k-10k,No,18,20,2,19
+RM808,38,36-45,No,Travel_Rarely,Sales,10,4,Marketing,1,1119,Male,Sales Executive,3,Divorced,8740,5k-10k,Yes,14,9,3,8
+RM812,38,36-45,No,Travel_Rarely,Sales,2,2,Marketing,1,1125,Male,Sales Executive,2,Single,7351,5k-10k,No,16,10,3,1
+RM827,38,36-45,No,Travel_Rarely,Human Resources,1,3,Human Resources,1,1152,Male,Human Resources,3,Married,2844,Upto 5k,No,13,7,4,7
+RM964,38,36-45,No,Travel_Rarely,Sales,2,2,Life Sciences,1,1355,Female,Sales Executive,1,Divorced,6893,5k-10k,No,15,11,3,7
+RM983,38,36-45,No,Travel_Frequently,Research & Development,7,3,Life Sciences,1,1382,Male,Research Scientist,3,Divorced,2610,Upto 5k,No,11,4,3,4
+RM1108,38,36-45,No,Travel_Frequently,Human Resources,10,4,Human Resources,1,1563,Male,Human Resources,3,Married,6077,5k-10k,No,11,10,3,6
+RM1113,38,36-45,Yes,Travel_Rarely,Research & Development,2,3,Medical,1,1573,Male,Manufacturing Director,2,Married,4855,Upto 5k,No,11,7,3,5
+RM1120,38,36-45,No,Travel_Rarely,Sales,14,3,Life Sciences,1,1582,Male,Sales Executive,2,Married,9924,5k-10k,No,11,10,3,9
+RM1121,38,36-45,No,Travel_Rarely,Sales,16,3,Life Sciences,1,1583,Female,Sales Executive,2,Single,4198,Upto 5k,No,12,8,4,3
+RM1162,38,36-45,No,Travel_Rarely,Research & Development,2,2,Medical,1,1638,Female,Manufacturing Director,3,Married,7756,5k-10k,Yes,19,10,4,5
+RM1188,38,36-45,No,Travel_Frequently,Research & Development,1,3,Life Sciences,1,1668,Male,Research Scientist,4,Married,4735,Upto 5k,No,15,19,4,13
+RM1194,38,36-45,No,Travel_Frequently,Research & Development,2,3,Medical,1,1675,Female,Laboratory Technician,2,Single,2440,Upto 5k,No,22,4,3,4
+RM1203,38,36-45,No,Travel_Rarely,Research & Development,4,2,Medical,1,1687,Female,Laboratory Technician,3,Married,3306,Upto 5k,No,19,7,2,0
+RM1257,38,36-45,No,Travel_Frequently,Research & Development,2,2,Medical,1,1760,Female,Laboratory Technician,2,Married,2468,Upto 5k,No,14,9,2,6
+RM1262,38,36-45,No,Travel_Rarely,Research & Development,18,3,Medical,1,1766,Male,Healthcare Representative,4,Married,5811,5k-10k,Yes,16,15,3,1
+RM1273,38,36-45,No,Travel_Rarely,Research & Development,6,2,Other,1,1782,Female,Laboratory Technician,3,Married,3702,Upto 5k,No,11,5,3,5
+RM1290,38,36-45,No,Non-Travel,Human Resources,2,3,Human Resources,1,1805,Male,Human Resources,2,Divorced,2592,Upto 5k,No,13,13,3,11
+RM1309,38,36-45,No,Travel_Rarely,Sales,2,4,Marketing,1,1835,Female,Sales Representative,4,Married,5405,5k-10k,Yes,20,20,2,4
+RM1374,38,36-45,No,Travel_Frequently,Research & Development,8,3,Medical,1,1937,Female,Research Scientist,2,Divorced,2133,Upto 5k,Yes,16,20,3,20
+RM1377,38,36-45,No,Travel_Rarely,Research & Development,9,2,Life Sciences,1,1940,Male,Research Scientist,4,Divorced,4771,Upto 5k,No,19,10,4,5
+RM1392,38,36-45,No,Travel_Rarely,Sales,1,3,Life Sciences,1,1961,Male,Sales Representative,1,Single,2858,Upto 5k,No,14,20,2,1
+RM1401,38,36-45,No,Travel_Frequently,Human Resources,1,4,Other,1,1972,Male,Human Resources,2,Married,2991,Upto 5k,Yes,11,7,3,6
+RM1417,38,36-45,No,Travel_Rarely,Sales,1,4,Life Sciences,1,1995,Male,Sales Executive,2,Married,4440,Upto 5k,No,15,16,3,15
+RM1419,38,36-45,No,Travel_Frequently,Research & Development,6,4,Life Sciences,1,1997,Male,Manufacturing Director,3,Married,5321,5k-10k,No,11,10,3,8
+RM1431,38,36-45,No,Travel_Rarely,Research & Development,10,3,Medical,1,2015,Female,Research Director,3,Married,13206,10k-15k,No,12,20,3,18
+RM1452,38,36-45,No,TravelRarely,Sales,10,2,Life Sciences,1,2041,Female,Sales Executive,4,Married,5343,5k-10k,No,11,10,3,10
+RM034,39,36-45,Yes,Travel_Rarely,Sales,5,3,Technical Degree,1,42,Male,Sales Representative,4,Married,2086,Upto 5k,No,14,19,4,1
+RM138,39,36-45,No,Travel_Rarely,Sales,4,4,Life Sciences,1,182,Female,Sales Executive,3,Married,5902,5k-10k,No,14,17,4,15
+RM241,39,36-45,No,Travel_Rarely,Research & Development,1,4,Medical,1,332,Female,Laboratory Technician,3,Divorced,2232,Upto 5k,No,14,7,3,3
+RM252,39,36-45,No,Travel_Frequently,Research & Development,2,4,Technical Degree,1,343,Female,Healthcare Representative,3,Single,10938,10k-15k,No,25,20,3,19
+RM305,39,36-45,No,Travel_Rarely,Research & Development,1,3,Medical,1,417,Male,Healthcare Representative,4,Divorced,9613,5k-10k,No,17,19,2,18
+RM315,39,36-45,No,Travel_Rarely,Research & Development,10,1,Medical,1,429,Male,Manager,1,Married,17068,15k+,Yes,14,21,3,21
+RM327,39,36-45,No,Travel_Frequently,Research & Development,7,2,Medical,1,444,Male,Manager,4,Married,19272,15k+,No,15,21,3,21
+RM328,39,36-45,Yes,Travel_Rarely,Sales,3,2,Medical,1,445,Female,Sales Executive,3,Married,5238,5k-10k,Yes,18,12,2,1
+RM401,39,36-45,No,Travel_Frequently,Research & Development,1,1,Life Sciences,1,531,Male,Manager,3,Divorced,19197,15k+,Yes,14,21,3,21
+RM450,39,36-45,No,Travel_Frequently,Research & Development,8,1,Life Sciences,1,602,Female,Laboratory Technician,3,Married,3755,Upto 5k,No,11,8,3,8
+RM527,39,36-45,No,Travel_Rarely,Research & Development,2,4,Technical Degree,1,721,Female,Healthcare Representative,3,Single,4553,Upto 5k,No,11,20,3,20
+RM552,39,36-45,No,Travel_Rarely,Human Resources,3,3,Human Resources,1,760,Female,Human Resources,2,Married,6389,5k-10k,No,15,12,1,8
+RM655,39,36-45,No,Travel_Rarely,Human Resources,2,3,Life Sciences,1,909,Female,Human Resources,4,Married,5204,5k-10k,No,11,13,3,5
+RM670,39,36-45,Yes,Travel_Rarely,Research & Development,6,3,Medical,1,932,Male,Laboratory Technician,1,Married,2404,Upto 5k,Yes,21,8,1,2
+RM706,39,36-45,No,Travel_Rarely,Sales,2,5,Life Sciences,1,985,Male,Sales Executive,3,Single,7880,5k-10k,No,18,9,3,8
+RM739,39,36-45,No,Travel_Rarely,Research & Development,1,1,Life Sciences,1,1026,Female,Manufacturing Director,4,Married,12742,10k-15k,No,16,21,3,21
+RM754,39,36-45,No,Travel_Frequently,Research & Development,22,3,Medical,1,1043,Female,Manufacturing Director,1,Single,10880,10k-15k,Yes,13,21,3,21
+RM814,39,36-45,Yes,Travel_Frequently,Research & Development,2,3,Life Sciences,1,1127,Male,Healthcare Representative,4,Divorced,12169,10k-15k,No,11,21,3,18
+RM817,39,36-45,No,Non-Travel,Research & Development,9,3,Life Sciences,1,1132,Male,Laboratory Technician,2,Single,6782,5k-10k,No,15,9,2,5
+RM938,39,36-45,No,Travel_Rarely,Research & Development,13,4,Medical,1,1307,Female,Manager,2,Divorced,17123,15k+,Yes,13,21,3,19
+RM941,39,36-45,Yes,Travel_Rarely,Research & Development,23,3,Medical,1,1310,Male,Research Scientist,1,Single,3904,Upto 5k,No,13,6,3,5
+RM950,39,36-45,No,Travel_Rarely,Research & Development,18,2,Life Sciences,1,1322,Male,Manufacturing Director,3,Single,4534,Upto 5k,No,11,9,3,8
+RM987,39,36-45,No,Travel_Rarely,Sales,21,4,Life Sciences,1,1390,Male,Sales Executive,4,Married,6120,5k-10k,Yes,12,8,4,5
+RM993,39,36-45,No,Non-Travel,Research & Development,25,2,Life Sciences,1,1397,Male,Healthcare Representative,3,Married,10920,10k-15k,No,21,13,3,6
+RM1033,39,36-45,Yes,Non-Travel,Research & Development,2,3,Life Sciences,1,1458,Female,Laboratory Technician,1,Single,3646,Upto 5k,Yes,23,11,4,1
+RM1080,39,36-45,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,1525,Female,Manufacturing Director,2,Single,8376,5k-10k,No,18,9,3,2
+RM1125,39,36-45,No,Travel_Rarely,Sales,6,3,Medical,1,1588,Male,Sales Executive,3,Married,8237,5k-10k,No,11,11,3,7
+RM1149,39,36-45,No,Travel_Rarely,Research & Development,10,5,Medical,1,1618,Male,Manufacturing Director,1,Married,5377,5k-10k,No,13,10,3,7
+RM1156,39,36-45,No,Travel_Rarely,Research & Development,3,2,Medical,1,1627,Male,Laboratory Technician,3,Divorced,3069,Upto 5k,No,15,11,3,10
+RM1160,39,36-45,No,Travel_Frequently,Research & Development,4,3,Medical,1,1633,Female,Manufacturing Director,3,Single,5042,5k-10k,No,13,10,1,9
+RM1176,39,36-45,No,Travel_Rarely,Research & Development,12,3,Medical,1,1654,Male,Manufacturing Director,2,Married,5295,5k-10k,No,21,7,3,5
+RM1241,39,36-45,No,Non-Travel,Research & Development,1,3,Life Sciences,1,1737,Male,Laboratory Technician,4,Married,6472,5k-10k,Yes,15,9,3,9
+RM1285,39,36-45,No,Travel_Rarely,Research & Development,10,1,Medical,1,1800,Male,Research Director,3,Single,13464,10k-15k,No,21,9,3,4
+RM1293,39,36-45,No,Travel_Frequently,Sales,20,3,Life Sciences,1,1812,Male,Sales Executive,4,Divorced,4127,Upto 5k,No,18,7,3,2
+RM1336,39,36-45,No,Travel_Rarely,Research & Development,19,4,Other,1,1871,Male,Research Scientist,4,Divorced,3902,Upto 5k,No,14,7,3,2
+RM1367,39,36-45,No,Non-Travel,Sales,21,4,Life Sciences,1,1929,Female,Sales Executive,3,Married,5736,5k-10k,No,19,10,3,3
+RM1373,39,36-45,No,Travel_Rarely,Research & Development,9,2,Medical,1,1936,Male,Manufacturing Director,1,Married,5151,5k-10k,No,25,10,3,10
+RM1404,39,36-45,No,Travel_Rarely,Sales,15,4,Marketing,1,1975,Male,Sales Executive,1,Single,13341,10k-15k,No,12,21,3,20
+RM1430,39,36-45,No,Travel_Rarely,Research & Development,24,1,Life Sciences,1,2014,Male,Research Scientist,4,Single,4108,Upto 5k,No,13,18,3,7
+RM1438,39,36-45,No,Non-Travel,Research & Development,9,3,Life Sciences,1,2022,Male,Manager,4,Single,19431,15k+,No,13,21,2,6
+RM1463,39,36-45,No,Travel_Rarely,Sales,24,1,Marketing,1,2056,Female,Sales Executive,4,Married,12031,10k-15k,No,11,21,2,20
+RM1467,39,36-45,No,Travel_Rarely,Research & Development,6,1,Medical,1,2062,Male,Healthcare Representative,1,Married,9991,5k-10k,No,15,9,3,7
+RM1463,39,36-45,No,Travel_Rarely,Sales,24,1,Marketing,1,2056,Female,Sales Executive,4,Married,12031,10k-15k,No,11,21,2,20
+RM1467,39,36-45,No,Travel_Rarely,Research & Development,6,1,Medical,1,2062,Male,Healthcare Representative,1,Married,9991,5k-10k,No,15,9,3,7
+RM091,40,36-45,No,Travel_Frequently,Research & Development,1,4,Life Sciences,1,119,Male,Healthcare Representative,2,Married,13503,10k-15k,No,22,22,2,22
+RM151,40,36-45,No,Travel_Frequently,Research & Development,26,3,Medical,1,202,Female,Research Scientist,2,Divorced,5605,5k-10k,No,11,20,3,20
+RM159,40,36-45,No,Travel_Rarely,Sales,4,4,Marketing,1,215,Male,Sales Executive,4,Married,10855,10k-15k,No,11,15,2,12
+RM187,40,36-45,No,Travel_Rarely,Research & Development,4,1,Medical,1,253,Female,Manager,3,Married,19033,15k+,No,14,21,3,20
+RM204,40,36-45,No,Travel_Rarely,Research & Development,19,2,Medical,1,281,Male,Laboratory Technician,4,Married,2741,Upto 5k,Yes,15,15,4,7
+RM209,40,36-45,No,Non-Travel,Research & Development,9,5,Life Sciences,1,287,Male,Healthcare Representative,4,Married,4876,Upto 5k,No,14,5,1,3
+RM244,40,36-45,No,Travel_Rarely,Research & Development,24,2,Technical Degree,1,335,Male,Research Scientist,4,Divorced,3319,Upto 5k,No,17,9,3,9
+RM258,40,36-45,No,Travel_Rarely,Research & Development,2,2,Medical,1,352,Male,Research Director,3,Divorced,19436,15k+,No,19,22,3,21
+RM336,40,36-45,No,Travel_Rarely,Sales,1,2,Medical,1,453,Male,Sales Executive,4,Married,7457,5k-10k,Yes,22,6,2,4
+RM362,40,36-45,No,Travel_Rarely,Research & Development,10,4,Life Sciences,1,483,Female,Laboratory Technician,3,Married,2213,Upto 5k,Yes,13,10,3,7
+RM369,40,36-45,Yes,Travel_Rarely,Sales,22,2,Marketing,1,492,Male,Sales Executive,3,Married,6380,5k-10k,Yes,12,8,3,6
+RM388,40,36-45,No,Travel_Rarely,Sales,2,2,Marketing,1,516,Female,Sales Executive,2,Divorced,5715,5k-10k,No,12,8,3,5
+RM392,40,36-45,No,Travel_Rarely,Research & Development,2,3,Medical,1,521,Female,Laboratory Technician,3,Married,3448,Upto 5k,No,22,20,3,1
+RM418,40,36-45,No,Travel_Rarely,Sales,2,4,Life Sciences,1,558,Female,Manager,3,Married,18041,15k+,No,14,21,3,20
+RM449,40,36-45,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,601,Female,Manufacturing Director,3,Single,13237,10k-15k,No,15,22,3,20
+RM459,40,36-45,No,Non-Travel,Sales,28,3,Other,1,615,Male,Sales Executive,1,Divorced,10932,10k-15k,No,15,20,3,1
+RM534,40,36-45,No,Travel_Frequently,Sales,5,4,Life Sciences,1,729,Male,Sales Executive,1,Married,10475,10k-15k,Yes,21,20,3,18
+RM554,40,36-45,No,Travel_Rarely,Research & Development,2,1,Medical,1,763,Female,Research Scientist,4,Single,2342,Upto 5k,Yes,20,5,2,4
+RM583,40,36-45,No,Travel_Frequently,Research & Development,2,2,Medical,1,807,Female,Healthcare Representative,2,Married,4244,Upto 5k,No,24,8,3,8
+RM602,40,36-45,No,Travel_Frequently,Research & Development,16,4,Medical,1,832,Male,Laboratory Technician,3,Single,5094,5k-10k,No,14,10,3,1
+RM685,40,36-45,No,Travel_Rarely,Sales,10,4,Marketing,1,954,Male,Sales Executive,2,Divorced,9705,5k-10k,No,12,11,2,1
+RM692,40,36-45,No,Travel_Frequently,Research & Development,9,4,Medical,1,964,Male,Research Scientist,2,Divorced,3617,Upto 5k,Yes,14,3,3,1
+RM707,40,36-45,Yes,Non-Travel,Sales,24,3,Life Sciences,1,986,Female,Sales Executive,2,Single,13194,10k-15k,Yes,16,22,2,1
+RM769,40,36-45,No,Travel_Rarely,Sales,26,3,Marketing,1,1066,Male,Sales Executive,1,Married,8396,5k-10k,No,14,8,2,7
+RM786,40,36-45,No,Travel_Rarely,Research & Development,20,4,Technical Degree,1,1092,Male,Healthcare Representative,4,Married,10322,10k-15k,No,20,14,3,11
+RM815,40,36-45,No,Travel_Rarely,Research & Development,14,3,Medical,1,1128,Male,Research Director,3,Single,19626,15k+,No,14,21,4,20
+RM838,40,36-45,No,Travel_Frequently,Research & Development,9,4,Medical,1,1166,Female,Research Director,3,Single,13499,10k-15k,No,17,20,2,18
+RM846,40,36-45,No,Travel_Frequently,Research & Development,26,2,Medical,1,1180,Female,Research Scientist,4,Married,4422,Upto 5k,Yes,13,16,1,1
+RM867,40,36-45,No,Travel_Frequently,Sales,2,4,Medical,1,1212,Male,Sales Executive,2,Married,4327,Upto 5k,No,12,5,3,0
+RM885,40,36-45,No,Travel_Rarely,Sales,10,3,Technical Degree,1,1239,Female,Sales Executive,2,Divorced,6852,5k-10k,No,12,7,4,5
+RM947,40,36-45,Yes,Travel_Rarely,Sales,25,4,Marketing,1,1318,Male,Sales Executive,2,Single,9094,5k-10k,Yes,12,9,3,5
+RM958,40,36-45,No,Non-Travel,Research & Development,16,2,Life Sciences,1,1340,Male,Research Scientist,3,Divorced,3544,Upto 5k,No,16,6,3,4
+RM960,40,36-45,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,1346,Male,Research Scientist,4,Single,4661,Upto 5k,No,13,9,3,9
+RM968,40,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,1361,Male,Laboratory Technician,2,Married,2387,Upto 5k,No,22,7,3,4
+RM979,40,36-45,No,Travel_Rarely,Research & Development,2,1,Medical,1,1375,Female,Healthcare Representative,3,Divorced,6377,5k-10k,No,20,15,3,12
+RM1030,40,36-45,No,Non-Travel,Research & Development,9,4,Other,1,1449,Male,Laboratory Technician,3,Divorced,3975,Upto 5k,No,11,11,4,8
+RM1041,40,36-45,No,Non-Travel,Research & Development,8,1,Medical,1,1468,Male,Research Director,2,Divorced,13757,10k-15k,No,11,16,3,9
+RM1046,40,36-45,No,Travel_Rarely,Research & Development,2,3,Medical,1,1474,Male,Research Scientist,3,Divorced,2345,Upto 5k,No,14,8,4,3
+RM1084,40,36-45,Yes,Travel_Rarely,Research & Development,9,4,Life Sciences,1,1534,Male,Laboratory Technician,1,Single,2018,Upto 5k,No,14,15,1,5
+RM1095,40,36-45,No,Travel_Rarely,Sales,9,2,Medical,1,1548,Male,Sales Executive,1,Married,5473,5k-10k,No,12,9,4,8
+RM1097,40,36-45,No,Travel_Rarely,Human Resources,6,2,Medical,1,1550,Male,Manager,4,Single,16437,15k+,Yes,21,21,3,21
+RM1099,40,36-45,No,Non-Travel,Research & Development,8,2,Life Sciences,1,1552,Male,Healthcare Representative,4,Divorced,4069,Upto 5k,Yes,18,8,3,2
+RM1133,40,36-45,No,Travel_Rarely,Sales,14,2,Life Sciences,1,1598,Female,Sales Executive,1,Married,4639,Upto 5k,No,15,5,3,5
+RM1157,40,36-45,No,Travel_Rarely,Research & Development,15,3,Life Sciences,1,1628,Female,Manufacturing Director,3,Married,10435,10k-15k,No,13,18,3,18
+RM1165,40,36-45,No,Travel_Rarely,Research & Development,16,3,Life Sciences,1,1641,Female,Manufacturing Director,4,Single,7945,5k-10k,Yes,15,18,2,4
+RM1172,40,36-45,Yes,Travel_Rarely,Research & Development,7,3,Life Sciences,1,1649,Male,Laboratory Technician,1,Single,2166,Upto 5k,Yes,14,10,1,4
+RM1230,40,36-45,No,Travel_Rarely,Research & Development,8,2,Life Sciences,1,1724,Female,Manufacturing Director,1,Married,6516,5k-10k,Yes,16,18,3,1
+RM1243,40,36-45,No,Travel_Rarely,Sales,7,4,Medical,1,1740,Male,Manager,2,Single,19833,15k+,No,14,21,2,21
+RM1287,40,36-45,No,Travel_Rarely,Research & Development,2,2,Life Sciences,1,1802,Female,Laboratory Technician,1,Married,3377,Upto 5k,No,17,7,2,4
+RM1300,40,36-45,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1822,Female,Healthcare Representative,4,Divorced,6513,5k-10k,No,17,12,3,5
+RM1305,40,36-45,No,Travel_Rarely,Research & Development,12,3,Life Sciences,1,1829,Female,Healthcare Representative,1,Divorced,4448,Upto 5k,No,12,15,3,7
+RM1349,40,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,1892,Male,Manager,1,Divorced,16823,15k+,No,11,22,3,19
+RM1410,40,36-45,No,Travel_Frequently,Research & Development,11,3,Technical Degree,1,1985,Female,Laboratory Technician,3,Married,6323,5k-10k,No,11,10,4,10
+RM1411,40,36-45,No,Travel_Rarely,Sales,2,2,Marketing,1,1986,Female,Sales Executive,2,Married,5677,5k-10k,No,14,15,3,11
+RM1428,40,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,2012,Male,Laboratory Technician,4,Married,2406,Upto 5k,No,19,8,2,1
+RM1456,40,36-45,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,2048,Male,Research Scientist,3,Single,2809,Upto 5k,No,14,8,3,2
+RM1458,40,36-45,No,Travel_Rarely,Research & Development,2,4,Medical,1,2051,Female,Research Scientist,3,Married,2001,Upto 5k,No,14,20,3,5
+RM001,41,36-45,Yes,Travel_Rarely,Sales,1,2,Life Sciences,1,1,Female,Sales Executive,4,Single,5993,5k-10k,Yes,11,8,1,6
+RM046,41,36-45,Yes,Travel_Rarely,Research & Development,12,3,Technical Degree,1,58,Female,Research Director,3,Married,19545,15k+,No,12,23,3,22
+RM134,41,36-45,No,Travel_Rarely,Sales,9,1,Life Sciences,1,176,Male,Sales Executive,3,Divorced,8189,5k-10k,Yes,13,12,3,9
+RM148,41,36-45,No,Travel_Frequently,Research & Development,10,3,Life Sciences,1,199,Male,Manager,1,Divorced,17181,15k+,No,13,21,2,7
+RM149,41,36-45,No,Travel_Rarely,Research & Development,9,4,Life Sciences,1,200,Male,Laboratory Technician,1,Married,2238,Upto 5k,No,21,7,3,5
+RM167,41,36-45,No,Travel_Rarely,Research & Development,14,3,Life Sciences,1,227,Male,Research Scientist,3,Divorced,2451,Upto 5k,No,12,13,3,9
+RM183,41,36-45,Yes,Travel_Rarely,Sales,20,2,Marketing,1,248,Female,Sales Representative,2,Single,3140,Upto 5k,Yes,22,4,2,4
+RM216,41,36-45,No,Travel_Rarely,Sales,6,3,Life Sciences,1,298,Female,Manager,4,Single,13591,10k-15k,Yes,18,16,3,1
+RM243,41,36-45,No,Travel_Rarely,Research & Development,19,2,Life Sciences,1,334,Male,Research Scientist,1,Divorced,3072,Upto 5k,No,16,17,2,1
+RM301,41,36-45,No,Travel_Rarely,Sales,2,4,Life Sciences,1,410,Male,Manager,2,Single,16015,15k+,No,19,22,3,22
+RM347,41,36-45,No,Travel_Rarely,Research & Development,6,3,Medical,1,466,Male,Manufacturing Director,2,Single,6032,5k-10k,Yes,15,8,3,5
+RM367,41,36-45,Yes,Travel_Frequently,Sales,4,3,Marketing,1,488,Male,Sales Executive,2,Single,9355,5k-10k,No,18,8,3,8
+RM404,41,36-45,No,Travel_Rarely,Sales,1,3,Marketing,1,534,Male,Sales Executive,1,Married,8392,5k-10k,No,16,10,3,10
+RM447,41,36-45,No,Non-Travel,Sales,10,2,Life Sciences,1,599,Male,Sales Executive,4,Single,6230,5k-10k,No,14,16,3,14
+RM460,41,36-45,No,Non-Travel,Research & Development,2,4,Other,1,616,Female,Healthcare Representative,3,Single,6811,5k-10k,Yes,17,10,3,8
+RM467,41,36-45,No,Travel_Rarely,Sales,2,5,Life Sciences,1,625,Female,Manager,1,Married,16595,15k+,No,16,22,3,18
+RM536,41,36-45,No,Travel_Rarely,Human Resources,10,4,Human Resources,1,731,Male,Manager,4,Divorced,19141,15k+,No,15,23,2,21
+RM539,41,36-45,No,Travel_Rarely,Human Resources,1,3,Human Resources,1,734,Male,Manager,3,Married,19189,15k+,No,12,22,3,22
+RM668,41,36-45,Yes,Travel_Rarely,Research & Development,2,4,Life Sciences,1,927,Female,Laboratory Technician,4,Divorced,2778,Upto 5k,Yes,13,10,2,7
+RM687,41,36-45,No,Travel_Rarely,Research & Development,6,3,Medical,1,957,Male,Laboratory Technician,1,Single,4721,Upto 5k,Yes,13,20,3,18
+RM717,41,36-45,No,Travel_Frequently,Research & Development,9,3,Medical,1,999,Male,Research Director,3,Divorced,19419,15k+,No,17,21,4,18
+RM738,41,36-45,No,Travel_Rarely,Research & Development,7,2,Medical,1,1025,Female,Manufacturing Director,3,Single,5003,5k-10k,No,14,8,3,2
+RM747,41,36-45,No,Non-Travel,Research & Development,7,1,Life Sciences,1,1035,Female,Research Director,3,Divorced,19973,15k+,No,22,21,3,21
+RM784,41,36-45,No,Travel_Rarely,Research & Development,7,2,Technical Degree,1,1085,Female,Research Scientist,3,Married,3376,Upto 5k,No,13,10,3,10
+RM831,41,36-45,No,Travel_Rarely,Research & Development,12,4,Life Sciences,1,1158,Male,Laboratory Technician,4,Married,4766,Upto 5k,Yes,11,6,3,1
+RM865,41,36-45,Yes,Non-Travel,Research & Development,5,2,Life Sciences,1,1210,Male,Research Scientist,1,Divorced,2107,Upto 5k,No,17,5,1,1
+RM952,41,36-45,No,Non-Travel,Sales,10,2,Medical,1,1329,Male,Sales Executive,2,Single,6151,5k-10k,No,13,19,3,19
+RM961,41,36-45,No,Travel_Frequently,Sales,1,3,Marketing,1,1349,Female,Sales Executive,1,Divorced,4103,Upto 5k,No,17,10,3,9
+RM989,41,36-45,No,Travel_Frequently,Research & Development,22,3,Life Sciences,1,1392,Female,Research Scientist,4,Divorced,5467,5k-10k,Yes,14,12,2,6
+RM1029,41,36-45,No,Travel_Rarely,Research & Development,5,5,Medical,1,1448,Male,Research Scientist,3,Married,2127,Upto 5k,Yes,12,7,2,4
+RM1197,41,36-45,No,Travel_Rarely,Sales,23,2,Life Sciences,1,1678,Male,Sales Executive,3,Single,7082,5k-10k,Yes,16,21,3,2
+RM1219,41,36-45,No,Travel_Rarely,Sales,6,3,Marketing,1,1708,Male,Sales Executive,3,Single,9241,5k-10k,No,12,10,3,10
+RM1229,41,36-45,No,Non-Travel,Human Resources,4,3,Human Resources,1,1722,Male,Human Resources,2,Married,6430,5k-10k,No,19,10,3,3
+RM1267,41,36-45,No,Travel_Rarely,Research & Development,9,4,Life Sciences,1,1772,Male,Laboratory Technician,1,Divorced,2289,Upto 5k,No,20,5,3,5
+RM1295,41,36-45,No,Travel_Rarely,Research & Development,5,3,Life Sciences,1,1814,Male,Healthcare Representative,2,Single,6870,5k-10k,No,12,11,1,3
+RM1296,41,36-45,No,Travel_Rarely,Sales,4,1,Marketing,1,1815,Female,Sales Executive,3,Divorced,10447,10k-15k,Yes,13,23,4,22
+RM1357,41,36-45,No,Travel_Rarely,Sales,8,3,Marketing,1,1909,Female,Sales Executive,2,Married,4393,Upto 5k,No,21,14,3,5
+RM1421,41,36-45,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1999,Male,Research Scientist,4,Married,2782,Upto 5k,No,22,12,3,5
+RM1446,41,36-45,No,Travel_Rarely,Research & Development,28,4,Life Sciences,1,2034,Female,Manufacturing Director,2,Married,13570,10k-15k,No,23,21,3,20
+RM1449,41,36-45,No,Travel_Rarely,Sales,3,3,Life Sciences,1,2037,Male,Sales Executive,2,Divorced,8938,5k-10k,No,11,14,3,5
+RM028,42,36-45,No,Travel_Rarely,Sales,8,4,Marketing,1,35,Male,Sales Executive,2,Married,6825,5k-10k,No,11,10,3,9
+RM198,42,36-45,No,Non-Travel,Research & Development,21,2,Medical,1,270,Female,Manufacturing Director,3,Divorced,5265,5k-10k,No,16,11,3,5
+RM232,42,36-45,No,Travel_Rarely,Research & Development,4,2,Technical Degree,1,319,Male,Manager,4,Married,19232,15k+,No,11,22,3,22
+RM254,42,36-45,No,Travel_Rarely,Research & Development,17,2,Life Sciences,1,347,Female,Research Scientist,1,Single,6545,5k-10k,Yes,13,10,3,3
+RM257,42,36-45,No,Travel_Rarely,Research & Development,2,3,Medical,1,351,Female,Laboratory Technician,1,Divorced,2593,Upto 5k,Yes,11,10,3,9
+RM282,42,36-45,No,Travel_Rarely,Sales,1,1,Life Sciences,1,387,Male,Sales Executive,3,Married,4907,Upto 5k,No,25,20,3,20
+RM296,42,36-45,No,Travel_Frequently,Sales,26,3,Marketing,1,404,Female,Sales Executive,2,Married,13525,10k-15k,No,14,23,4,20
+RM349,42,36-45,No,Travel_Rarely,Research & Development,23,5,Life Sciences,1,468,Female,Research Director,4,Single,15992,15k+,No,14,16,3,1
+RM351,42,36-45,No,Travel_Rarely,Human Resources,2,1,Technical Degree,1,470,Male,Human Resources,3,Divorced,2696,Upto 5k,Yes,11,4,3,3
+RM357,42,36-45,No,Travel_Rarely,Research & Development,2,4,Other,1,477,Male,Healthcare Representative,4,Single,6781,5k-10k,No,23,14,3,1
+RM389,42,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,517,Female,Laboratory Technician,1,Divorced,2576,Upto 5k,No,16,8,3,5
+RM410,42,36-45,No,Travel_Frequently,Research & Development,29,2,Life Sciences,1,547,Female,Research Scientist,3,Divorced,4556,Upto 5k,No,11,19,3,5
+RM414,42,36-45,No,Travel_Frequently,Research & Development,28,4,Technical Degree,1,551,Female,Healthcare Representative,4,Married,4523,Upto 5k,No,11,7,4,6
+RM442,42,36-45,No,Travel_Frequently,Research & Development,5,2,Other,1,591,Male,Laboratory Technician,3,Married,2093,Upto 5k,No,17,8,3,2
+RM452,42,36-45,No,Travel_Rarely,Research & Development,24,3,Medical,1,605,Male,Manufacturing Director,1,Married,7406,5k-10k,Yes,21,10,2,10
+RM489,42,36-45,No,Travel_Rarely,Research & Development,2,4,Life Sciences,1,659,Female,Healthcare Representative,4,Married,4089,Upto 5k,No,13,10,3,10
+RM548,42,36-45,Yes,Travel_Frequently,Research & Development,19,3,Medical,1,752,Male,Research Scientist,3,Divorced,2759,Upto 5k,Yes,12,7,3,2
+RM585,42,36-45,No,Travel_Frequently,Research & Development,8,3,Life Sciences,1,809,Male,Manager,4,Divorced,18430,15k+,No,13,24,2,24
+RM598,42,36-45,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,827,Female,Manufacturing Director,4,Married,6062,5k-10k,Yes,13,8,3,4
+RM605,42,36-45,No,Travel_Rarely,Research & Development,29,3,Life Sciences,1,836,Male,Manufacturing Director,2,Married,4434,Upto 5k,No,13,10,2,9
+RM633,42,36-45,No,Travel_Frequently,Research & Development,2,1,Medical,1,875,Male,Research Scientist,4,Single,2515,Upto 5k,Yes,14,8,3,2
+RM644,42,36-45,No,Travel_Rarely,Research & Development,3,3,Life Sciences,1,894,Female,Laboratory Technician,4,Married,5231,5k-10k,Yes,13,17,2,5
+RM673,42,36-45,No,Travel_Rarely,Sales,14,2,Medical,1,936,Female,Sales Executive,3,Single,6244,5k-10k,No,17,10,3,5
+RM742,42,36-45,No,Travel_Rarely,Sales,5,2,Marketing,1,1029,Male,Manager,3,Married,18303,15k+,No,13,21,4,1
+RM800,42,36-45,No,Travel_Rarely,Research & Development,2,2,Medical,1,1109,Male,Manager,1,Married,17665,15k+,No,17,23,3,22
+RM825,42,36-45,No,Travel_Rarely,Research & Development,29,3,Medical,1,1148,Male,Laboratory Technician,4,Single,4272,Upto 5k,No,19,16,3,1
+RM839,42,36-45,Yes,Travel_Frequently,Sales,12,3,Life Sciences,1,1167,Male,Sales Executive,1,Single,13758,10k-15k,Yes,12,22,2,21
+RM840,42,36-45,No,Travel_Rarely,Sales,4,4,Marketing,1,1171,Male,Sales Executive,1,Single,5155,5k-10k,No,13,9,4,6
+RM879,42,36-45,No,Non-Travel,Human Resources,2,5,Medical,1,1231,Male,Human Resources,1,Married,6272,5k-10k,No,16,10,4,4
+RM888,42,36-45,No,Travel_Frequently,Research & Development,26,5,Medical,1,1242,Female,Research Director,1,Married,13191,10k-15k,Yes,17,20,3,1
+RM926,42,36-45,No,Travel_Rarely,Research & Development,7,4,Medical,1,1292,Female,Research Scientist,2,Married,2372,Upto 5k,Yes,16,18,3,1
+RM955,42,36-45,No,Non-Travel,Research & Development,2,1,Life Sciences,1,1334,Male,Manager,3,Married,17861,15k+,Yes,13,21,2,20
+RM1000,42,36-45,No,Travel_Rarely,Human Resources,10,3,Human Resources,1,1408,Female,Manager,1,Married,16799,15k+,No,14,21,3,20
+RM1051,42,36-45,No,Travel_Frequently,Research & Development,9,2,Medical,1,1480,Female,Laboratory Technician,4,Single,3673,Upto 5k,No,13,12,3,12
+RM1089,42,36-45,No,Travel_Rarely,Research & Development,2,3,Medical,1,1542,Male,Laboratory Technician,2,Married,4841,Upto 5k,No,14,4,3,1
+RM1094,42,36-45,No,Travel_Frequently,Research & Development,2,3,Life Sciences,1,1547,Male,Healthcare Representative,4,Married,10124,10k-15k,Yes,14,24,1,20
+RM1130,42,36-45,No,Travel_Rarely,Research & Development,9,2,Other,1,1595,Male,Manager,4,Single,19613,15k+,No,22,24,3,1
+RM1264,42,36-45,No,Travel_Rarely,Research & Development,12,3,Medical,1,1768,Male,Laboratory Technician,2,Divorced,2766,Upto 5k,No,22,7,2,5
+RM1288,42,36-45,No,Travel_Rarely,Research & Development,13,3,Medical,1,1803,Male,Healthcare Representative,1,Married,5538,5k-10k,No,18,10,2,0
+RM1321,42,36-45,No,Non-Travel,Research & Development,10,4,Technical Degree,1,1854,Male,Research Scientist,3,Married,2936,Upto 5k,No,22,10,2,6
+RM1326,42,36-45,No,Travel_Rarely,Research & Development,8,3,Life Sciences,1,1860,Male,Laboratory Technician,3,Single,3968,Upto 5k,No,13,8,3,0
+RM1358,42,36-45,No,Travel_Rarely,Research & Development,6,3,Medical,1,1911,Male,Research Director,1,Married,13348,10k-15k,No,13,18,4,13
+RM1379,42,36-45,No,Travel_Rarely,Sales,12,4,Marketing,1,1943,Male,Sales Executive,4,Divorced,5087,5k-10k,Yes,12,14,3,0
+RM1405,42,36-45,No,Non-Travel,Research & Development,23,2,Life Sciences,1,1976,Male,Research Scientist,3,Single,4332,Upto 5k,No,12,20,3,20
+RM1420,42,36-45,No,Travel_Rarely,Research & Development,18,4,Life Sciences,1,1998,Male,Research Scientist,1,Divorced,5410,5k-10k,Yes,17,9,2,4
+RM1444,42,36-45,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,2031,Male,Manager,3,Married,18880,15k+,No,11,24,2,22
+RM036,43,36-45,No,Travel_Rarely,Research & Development,2,2,Medical,1,46,Female,Research Scientist,3,Divorced,2645,Upto 5k,No,12,6,2,5
+RM120,43,36-45,No,Travel_Frequently,Sales,26,2,Life Sciences,1,158,Male,Manager,4,Married,16959,15k+,Yes,12,25,4,25
+RM131,43,36-45,No,Travel_Frequently,Research & Development,28,3,Medical,1,171,Female,Research Scientist,3,Single,4739,Upto 5k,No,12,18,3,3
+RM194,43,36-45,No,Non-Travel,Research & Development,7,3,Medical,1,262,Male,Research Scientist,4,Divorced,2089,Upto 5k,No,14,7,4,5
+RM236,43,36-45,No,Travel_Rarely,Sales,16,3,Marketing,1,327,Female,Manager,4,Married,16064,15k+,Yes,22,22,3,17
+RM316,43,36-45,No,Travel_Frequently,Research & Development,10,4,Life Sciences,1,430,Female,Laboratory Technician,4,Single,2455,Upto 5k,No,19,9,3,8
+RM331,43,36-45,No,Travel_Frequently,Research & Development,10,4,Life Sciences,1,448,Female,Laboratory Technician,3,Divorced,5257,5k-10k,No,11,9,4,9
+RM334,43,36-45,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,451,Female,Healthcare Representative,1,Married,9985,5k-10k,No,16,10,2,1
+RM391,43,36-45,No,Travel_Rarely,Research & Development,12,3,Life Sciences,1,520,Male,Research Director,2,Divorced,14336,10k-15k,No,11,25,3,25
+RM396,43,36-45,No,Travel_Frequently,Research & Development,21,3,Medical,1,525,Male,Laboratory Technician,4,Married,2258,Upto 5k,No,20,8,3,3
+RM397,43,36-45,No,Travel_Rarely,Research & Development,8,4,Other,1,526,Female,Healthcare Representative,3,Divorced,4522,Upto 5k,Yes,14,8,3,5
+RM490,43,36-45,No,Travel_Rarely,Research & Development,6,4,Other,1,661,Male,Research Director,4,Divorced,16627,15k+,Yes,14,21,2,1
+RM492,43,36-45,No,Travel_Frequently,Research & Development,9,5,Medical,1,663,Male,Laboratory Technician,3,Divorced,5679,5k-10k,Yes,13,10,3,8
+RM549,43,36-45,No,Travel_Frequently,Sales,15,3,Life Sciences,1,754,Male,Sales Executive,4,Married,6804,5k-10k,No,18,7,3,2
+RM610,43,36-45,No,Travel_Rarely,Research & Development,14,2,Life Sciences,1,843,Male,Research Director,1,Married,17159,15k+,No,24,22,3,4
+RM651,43,36-45,No,Travel_Frequently,Research & Development,1,3,Life Sciences,1,902,Female,Healthcare Representative,4,Married,5562,5k-10k,No,13,12,2,5
+RM662,43,36-45,No,Travel_Rarely,Research & Development,8,3,Life Sciences,1,920,Female,Manufacturing Director,2,Divorced,4765,Upto 5k,No,21,4,4,1
+RM776,43,36-45,No,Travel_Rarely,Sales,25,3,Medical,1,1076,Male,Sales Executive,4,Divorced,10798,10k-15k,No,13,18,3,1
+RM813,43,36-45,No,Travel_Frequently,Research & Development,27,3,Life Sciences,1,1126,Female,Manufacturing Director,1,Married,10820,10k-15k,No,11,18,3,8
+RM850,43,36-45,Yes,Travel_Rarely,Sales,9,3,Marketing,1,1188,Female,Sales Executive,3,Single,5346,5k-10k,No,13,7,2,4
+RM899,43,36-45,No,Travel_Rarely,Research & Development,3,3,Life Sciences,1,1255,Male,Research Director,4,Married,19740,15k+,No,14,25,3,8
+RM927,43,36-45,No,Travel_Rarely,Sales,4,4,Marketing,1,1293,Female,Sales Executive,4,Single,10231,10k-15k,No,14,23,4,21
+RM996,43,36-45,No,Travel_Rarely,Research & Development,6,3,Medical,1,1402,Female,Research Scientist,3,Single,4081,Upto 5k,Yes,14,20,1,20
+RM1134,43,36-45,No,Travel_Rarely,Research & Development,27,3,Technical Degree,1,1599,Male,Laboratory Technician,2,Divorced,4876,Upto 5k,No,12,8,3,6
+RM1186,43,36-45,No,Travel_Rarely,Research & Development,15,2,Life Sciences,1,1666,Male,Research Director,3,Married,17603,15k+,No,24,14,3,14
+RM1217,43,36-45,No,Travel_Rarely,Sales,2,3,Medical,1,1706,Male,Sales Executive,4,Married,7847,5k-10k,Yes,17,10,3,10
+RM1263,43,36-45,Yes,Travel_Frequently,Research & Development,17,3,Technical Degree,1,1767,Male,Research Scientist,3,Married,2437,Upto 5k,Yes,16,6,3,1
+RM1270,43,36-45,No,Travel_Rarely,Human Resources,2,3,Life Sciences,1,1778,Male,Human Resources,4,Single,3539,Upto 5k,No,13,10,3,9
+RM1294,43,36-45,No,Non-Travel,Research & Development,9,3,Life Sciences,1,1813,Male,Research Scientist,3,Single,2438,Upto 5k,No,13,7,2,3
+RM1317,43,36-45,No,Travel_Frequently,Sales,2,4,Life Sciences,1,1849,Male,Sales Executive,4,Married,5675,5k-10k,No,20,7,3,7
+RM1331,43,36-45,No,Travel_Rarely,Research & Development,6,3,Medical,1,1866,Female,Manager,3,Married,19392,15k+,No,13,21,3,16
+RM1400,43,36-45,No,Travel_Rarely,Research & Development,11,3,Life Sciences,1,1971,Male,Healthcare Representative,3,Married,7510,5k-10k,No,17,10,3,10
+RM029,44,36-45,No,Travel_Rarely,Research & Development,7,4,Medical,1,36,Female,Healthcare Representative,4,Married,10248,10k-15k,No,14,24,3,22
+RM032,44,36-45,No,Travel_Rarely,Research & Development,10,4,Other,1,40,Male,Healthcare Representative,4,Married,6465,5k-10k,Yes,13,9,4,4
+RM053,44,36-45,No,Travel_Rarely,Sales,1,5,Marketing,1,68,Female,Sales Executive,1,Divorced,5454,5k-10k,Yes,21,9,2,4
+RM100,44,36-45,No,Non-Travel,Research & Development,23,3,Medical,1,132,Male,Laboratory Technician,2,Married,2042,Upto 5k,No,12,17,4,3
+RM287,44,36-45,Yes,Travel_Frequently,Research & Development,24,3,Life Sciences,1,392,Male,Laboratory Technician,3,Divorced,3161,Upto 5k,Yes,22,19,1,1
+RM494,44,36-45,No,Travel_Rarely,Human Resources,1,4,Life Sciences,1,665,Female,Human Resources,3,Single,5985,5k-10k,No,11,10,4,2
+RM498,44,36-45,No,Travel_Rarely,Research & Development,3,4,Other,1,671,Male,Manager,4,Married,19513,15k+,Yes,12,26,4,2
+RM544,44,36-45,No,Non-Travel,Research & Development,24,3,Medical,1,744,Male,Laboratory Technician,3,Single,3708,Upto 5k,No,14,9,3,5
+RM618,44,36-45,No,Travel_Rarely,Research & Development,4,3,Medical,1,852,Male,Healthcare Representative,2,Single,5933,5k-10k,No,12,10,2,5
+RM632,44,36-45,No,Travel_Rarely,Research & Development,8,4,Life Sciences,1,874,Male,Laboratory Technician,4,Married,2818,Upto 5k,Yes,24,10,2,3
+RM659,44,36-45,No,Travel_Rarely,Research & Development,9,2,Life Sciences,1,913,Male,Research Scientist,1,Married,2559,Upto 5k,Yes,13,8,3,8
+RM751,44,36-45,No,Travel_Rarely,Sales,28,3,Medical,1,1039,Female,Sales Executive,4,Married,13320,10k-15k,Yes,18,23,3,12
+RM790,44,36-45,Yes,Travel_Rarely,Human Resources,1,2,Medical,1,1098,Male,Human Resources,1,Married,10482,10k-15k,No,14,24,3,20
+RM858,44,36-45,Yes,Travel_Rarely,Research & Development,10,4,Life Sciences,1,1200,Male,Research Scientist,3,Single,2936,Upto 5k,Yes,11,6,3,6
+RM863,44,36-45,No,Non-Travel,Research & Development,17,3,Life Sciences,1,1206,Male,Research Scientist,3,Single,2290,Upto 5k,No,13,6,3,0
+RM876,44,36-45,No,Travel_Rarely,Research & Development,29,4,Other,1,1225,Male,Research Scientist,4,Single,4541,Upto 5k,No,25,20,3,20
+RM892,44,36-45,No,Travel_Rarely,Research & Development,2,1,Life Sciences,1,1246,Female,Research Scientist,4,Married,2011,Upto 5k,No,13,10,3,10
+RM908,44,36-45,No,Travel_Rarely,Sales,5,3,Marketing,1,1267,Male,Manager,2,Married,18213,15k+,No,11,26,3,22
+RM923,44,36-45,No,Travel_Rarely,Research & Development,4,2,Life Sciences,1,1288,Male,Manager,1,Divorced,19190,15k+,No,14,26,2,25
+RM929,44,36-45,Yes,Travel_Rarely,Research & Development,15,3,Medical,1,1295,Female,Healthcare Representative,4,Married,7978,5k-10k,No,11,10,3,10
+RM954,44,36-45,Yes,Travel_Rarely,Research & Development,3,3,Life Sciences,1,1333,Male,Laboratory Technician,1,Married,2362,Upto 5k,No,12,10,4,3
+RM1043,44,36-45,No,Non-Travel,Research & Development,5,3,Life Sciences,1,1471,Male,Laboratory Technician,3,Single,3162,Upto 5k,No,14,7,3,5
+RM1047,44,36-45,No,Travel_Rarely,Research & Development,20,3,Life Sciences,1,1475,Male,Research Scientist,2,Single,3420,Upto 5k,No,13,6,2,5
+RM1052,44,36-45,No,Travel_Frequently,Sales,1,5,Marketing,1,1481,Female,Sales Executive,3,Married,4768,Upto 5k,No,12,11,2,1
+RM1063,44,36-45,No,Travel_Frequently,Research & Development,2,1,Medical,1,1496,Male,Manufacturing Director,3,Single,10209,10k-15k,Yes,18,16,2,2
+RM1079,44,36-45,No,Travel_Rarely,Research & Development,28,3,Life Sciences,1,1523,Male,Research Director,1,Married,16328,15k+,No,13,24,4,20
+RM1141,44,36-45,No,Travel_Rarely,Research & Development,7,3,Medical,1,1608,Female,Research Director,4,Divorced,19049,15k+,Yes,14,23,2,22
+RM1166,44,36-45,No,Travel_Frequently,Human Resources,1,5,Human Resources,1,1642,Male,Human Resources,4,Married,5743,5k-10k,Yes,11,14,3,10
+RM1201,44,36-45,No,Travel_Rarely,Human Resources,1,3,Life Sciences,1,1683,Female,Human Resources,4,Divorced,3195,Upto 5k,Yes,18,8,3,2
+RM1215,44,36-45,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,1703,Female,Healthcare Representative,4,Married,7879,5k-10k,Yes,19,9,3,8
+RM1280,44,36-45,Yes,Travel_Frequently,Research & Development,1,2,Medical,1,1792,Male,Research Scientist,2,Divorced,2342,Upto 5k,Yes,12,6,2,5
+RM1353,44,36-45,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,1903,Male,Healthcare Representative,1,Married,5033,5k-10k,No,15,10,3,2
+RM1436,44,36-45,No,Travel_Rarely,Research & Development,1,3,Medical,1,2020,Male,Research Scientist,4,Single,2436,Upto 5k,Yes,12,6,3,4
+RM068,45,36-45,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,86,Male,Research Scientist,1,Divorced,9724,5k-10k,No,17,25,3,1
+RM078,45,36-45,No,Travel_Rarely,Research & Development,6,4,Other,1,101,Male,Research Director,1,Married,13245,10k-15k,Yes,14,17,4,0
+RM142,45,36-45,No,Travel_Rarely,Research & Development,29,3,Medical,1,192,Male,Research Scientist,4,Single,3452,Upto 5k,No,13,9,2,6
+RM154,45,36-45,No,Travel_Rarely,Research & Development,9,3,Life Sciences,1,206,Male,Laboratory Technician,2,Divorced,2348,Upto 5k,No,18,20,1,17
+RM175,45,36-45,No,Travel_Rarely,Sales,4,2,Life Sciences,1,240,Female,Sales Executive,1,Divorced,5006,5k-10k,Yes,11,9,4,5
+RM195,45,36-45,No,Non-Travel,Research & Development,2,2,Medical,1,264,Male,Manager,4,Married,16792,15k+,No,23,22,3,20
+RM219,45,36-45,No,Non-Travel,Sales,6,3,Medical,1,302,Female,Sales Executive,4,Single,8865,5k-10k,No,12,23,3,19
+RM245,45,36-45,No,Travel_Rarely,Research & Development,1,3,Other,1,336,Male,Manager,4,Married,19202,15k+,No,11,25,3,24
+RM250,45,36-45,No,Travel_Frequently,Research & Development,7,4,Life Sciences,1,341,Male,Manufacturing Director,3,Married,6434,5k-10k,No,17,9,3,3
+RM269,45,36-45,No,Travel_Rarely,Research & Development,20,2,Medical,1,372,Male,Healthcare Representative,4,Married,13496,10k-15k,Yes,14,21,3,20
+RM312,45,36-45,No,Travel_Frequently,Research & Development,7,3,Life Sciences,1,425,Male,Laboratory Technician,1,Divorced,5210,5k-10k,No,18,24,3,24
+RM335,45,36-45,No,Travel_Rarely,Research & Development,8,4,Other,1,452,Male,Research Scientist,4,Married,3697,Upto 5k,No,14,12,3,10
+RM408,45,36-45,No,Travel_Rarely,Research & Development,10,2,Life Sciences,1,544,Male,Research Scientist,4,Married,2654,Upto 5k,No,21,8,2,2
+RM453,45,36-45,No,Travel_Rarely,Sales,2,3,Other,1,606,Male,Sales Executive,2,Married,4805,Upto 5k,No,19,9,4,8
+RM505,45,36-45,Yes,Travel_Frequently,Sales,26,4,Life Sciences,1,684,Female,Sales Executive,1,Married,4286,Upto 5k,No,14,5,3,1
+RM565,45,36-45,No,Travel_Rarely,Sales,2,2,Technical Degree,1,783,Male,Sales Representative,3,Single,6632,5k-10k,No,13,9,3,8
+RM604,45,36-45,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,834,Female,Research Scientist,3,Single,2274,Upto 5k,No,14,1,3,1
+RM626,45,36-45,No,Travel_Rarely,Sales,9,3,Marketing,1,864,Male,Sales Executive,1,Divorced,10761,10k-15k,Yes,12,18,3,5
+RM697,45,36-45,No,Non-Travel,Research & Development,4,2,Life Sciences,1,972,Male,Laboratory Technician,2,Married,4447,Upto 5k,No,12,9,2,9
+RM714,45,36-45,No,Travel_Rarely,Research & Development,1,4,Medical,1,996,Female,Laboratory Technician,4,Divorced,2270,Upto 5k,No,14,8,3,5
+RM719,45,36-45,No,Non-Travel,Research & Development,23,2,Life Sciences,1,1002,Male,Laboratory Technician,1,Married,3633,Upto 5k,Yes,15,9,3,9
+RM756,45,36-45,No,Travel_Rarely,Sales,11,2,Life Sciences,1,1045,Female,Manager,4,Married,17650,15k+,No,13,26,4,9
+RM760,45,36-45,No,Travel_Rarely,Human Resources,24,4,Medical,1,1049,Male,Human Resources,2,Single,2177,Upto 5k,No,16,6,3,6
+RM806,45,36-45,No,Non-Travel,Sales,9,4,Life Sciences,1,1117,Female,Sales Executive,3,Married,5593,5k-10k,No,13,15,3,15
+RM855,45,36-45,No,Travel_Rarely,Research & Development,7,3,Medical,1,1195,Female,Research Scientist,3,Married,4477,Upto 5k,Yes,19,7,2,3
+RM914,45,36-45,Yes,Travel_Rarely,Sales,2,3,Marketing,1,1277,Female,Manager,2,Single,18824,15k+,Yes,16,26,3,24
+RM937,45,36-45,No,Travel_Frequently,Research & Development,25,3,Medical,1,1306,Female,Manager,2,Single,18061,15k+,No,22,22,3,0
+RM1035,45,36-45,No,Travel_Rarely,Research & Development,20,3,Medical,1,1460,Male,Healthcare Representative,1,Divorced,10851,10k-15k,Yes,18,24,3,7
+RM1038,45,36-45,No,Travel_Rarely,Research & Development,29,3,Technical Degree,1,1465,Male,Manufacturing Director,4,Married,9380,5k-10k,Yes,18,10,4,3
+RM1093,45,36-45,No,Travel_Rarely,Research & Development,28,3,Technical Degree,1,1546,Male,Research Scientist,4,Married,2132,Upto 5k,No,20,8,3,5
+RM1100,45,36-45,No,Travel_Rarely,Research & Development,1,4,Technical Degree,1,1553,Male,Healthcare Representative,2,Divorced,7441,5k-10k,No,12,10,3,10
+RM1143,45,36-45,No,Travel_Rarely,Research & Development,5,5,Medical,1,1611,Female,Laboratory Technician,1,Single,5769,5k-10k,Yes,14,10,3,10
+RM1144,45,36-45,No,Non-Travel,Sales,26,3,Marketing,1,1612,Male,Sales Executive,1,Married,4385,Upto 5k,No,15,10,3,10
+RM1161,45,36-45,No,Travel_Rarely,Research & Development,2,2,Other,1,1635,Female,Manufacturing Director,4,Divorced,5770,5k-10k,No,19,10,3,10
+RM1222,45,36-45,No,Non-Travel,Research & Development,1,1,Life Sciences,1,1712,Male,Healthcare Representative,3,Married,10748,10k-15k,No,23,25,2,23
+RM1226,45,36-45,No,Travel_Rarely,Research & Development,28,2,Technical Degree,1,1719,Female,Research Director,2,Single,16704,15k+,No,11,21,3,21
+RM1244,45,36-45,No,Travel_Rarely,Human Resources,4,3,Life Sciences,1,1744,Female,Human Resources,3,Married,9756,5k-10k,No,21,9,4,5
+RM1315,45,36-45,No,Non-Travel,Sales,2,4,Life Sciences,1,1845,Female,Sales Executive,3,Married,5154,5k-10k,No,22,10,4,8
+RM1347,45,36-45,No,Travel_Rarely,Research & Development,25,2,Life Sciences,1,1888,Female,Manufacturing Director,4,Married,5906,5k-10k,No,13,10,2,9
+RM1363,45,36-45,No,Travel_Frequently,Research & Development,1,4,Medical,1,1922,Male,Healthcare Representative,3,Single,5399,5k-10k,No,12,12,3,4
+RM1455,45,36-45,No,Travel_Rarely,Sales,20,3,Life Sciences,1,2046,Female,Sales Executive,3,Single,4850,Upto 5k,No,15,8,3,5
+RM030,46,46-55,No,Travel_Rarely,Sales,2,4,Marketing,1,38,Female,Manager,1,Single,18947,15k+,No,12,22,2,2
+RM049,46,46-55,No,Travel_Frequently,Sales,5,4,Marketing,1,62,Male,Sales Executive,4,Single,5772,5k-10k,Yes,21,14,3,9
+RM080,46,46-55,No,Travel_Rarely,Human Resources,5,2,Medical,1,103,Male,Human Resources,2,Divorced,5021,5k-10k,Yes,22,16,3,4
+RM090,46,46-55,Yes,Travel_Rarely,Sales,9,2,Medical,1,118,Male,Sales Executive,4,Single,9619,5k-10k,No,16,9,3,9
+RM094,46,46-55,No,Travel_Frequently,Research & Development,1,3,Medical,1,124,Male,Healthcare Representative,1,Married,10673,10k-15k,Yes,13,21,2,10
+RM179,46,46-55,No,Travel_Rarely,Sales,1,2,Marketing,1,244,Female,Sales Executive,1,Divorced,10453,10k-15k,No,25,24,3,24
+RM210,46,46-55,No,Travel_Rarely,Research & Development,1,4,Medical,1,288,Male,Healthcare Representative,1,Divorced,9396,5k-10k,No,16,17,3,4
+RM264,46,46-55,No,Travel_Rarely,Sales,2,3,Technical Degree,1,363,Female,Manager,2,Married,16872,15k+,Yes,12,28,2,7
+RM366,46,46-55,No,Non-Travel,Research & Development,7,4,Medical,1,487,Female,Manufacturing Director,3,Married,5258,5k-10k,No,14,7,4,1
+RM413,46,46-55,No,Travel_Rarely,Research & Development,18,3,Medical,1,550,Female,Manufacturing Director,3,Divorced,4810,Upto 5k,No,14,19,2,10
+RM430,46,46-55,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,575,Male,Research Director,3,Married,17861,15k+,No,13,26,1,3
+RM434,46,46-55,No,Travel_Rarely,Sales,10,3,Marketing,1,580,Female,Sales Executive,4,Married,9071,5k-10k,Yes,19,15,3,3
+RM466,46,46-55,No,Travel_Frequently,Research & Development,18,1,Medical,1,624,Female,Healthcare Representative,3,Married,10527,10k-15k,No,11,28,2,2
+RM724,46,46-55,No,Travel_Rarely,Research & Development,7,2,Medical,1,1007,Male,Manufacturing Director,3,Divorced,10845,10k-15k,No,13,13,3,8
+RM771,46,46-55,No,Travel_Rarely,Research & Development,1,4,Medical,1,1069,Male,Research Director,4,Divorced,19627,15k+,No,17,23,3,2
+RM779,46,46-55,No,Travel_Rarely,Research & Development,8,4,Life Sciences,1,1080,Female,Research Scientist,1,Divorced,4615,Upto 5k,Yes,23,19,3,16
+RM811,46,46-55,No,Travel_Rarely,Sales,3,1,Marketing,1,1124,Male,Manager,3,Married,17465,15k+,No,12,23,3,12
+RM862,46,46-55,No,Travel_Rarely,Sales,2,3,Marketing,1,1204,Female,Manager,1,Married,17048,15k+,No,23,28,3,26
+RM870,46,46-55,No,Travel_Rarely,Research & Development,15,2,Life Sciences,1,1217,Male,Research Director,2,Married,19081,15k+,No,11,25,3,4
+RM878,46,46-55,No,Travel_Rarely,Research & Development,2,4,Technical Degree,1,1228,Male,Manufacturing Director,4,Divorced,7379,5k-10k,No,11,12,2,6
+RM917,46,46-55,No,Travel_Rarely,Sales,4,2,Marketing,1,1280,Female,Manager,2,Married,18789,15k+,No,14,26,3,11
+RM944,46,46-55,No,Travel_Rarely,Human Resources,1,2,Life Sciences,1,1314,Female,Human Resources,1,Single,3423,Upto 5k,No,12,10,4,7
+RM1032,46,46-55,Yes,Travel_Rarely,Sales,9,3,Marketing,1,1457,Male,Sales Executive,4,Divorced,10096,10k-15k,No,11,28,4,7
+RM1081,46,46-55,No,Travel_Rarely,Sales,3,3,Life Sciences,1,1527,Female,Manager,2,Married,16606,15k+,No,12,23,4,13
+RM1136,46,46-55,No,Travel_Rarely,Sales,1,4,Life Sciences,1,1602,Male,Manager,1,Single,17567,15k+,No,15,27,1,26
+RM1232,46,46-55,No,Travel_Rarely,Research & Development,13,4,Life Sciences,1,1727,Male,Healthcare Representative,2,Single,5562,5k-10k,No,14,19,3,10
+RM1236,46,46-55,No,Travel_Rarely,Sales,2,3,Life Sciences,1,1732,Male,Sales Executive,4,Divorced,10368,10k-15k,Yes,12,13,2,10
+RM1278,46,46-55,No,Travel_Rarely,Research & Development,2,4,Medical,1,1789,Male,Research Director,4,Divorced,19328,15k+,Yes,17,24,3,2
+RM1286,46,46-55,No,Non-Travel,Sales,26,2,Life Sciences,1,1801,Male,Sales Executive,2,Single,7991,5k-10k,No,15,6,3,2
+RM1299,46,46-55,Yes,Travel_Rarely,Research & Development,21,2,Medical,1,1821,Female,Healthcare Representative,2,Married,8926,5k-10k,No,22,13,4,9
+RM1323,46,46-55,No,Travel_Rarely,Research & Development,2,2,Life Sciences,1,1857,Male,Manufacturing Director,4,Divorced,8578,5k-10k,No,14,12,2,9
+RM1328,46,46-55,No,Travel_Rarely,Sales,3,3,Technical Degree,1,1863,Female,Sales Executive,1,Divorced,13225,10k-15k,No,12,25,3,19
+RM1334,46,46-55,Yes,Travel_Rarely,Sales,10,3,Life Sciences,1,1869,Female,Sales Executive,2,Married,7314,5k-10k,No,21,14,3,8
+RM272,47,46-55,Yes,Non-Travel,Research & Development,29,4,Life Sciences,1,376,Male,Manager,2,Married,11849,10k-15k,Yes,12,10,2,10
+RM330,47,46-55,No,Travel_Rarely,Research & Development,5,5,Life Sciences,1,447,Male,Research Director,3,Married,18300,15k+,No,11,21,3,3
+RM348,47,46-55,No,Travel_Frequently,Sales,4,1,Medical,1,467,Male,Sales Representative,3,Single,2976,Upto 5k,No,19,5,3,0
+RM429,47,46-55,No,Travel_Rarely,Research & Development,2,2,Medical,1,574,Female,Manufacturing Director,4,Divorced,5070,5k-10k,No,13,20,3,5
+RM533,47,46-55,No,Travel_Rarely,Sales,14,4,Marketing,1,728,Male,Sales Executive,1,Single,4960,Upto 5k,No,12,20,3,7
+RM545,47,46-55,No,Travel_Frequently,Sales,3,3,Medical,1,746,Female,Sales Executive,3,Divorced,13770,10k-15k,Yes,12,28,2,22
+RM567,47,46-55,Yes,Travel_Frequently,Sales,27,2,Life Sciences,1,785,Female,Sales Executive,3,Single,6397,5k-10k,Yes,12,8,3,5
+RM593,47,46-55,No,Travel_Rarely,Research & Development,2,2,Other,1,820,Female,Manager,4,Married,16752,15k+,Yes,11,26,2,26
+RM652,47,46-55,No,Travel_Rarely,Sales,2,2,Marketing,1,903,Female,Sales Executive,4,Married,4537,Upto 5k,Yes,22,8,3,7
+RM666,47,46-55,No,Travel_Rarely,Sales,2,4,Life Sciences,1,925,Female,Sales Representative,4,Single,3294,Upto 5k,Yes,18,3,2,3
+RM708,47,46-55,No,Travel_Frequently,Research & Development,16,4,Medical,1,987,Male,Manufacturing Director,3,Divorced,5067,5k-10k,Yes,19,20,4,19
+RM720,47,46-55,No,Travel_Rarely,Sales,4,2,Life Sciences,1,1003,Female,Sales Executive,4,Single,4163,Upto 5k,Yes,17,9,3,9
+RM1021,47,46-55,No,Travel_Rarely,Research & Development,1,3,Technical Degree,1,1438,Male,Research Scientist,4,Married,3420,Upto 5k,No,12,17,2,6
+RM1025,47,46-55,No,Travel_Rarely,Research & Development,2,4,Medical,1,1443,Female,Research Director,3,Married,17169,15k+,No,19,26,4,20
+RM1068,47,46-55,No,Travel_Rarely,Sales,14,3,Medical,1,1503,Female,Sales Executive,3,Married,4591,Upto 5k,Yes,17,11,2,5
+RM1155,47,46-55,No,Travel_Rarely,Human Resources,26,4,Life Sciences,1,1625,Female,Manager,3,Married,19658,15k+,No,11,27,3,5
+RM1195,47,46-55,No,Travel_Rarely,Sales,2,4,Life Sciences,1,1676,Female,Manager,2,Divorced,15972,15k+,No,14,29,3,3
+RM1224,47,46-55,Yes,Travel_Frequently,Sales,9,3,Life Sciences,1,1716,Male,Sales Executive,3,Married,12936,10k-15k,No,11,25,1,23
+RM1235,47,46-55,No,Non-Travel,Sales,2,4,Marketing,1,1731,Male,Sales Executive,2,Married,4978,Upto 5k,No,11,4,1,1
+RM1304,47,46-55,No,Travel_Rarely,Research & Development,4,3,Life Sciences,1,1827,Female,Manufacturing Director,2,Divorced,10333,10k-15k,Yes,12,28,3,22
+RM1322,47,46-55,No,Travel_Rarely,Research & Development,9,4,Life Sciences,1,1856,Female,Laboratory Technician,3,Single,2105,Upto 5k,No,12,7,3,2
+RM1371,47,46-55,No,Non-Travel,Research & Development,14,4,Technical Degree,1,1934,Male,Research Scientist,2,Married,5467,5k-10k,No,18,16,4,8
+RM1415,47,46-55,No,Travel_Rarely,Research & Development,25,3,Medical,1,1993,Male,Healthcare Representative,3,Single,8633,5k-10k,No,23,25,3,17
+RM1422,47,46-55,No,Non-Travel,Research & Development,1,1,Medical,1,2000,Female,Research Director,2,Married,11957,10k-15k,No,18,14,1,13
+RM051,48,46-55,Yes,Travel_Rarely,Research & Development,1,2,Life Sciences,1,64,Male,Laboratory Technician,3,Single,5381,5k-10k,Yes,13,23,3,1
+RM353,48,46-55,No,Travel_Rarely,Sales,29,1,Medical,1,473,Female,Manager,3,Married,12504,10k-15k,No,21,15,1,0
+RM445,48,46-55,No,Travel_Rarely,Sales,2,5,Marketing,1,595,Female,Sales Executive,4,Married,4051,Upto 5k,No,14,14,3,9
+RM493,48,46-55,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,664,Female,Manager,1,Married,15402,15k+,No,11,21,1,3
+RM521,48,46-55,No,Travel_Rarely,Sales,2,1,Marketing,1,712,Male,Sales Executive,2,Married,8120,5k-10k,No,12,12,3,2
+RM679,48,46-55,No,Travel_Rarely,Research & Development,20,4,Medical,1,945,Male,Research Scientist,3,Married,2259,Upto 5k,No,17,13,2,0
+RM736,48,46-55,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,1022,Male,Healthcare Representative,3,Single,4240,Upto 5k,No,13,19,3,2
+RM737,48,46-55,No,Travel_Rarely,Research & Development,4,4,Life Sciences,1,1024,Male,Healthcare Representative,3,Single,10999,10k-15k,No,14,27,3,15
+RM805,48,46-55,No,Non-Travel,Research & Development,1,4,Medical,1,1116,Male,Manager,4,Single,16885,15k+,No,22,27,2,5
+RM902,48,46-55,No,Travel_Rarely,Research & Development,2,2,Technical Degree,1,1258,Male,Laboratory Technician,2,Single,2559,Upto 5k,No,11,7,2,1
+RM905,48,46-55,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1263,Male,Research Director,4,Single,18265,15k+,No,12,25,4,1
+RM970,48,46-55,No,Travel_Rarely,Research & Development,4,3,Life Sciences,1,1363,Male,Manufacturing Director,4,Single,7898,5k-10k,No,11,11,3,10
+RM1039,48,46-55,No,Travel_Rarely,Sales,7,3,Marketing,1,1466,Male,Sales Executive,1,Divorced,5486,5k-10k,No,11,15,3,2
+RM1104,48,46-55,No,Travel_Rarely,Sales,16,4,Life Sciences,1,1557,Female,Sales Executive,3,Divorced,6439,5k-10k,No,14,18,3,8
+RM1115,48,46-55,No,Travel_Rarely,Research & Development,15,4,Other,1,1576,Female,Research Scientist,1,Married,2367,Upto 5k,No,12,10,2,8
+RM1167,48,46-55,No,Travel_Frequently,Research & Development,4,5,Medical,1,1644,Male,Manager,4,Married,15202,15k+,No,25,23,3,2
+RM1205,48,46-55,Yes,Travel_Frequently,Sales,7,2,Medical,1,1691,Female,Sales Representative,3,Married,2655,Upto 5k,Yes,11,19,3,9
+RM1332,48,46-55,No,Travel_Rarely,Research & Development,10,3,Life Sciences,1,1867,Male,Research Director,2,Married,19665,15k+,No,12,29,3,22
+RM1352,48,46-55,No,Travel_Frequently,Research & Development,22,3,Medical,1,1900,Female,Manager,4,Divorced,17174,15k+,No,11,24,3,22
+RM002,49,46-55,No,Travel_Frequently,Research & Development,8,1,Life Sciences,1,2,Male,Research Scientist,2,Married,5130,5k-10k,No,23,10,3,10
+RM130,49,46-55,No,Travel_Rarely,Research & Development,20,4,Medical,1,170,Female,Manufacturing Director,1,Married,6567,5k-10k,No,14,16,2,15
+RM202,49,46-55,No,Non-Travel,Research & Development,18,4,Life Sciences,1,275,Male,Manufacturing Director,4,Divorced,6804,5k-10k,Yes,15,7,3,7
+RM291,49,46-55,No,Travel_Frequently,Research & Development,10,4,Life Sciences,1,396,Female,Research Director,1,Single,18665,15k+,Yes,11,22,3,3
+RM317,49,46-55,No,Travel_Rarely,Research & Development,1,2,Technical Degree,1,431,Female,Healthcare Representative,3,Single,13964,10k-15k,Yes,12,25,3,7
+RM376,49,46-55,No,Travel_Rarely,Research & Development,7,3,Other,1,499,Male,Healthcare Representative,3,Single,10965,10k-15k,No,24,26,3,5
+RM474,49,46-55,No,Travel_Rarely,Research & Development,18,4,Life Sciences,1,638,Male,Research Director,3,Divorced,19502,15k+,Yes,17,31,3,31
+RM608,49,46-55,Yes,Travel_Rarely,Sales,11,3,Marketing,1,840,Female,Sales Executive,4,Married,7654,5k-10k,No,18,9,4,9
+RM640,49,46-55,No,Travel_Rarely,Research & Development,1,3,Technical Degree,1,887,Female,Research Scientist,1,Married,3580,Upto 5k,No,16,7,3,4
+RM678,49,46-55,No,Travel_Rarely,Research & Development,8,2,Other,1,944,Female,Laboratory Technician,2,Married,7403,5k-10k,No,11,29,2,26
+RM822,49,46-55,No,Travel_Rarely,Sales,8,4,Technical Degree,1,1138,Male,Sales Executive,2,Married,13120,10k-15k,No,17,22,3,9
+RM900,49,46-55,No,Travel_Rarely,Research & Development,4,2,Medical,1,1256,Male,Manager,3,Married,18711,15k+,No,13,23,4,1
+RM1007,49,46-55,Yes,Travel_Frequently,Research & Development,28,2,Life Sciences,1,1420,Male,Laboratory Technician,1,Single,4284,Upto 5k,No,20,20,3,4
+RM1045,49,46-55,No,Travel_Rarely,Research & Development,5,4,Technical Degree,1,1473,Male,Healthcare Representative,3,Married,6651,5k-10k,No,14,20,2,3
+RM1055,49,46-55,No,Travel_Rarely,Research & Development,7,4,Life Sciences,1,1484,Male,Healthcare Representative,2,Divorced,10466,10k-15k,No,14,29,3,8
+RM1072,49,46-55,No,Travel_Rarely,Research & Development,3,2,Medical,1,1509,Female,Laboratory Technician,1,Married,4789,Upto 5k,No,25,10,3,3
+RM1148,49,46-55,No,Travel_Rarely,Research & Development,25,4,Life Sciences,1,1617,Female,Laboratory Technician,1,Married,3211,Upto 5k,No,14,10,2,9
+RM1177,49,46-55,No,Travel_Rarely,Research & Development,22,4,Other,1,1655,Female,Research Director,2,Married,16413,15k+,No,16,27,3,4
+RM1182,49,46-55,No,Travel_Rarely,Research & Development,6,1,Life Sciences,1,1661,Female,Healthcare Representative,3,Married,13966,10k-15k,Yes,19,30,3,15
+RM1193,49,46-55,No,Travel_Rarely,Research & Development,16,3,Medical,1,1674,Female,Laboratory Technician,1,Divorced,2587,Upto 5k,Yes,16,17,2,2
+RM1196,49,46-55,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1677,Male,Manager,3,Single,15379,15k+,No,14,23,3,8
+RM1255,49,46-55,No,Travel_Rarely,Sales,11,4,Marketing,1,1757,Female,Sales Executive,4,Single,4507,Upto 5k,No,12,8,4,5
+RM1378,49,46-55,No,Travel_Frequently,Research & Development,2,1,Life Sciences,1,1941,Male,Research Director,4,Married,19161,15k+,No,15,28,3,5
+RM1469,49,46-55,No,Travel_Frequently,Sales,2,3,Medical,1,2065,Male,Sales Executive,2,Married,5390,5k-10k,No,14,17,2,9
+RM1469,49,46-55,No,Travel_Frequently,Sales,2,3,Medical,1,2065,Male,Sales Executive,2,Married,5390,5k-10k,No,14,17,2,9
+RM037,50,46-55,Yes,Travel_Rarely,Sales,3,2,Marketing,1,47,Male,Sales Representative,3,Married,2683,Upto 5k,Yes,14,3,3,3
+RM063,50,46-55,No,Travel_Rarely,Research & Development,7,2,Medical,1,80,Female,Research Director,3,Divorced,18740,15k+,Yes,12,29,2,27
+RM107,50,46-55,No,Travel_Frequently,Research & Development,1,3,Life Sciences,1,141,Female,Research Director,2,Married,18172,15k+,Yes,19,28,2,8
+RM132,50,46-55,No,Travel_Frequently,Sales,12,3,Marketing,1,174,Female,Sales Executive,4,Single,9208,5k-10k,No,11,16,3,2
+RM166,50,46-55,No,Travel_Rarely,Research & Development,11,3,Life Sciences,1,226,Female,Manager,2,Single,19926,15k+,No,15,21,3,5
+RM184,50,46-55,No,Travel_Rarely,Research & Development,1,3,Medical,1,249,Male,Laboratory Technician,3,Married,3690,Upto 5k,No,15,5,2,3
+RM234,50,46-55,No,Travel_Rarely,Sales,1,4,Medical,1,323,Female,Manager,4,Divorced,19517,15k+,No,11,32,2,7
+RM280,50,46-55,No,Travel_Rarely,Research & Development,4,1,Life Sciences,1,385,Male,Research Director,2,Divorced,19144,15k+,No,14,28,2,10
+RM368,50,46-55,No,Travel_Rarely,Research & Development,10,3,Technical Degree,1,491,Male,Healthcare Representative,4,Single,10496,10k-15k,No,15,20,3,4
+RM426,50,46-55,No,Travel_Rarely,Research & Development,29,4,Life Sciences,1,569,Male,Manager,3,Married,17046,15k+,No,15,28,3,27
+RM478,50,46-55,No,Travel_Frequently,Human Resources,3,3,Medical,1,644,Male,Manager,2,Married,18200,15k+,No,11,32,3,32
+RM524,50,46-55,No,Travel_Rarely,Research & Development,28,1,Medical,1,716,Male,Laboratory Technician,3,Married,3221,Upto 5k,Yes,11,20,3,20
+RM529,50,46-55,Yes,Travel_Frequently,Sales,8,2,Technical Degree,1,723,Male,Sales Executive,3,Married,6796,5k-10k,Yes,14,18,3,4
+RM540,50,46-55,No,Travel_Rarely,Sales,8,4,Marketing,1,738,Male,Sales Representative,2,Married,3875,Upto 5k,No,15,4,3,2
+RM589,50,46-55,No,Travel_Rarely,Research & Development,2,3,Medical,1,815,Male,Research Director,3,Married,17639,15k+,No,16,30,3,4
+RM654,50,46-55,No,Non-Travel,Research & Development,2,4,Life Sciences,1,905,Male,Manager,1,Divorced,17924,15k+,No,11,31,3,31
+RM715,50,46-55,No,Travel_Rarely,Research & Development,1,2,Medical,1,997,Male,Research Director,4,Divorced,17399,15k+,No,22,32,2,5
+RM722,50,46-55,No,Travel_Rarely,Research & Development,24,3,Life Sciences,1,1005,Male,Manufacturing Director,3,Married,13973,10k-15k,Yes,18,22,3,12
+RM743,50,46-55,No,Travel_Rarely,Research & Development,9,3,Life Sciences,1,1030,Male,Laboratory Technician,4,Married,2380,Upto 5k,No,18,8,3,1
+RM752,50,46-55,No,Non-Travel,Sales,1,3,Life Sciences,1,1040,Female,Sales Executive,3,Married,6347,5k-10k,No,12,19,3,18
+RM767,50,46-55,No,Travel_Rarely,Research & Development,2,4,Medical,1,1061,Male,Research Director,3,Married,19237,15k+,Yes,11,29,2,8
+RM802,50,46-55,Yes,Travel_Frequently,Sales,1,4,Other,1,1113,Male,Sales Executive,3,Single,4728,Upto 5k,Yes,14,5,3,0
+RM868,50,46-55,No,Travel_Frequently,Research & Development,2,3,Medical,1,1215,Female,Manager,1,Married,17856,15k+,No,22,32,3,2
+RM946,50,46-55,No,Travel_Rarely,Research & Development,28,3,Life Sciences,1,1317,Female,Research Director,1,Married,16880,15k+,Yes,11,25,3,3
+RM1087,50,46-55,No,Travel_Frequently,Research & Development,22,5,Medical,1,1539,Male,Research Director,4,Single,14411,10k-15k,Yes,13,32,3,32
+RM1127,50,46-55,No,Travel_Rarely,Sales,9,3,Marketing,1,1591,Male,Manager,3,Married,19331,15k+,Yes,16,27,3,1
+RM1139,50,46-55,No,Travel_Frequently,Research & Development,20,5,Medical,1,1606,Male,Healthcare Representative,3,Married,11245,10k-15k,Yes,15,32,3,30
+RM1178,50,46-55,No,Travel_Rarely,Research & Development,17,5,Life Sciences,1,1656,Female,Research Director,1,Divorced,13269,10k-15k,No,15,19,3,14
+RM1453,50,46-55,Yes,Travel_Frequently,Sales,1,4,Life Sciences,1,2044,Male,Sales Executive,3,Divorced,6728,5k-10k,No,12,12,3,6
+RM1462,50,46-55,Yes,Travel_Rarely,Sales,28,3,Marketing,1,2055,Male,Sales Executive,1,Divorced,10854,10k-15k,Yes,13,20,3,3
+RM1462,50,46-55,Yes,Travel_Rarely,Sales,28,3,Marketing,1,2055,Male,Sales Executive,1,Divorced,10854,10k-15k,Yes,13,20,3,3
+RM088,51,46-55,No,Travel_Rarely,Research & Development,9,4,Life Sciences,1,116,Male,Laboratory Technician,4,Married,2075,Upto 5k,No,23,10,3,4
+RM092,51,46-55,No,Travel_Rarely,Sales,21,4,Marketing,1,120,Male,Sales Executive,4,Single,5441,5k-10k,Yes,22,11,1,10
+RM111,51,46-55,No,Travel_Frequently,Research & Development,1,4,Medical,1,145,Female,Healthcare Representative,1,Single,7484,5k-10k,No,20,23,2,13
+RM124,51,46-55,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,162,Male,Research Director,3,Single,19537,15k+,No,13,23,3,20
+RM137,51,46-55,Yes,Travel_Frequently,Research & Development,8,4,Life Sciences,1,179,Male,Manufacturing Director,4,Single,10650,10k-15k,No,15,18,3,4
+RM157,51,46-55,No,Travel_Rarely,Research & Development,7,4,Medical,1,211,Male,Manufacturing Director,3,Married,6132,5k-10k,No,17,10,3,1
+RM190,51,46-55,No,Travel_Rarely,Research & Development,3,3,Medical,1,258,Female,Healthcare Representative,2,Single,13734,10k-15k,No,18,21,3,7
+RM214,51,46-55,No,Travel_Rarely,Research & Development,8,4,Life Sciences,1,296,Male,Research Director,2,Married,12490,10k-15k,No,16,16,1,10
+RM259,51,46-55,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,353,Male,Research Scientist,4,Married,2723,Upto 5k,No,11,1,2,1
+RM300,51,46-55,No,Travel_Rarely,Research & Development,2,3,Medical,1,408,Male,Manufacturing Director,2,Divorced,5482,5k-10k,No,18,13,3,4
+RM377,51,46-55,No,Travel_Rarely,Sales,14,2,Life Sciences,1,500,Female,Sales Executive,4,Married,4936,Upto 5k,No,11,18,2,7
+RM617,51,46-55,No,Travel_Rarely,Sales,26,4,Marketing,1,851,Female,Manager,3,Married,16307,15k+,No,14,29,2,20
+RM780,51,46-55,Yes,Travel_Rarely,Research & Development,4,4,Life Sciences,1,1081,Male,Research Scientist,3,Married,2461,Upto 5k,Yes,12,18,4,10
+RM919,51,46-55,No,Travel_Frequently,Sales,9,3,Life Sciences,1,1282,Male,Manager,2,Divorced,19847,15k+,Yes,24,31,2,29
+RM931,51,46-55,No,Travel_Frequently,Research & Development,6,2,Medical,1,1297,Female,Laboratory Technician,3,Single,2838,Upto 5k,No,14,8,2,7
+RM963,51,46-55,No,Travel_Rarely,Human Resources,5,3,Life Sciences,1,1352,Male,Manager,2,Divorced,14026,10k-15k,Yes,11,33,3,33
+RM972,51,46-55,No,Travel_Rarely,Research & Development,11,2,Technical Degree,1,1367,Female,Manufacturing Director,2,Single,13142,10k-15k,No,16,29,2,5
+RM988,51,46-55,No,Travel_Frequently,Sales,2,3,Marketing,1,1391,Male,Sales Executive,2,Married,10596,10k-15k,No,11,14,3,4
+RM1276,51,46-55,No,Travel_Rarely,Research & Development,3,3,Technical Degree,1,1786,Female,Manager,3,Married,13116,10k-15k,No,11,15,3,2
+RM191,52,46-55,No,Travel_Rarely,Research & Development,1,4,Life Sciences,1,259,Male,Manager,3,Married,19999,15k+,No,14,34,3,33
+RM231,52,46-55,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,316,Female,Laboratory Technician,4,Single,3212,Upto 5k,No,15,6,2,2
+RM238,52,46-55,No,Non-Travel,Sales,2,4,Life Sciences,1,329,Male,Manager,3,Single,19068,15k+,Yes,18,33,4,33
+RM318,52,46-55,Yes,Travel_Rarely,Research & Development,8,4,Medical,1,433,Male,Research Scientist,2,Married,4941,Upto 5k,No,15,11,2,8
+RM407,52,46-55,No,Travel_Rarely,Research & Development,3,3,Medical,1,543,Male,Manufacturing Director,3,Married,7969,5k-10k,Yes,14,28,3,5
+RM409,52,46-55,No,Travel_Rarely,Research & Development,4,2,Life Sciences,1,546,Female,Manager,4,Married,16555,15k+,No,13,31,1,5
+RM469,52,46-55,No,Travel_Rarely,Research & Development,6,2,Technical Degree,1,630,Male,Research Scientist,1,Divorced,5577,5k-10k,Yes,12,18,3,10
+RM562,52,46-55,No,Travel_Rarely,Sales,3,4,Marketing,1,776,Male,Manager,1,Married,16856,15k+,No,11,34,4,34
+RM571,52,46-55,No,Non-Travel,Research & Development,19,4,Medical,1,791,Male,Research Scientist,4,Married,4258,Upto 5k,No,18,5,3,4
+RM588,52,46-55,No,Travel_Rarely,Research & Development,11,4,Life Sciences,1,813,Female,Laboratory Technician,3,Married,3149,Upto 5k,No,20,9,3,5
+RM628,52,46-55,No,Travel_Frequently,Research & Development,25,4,Medical,1,867,Female,Manufacturing Director,4,Married,13826,10k-15k,No,22,31,3,9
+RM700,52,46-55,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,976,Male,Manager,4,Married,17099,15k+,No,15,26,2,9
+RM750,52,46-55,Yes,Travel_Rarely,Sales,2,1,Marketing,1,1038,Female,Manager,4,Married,19845,15k+,No,15,33,3,32
+RM807,52,46-55,No,Travel_Rarely,Research & Development,7,4,Life Sciences,1,1118,Male,Healthcare Representative,2,Single,10445,10k-15k,No,19,18,3,8
+RM948,52,46-55,Yes,Travel_Rarely,Sales,5,3,Life Sciences,1,1319,Male,Sales Executive,2,Single,8446,5k-10k,Yes,19,10,2,8
+RM995,52,46-55,No,Travel_Frequently,Research & Development,28,2,Medical,1,1401,Female,Manufacturing Director,3,Married,13247,10k-15k,Yes,11,24,2,5
+RM1001,52,46-55,No,Travel_Rarely,Research & Development,8,4,Other,1,1409,Female,Laboratory Technician,1,Married,2950,Upto 5k,No,13,12,1,5
+RM1435,52,46-55,No,Non-Travel,Sales,29,4,Life Sciences,1,2019,Male,Sales Representative,4,Divorced,3482,Upto 5k,No,15,16,2,9
+RM019,53,46-55,No,Travel_Rarely,Sales,2,4,Life Sciences,1,23,Female,Manager,4,Married,15427,15k+,No,16,31,3,25
+RM026,53,46-55,No,Travel_Rarely,Research & Development,5,3,Other,1,32,Female,Manager,3,Divorced,19094,15k+,No,11,26,2,14
+RM153,53,46-55,No,Travel_Rarely,Sales,6,2,Marketing,1,205,Male,Sales Representative,3,Married,2306,Upto 5k,Yes,20,13,1,7
+RM185,53,46-55,No,Travel_Rarely,Research & Development,13,2,Medical,1,250,Female,Manufacturing Director,1,Divorced,4450,Upto 5k,No,11,5,3,4
+RM281,53,46-55,No,Travel_Rarely,Research & Development,3,4,Medical,1,386,Male,Research Director,3,Married,17584,15k+,Yes,16,21,2,5
+RM503,53,46-55,No,Travel_Rarely,Sales,1,1,Medical,1,682,Female,Sales Executive,1,Single,8381,5k-10k,No,20,18,4,14
+RM535,53,46-55,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,730,Male,Research Director,3,Married,14814,10k-15k,No,19,32,3,5
+RM557,53,46-55,No,Travel_Rarely,Research & Development,6,3,Life Sciences,1,769,Male,Laboratory Technician,4,Single,2450,Upto 5k,No,17,19,3,2
+RM625,53,46-55,No,Travel_Rarely,Sales,7,2,Marketing,1,862,Female,Sales Executive,4,Married,10934,10k-15k,Yes,18,35,3,5
+RM647,53,46-55,No,Travel_Rarely,Sales,8,3,Marketing,1,897,Male,Sales Executive,4,Married,11836,10k-15k,No,14,28,3,2
+RM650,53,46-55,No,Travel_Rarely,Research & Development,23,4,Life Sciences,1,901,Female,Research Director,4,Single,14275,10k-15k,No,18,33,3,12
+RM702,53,46-55,No,Travel_Rarely,Sales,2,2,Medical,1,981,Male,Manager,3,Divorced,14852,10k-15k,No,13,22,4,17
+RM761,53,46-55,No,Travel_Frequently,Sales,2,3,Marketing,1,1050,Female,Sales Executive,2,Married,7525,5k-10k,No,12,30,3,15
+RM859,53,46-55,No,Travel_Rarely,Research & Development,7,2,Medical,1,1201,Female,Manager,3,Divorced,18606,15k+,No,18,26,3,7
+RM1044,53,46-55,No,Travel_Rarely,Research & Development,2,3,Medical,1,1472,Male,Research Director,2,Single,16598,15k+,No,12,35,2,9
+RM1112,53,46-55,Yes,Travel_Rarely,Research & Development,2,5,Technical Degree,1,1572,Female,Manufacturing Director,4,Married,10169,10k-15k,No,16,34,3,33
+RM1204,53,46-55,No,Travel_Rarely,Research & Development,24,4,Medical,1,1689,Male,Healthcare Representative,4,Married,7005,5k-10k,No,15,11,3,4
+RM1269,53,46-55,No,Non-Travel,Research & Development,1,4,Medical,1,1775,Female,Manufacturing Director,3,Married,12965,10k-15k,Yes,20,27,2,3
+RM1397,53,46-55,Yes,Travel_Rarely,Sales,24,4,Life Sciences,1,1968,Male,Sales Executive,1,Single,10448,10k-15k,Yes,13,15,2,2
+RM096,54,46-55,No,Travel_Rarely,Research & Development,2,4,Technical Degree,1,126,Female,Research Director,3,Married,13549,10k-15k,No,12,16,1,4
+RM113,54,46-55,No,Non-Travel,Human Resources,26,3,Human Resources,1,148,Female,Manager,4,Single,17328,15k+,Yes,12,23,3,5
+RM220,54,46-55,No,Travel_Rarely,Sales,3,3,Marketing,1,303,Female,Sales Executive,1,Married,5940,5k-10k,No,14,16,3,6
+RM333,54,46-55,No,Travel_Frequently,Research & Development,20,4,Life Sciences,1,450,Female,Research Scientist,3,Single,4869,Upto 5k,No,12,20,2,4
+RM393,54,46-55,No,Travel_Rarely,Research & Development,5,2,Medical,1,522,Male,Research Director,1,Married,19406,15k+,No,11,24,2,4
+RM432,54,46-55,No,Travel_Rarely,Research & Development,8,4,Life Sciences,1,578,Female,Laboratory Technician,3,Single,3780,Upto 5k,No,11,19,3,1
+RM511,54,46-55,No,Travel_Rarely,Human Resources,19,4,Medical,1,698,Male,Human Resources,2,Married,10725,10k-15k,No,15,16,4,9
+RM576,54,46-55,No,Travel_Rarely,Research & Development,19,4,Medical,1,799,Female,Manufacturing Director,1,Divorced,5485,5k-10k,Yes,11,9,3,5
+RM729,54,46-55,No,Travel_Rarely,Research & Development,17,3,Technical Degree,1,1013,Female,Manufacturing Director,3,Married,10739,10k-15k,No,11,22,3,10
+RM772,54,46-55,No,Travel_Rarely,Sales,2,4,Life Sciences,1,1070,Female,Sales Executive,3,Married,10686,10k-15k,No,11,13,3,9
+RM891,54,46-55,No,Travel_Frequently,Research & Development,1,4,Life Sciences,1,1245,Female,Manufacturing Director,3,Divorced,10502,10k-15k,No,17,33,1,5
+RM895,54,46-55,No,Travel_Rarely,Research & Development,3,3,Life Sciences,1,1250,Male,Research Director,4,Married,17779,15k+,No,14,36,3,10
+RM1009,54,46-55,No,Travel_Rarely,Research & Development,1,3,Medical,1,1422,Female,Research Director,4,Single,17328,15k+,No,19,29,2,20
+RM1077,54,46-55,No,Travel_Frequently,Research & Development,11,4,Medical,1,1520,Female,Manager,4,Divorced,16032,15k+,No,20,26,3,14
+RM1185,54,46-55,No,Travel_Rarely,Research & Development,22,5,Medical,1,1665,Female,Manager,3,Married,17426,15k+,No,25,36,3,10
+RM1306,54,46-55,No,Travel_Rarely,Research & Development,7,4,Medical,1,1830,Female,Research Scientist,4,Married,6854,5k-10k,No,15,14,2,7
+RM1398,54,46-55,No,Travel_Rarely,Research & Development,9,2,Life Sciences,1,1969,Female,Research Scientist,3,Married,2897,Upto 5k,No,11,9,2,4
+RM1407,54,46-55,No,Travel_Rarely,Research & Development,10,3,Medical,1,1980,Female,Manufacturing Director,1,Single,4440,Upto 5k,Yes,19,9,3,5
+RM066,55,46-55,No,Travel_Rarely,Research & Development,8,3,Medical,1,84,Female,Manager,3,Divorced,14756,10k-15k,Yes,14,21,3,5
+RM083,55,46-55,No,Travel_Rarely,Sales,1,2,Life Sciences,1,106,Male,Sales Executive,4,Married,10239,10k-15k,No,14,24,3,1
+RM188,55,46-55,No,Travel_Rarely,Research & Development,14,4,Medical,1,254,Male,Research Director,2,Single,18722,15k+,No,11,36,3,24
+RM271,55,46-55,No,Travel_Rarely,Research & Development,1,3,Medical,1,374,Male,Manager,1,Single,19045,15k+,Yes,14,37,3,36
+RM284,55,46-55,No,Travel_Rarely,Research & Development,20,2,Technical Degree,1,389,Male,Laboratory Technician,4,Married,5415,5k-10k,Yes,19,12,3,10
+RM380,55,46-55,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,505,Female,Manager,4,Single,16659,15k+,Yes,13,30,3,5
+RM446,55,46-55,No,Travel_Rarely,Sales,18,5,Life Sciences,1,597,Female,Manager,2,Single,16835,15k+,No,23,37,3,10
+RM569,55,46-55,Yes,Travel_Rarely,Research & Development,2,3,Medical,1,787,Male,Manager,1,Married,19859,15k+,Yes,13,24,3,5
+RM609,55,46-55,Yes,Travel_Rarely,Sales,2,1,Medical,1,842,Male,Sales Executive,4,Single,5160,5k-10k,No,16,12,2,9
+RM746,55,46-55,No,Travel_Frequently,Research & Development,18,4,Medical,1,1034,Male,Healthcare Representative,2,Married,6385,5k-10k,Yes,14,17,3,8
+RM775,55,46-55,No,Non-Travel,Research & Development,2,1,Medical,1,1074,Male,Manager,1,Single,16756,15k+,No,15,31,4,9
+RM788,55,46-55,No,Travel_Frequently,Research & Development,2,1,Life Sciences,1,1096,Male,Manufacturing Director,2,Married,10976,10k-15k,No,18,23,3,3
+RM915,55,46-55,No,Non-Travel,Research & Development,8,1,Medical,1,1278,Male,Healthcare Representative,2,Divorced,13577,10k-15k,Yes,15,34,3,33
+RM956,55,46-55,No,Travel_Rarely,Research & Development,2,2,Medical,1,1336,Female,Manager,3,Married,19187,15k+,No,14,23,3,19
+RM976,55,46-55,Yes,Travel_Rarely,Sales,13,4,Marketing,1,1372,Male,Sales Executive,3,Single,13695,10k-15k,Yes,17,24,2,19
+RM1011,55,46-55,No,Travel_Rarely,Research & Development,1,4,Medical,1,1424,Male,Research Director,4,Divorced,14732,10k-15k,No,13,31,4,7
+RM1066,55,46-55,No,Travel_Rarely,Research & Development,4,4,Life Sciences,1,1501,Male,Healthcare Representative,3,Married,4035,Upto 5k,Yes,16,4,3,3
+RM1117,55,46-55,No,Travel_Rarely,Sales,26,5,Marketing,1,1578,Male,Manager,4,Married,19586,15k+,No,21,36,3,36
+RM1208,55,46-55,No,Travel_Rarely,Research & Development,22,3,Technical Degree,1,1694,Male,Research Scientist,2,Divorced,3537,Upto 5k,No,12,8,3,4
+RM1265,55,46-55,No,Travel_Rarely,Research & Development,2,3,Medical,1,1770,Male,Research Director,1,Married,19038,15k+,No,12,34,3,1
+RM1337,55,46-55,No,Travel_Rarely,Research & Development,2,4,Technical Degree,1,1873,Male,Research Scientist,4,Married,2662,Upto 5k,No,20,19,4,5
+RM1402,55,46-55,No,Travel_Rarely,Human Resources,26,4,Human Resources,1,1973,Male,Manager,2,Married,19636,15k+,Yes,18,35,3,10
+RM086,56,55+,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,112,Male,Manufacturing Director,4,Single,7260,5k-10k,No,11,37,2,6
+RM123,56,55+,Yes,Travel_Rarely,Research & Development,14,4,Life Sciences,1,161,Female,Research Scientist,2,Married,4963,Upto 5k,Yes,18,7,3,5
+RM176,56,55+,No,Travel_Rarely,Research & Development,8,3,Life Sciences,1,241,Female,Research Scientist,1,Divorced,4257,Upto 5k,Yes,18,19,3,2
+RM402,56,55+,No,Travel_Frequently,Sales,6,3,Life Sciences,1,532,Female,Sales Executive,1,Married,13212,10k-15k,No,11,36,2,7
+RM553,56,55+,No,Travel_Rarely,Research & Development,9,3,Medical,1,762,Male,Healthcare Representative,4,Married,11103,10k-15k,No,11,30,2,10
+RM773,56,55+,No,Travel_Frequently,Research & Development,9,3,Medical,1,1071,Female,Research Scientist,3,Married,2942,Upto 5k,No,19,18,3,5
+RM852,56,55+,No,Travel_Rarely,Research & Development,4,4,Technical Degree,1,1191,Female,Manager,1,Divorced,19943,15k+,No,13,28,3,5
+RM957,56,55+,No,Travel_Rarely,Human Resources,8,4,Life Sciences,1,1338,Male,Manager,2,Single,19717,15k+,No,14,36,3,7
+RM977,56,55+,No,Travel_Rarely,Research & Development,23,3,Life Sciences,1,1373,Male,Manufacturing Director,2,Married,13402,10k-15k,Yes,12,33,3,19
+RM1024,56,55+,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,1441,Female,Research Scientist,1,Married,2066,Upto 5k,No,22,5,4,3
+RM1355,56,55+,Yes,Travel_Rarely,Research & Development,24,2,Life Sciences,1,1907,Male,Laboratory Technician,4,Single,2587,Upto 5k,No,16,5,3,4
+RM1372,56,55+,No,Travel_Rarely,Sales,11,5,Marketing,1,1935,Female,Sales Executive,1,Married,5380,5k-10k,No,16,6,3,0
+RM1442,56,55+,No,Non-Travel,Research & Development,1,4,Life Sciences,1,2026,Male,Healthcare Representative,3,Divorced,6306,5k-10k,No,21,13,2,13
+RM1445,56,55+,Yes,Travel_Rarely,Research & Development,7,2,Technical Degree,1,2032,Male,Laboratory Technician,3,Married,2339,Upto 5k,No,11,14,1,10
+RM164,57,55+,No,Travel_Rarely,Research & Development,24,2,Life Sciences,1,223,Male,Healthcare Representative,4,Divorced,9439,5k-10k,Yes,16,12,1,5
+RM361,57,55+,No,Travel_Rarely,Research & Development,1,4,Medical,1,482,Male,Healthcare Representative,3,Married,6755,5k-10k,No,11,15,3,3
+RM425,57,55+,No,Travel_Rarely,Sales,29,3,Marketing,1,568,Male,Manager,4,Divorced,14118,10k-15k,No,12,32,2,1
+RM1054,57,55+,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,1483,Male,Research Scientist,3,Married,4900,Upto 5k,No,24,13,2,12
+RM099,58,55+,No,Travel_Rarely,Sales,10,4,Medical,1,131,Male,Sales Executive,3,Single,13872,10k-15k,No,13,38,2,37
+RM127,58,55+,Yes,Travel_Rarely,Research & Development,23,4,Medical,1,165,Female,Healthcare Representative,4,Married,10312,10k-15k,No,12,40,2,40
+RM158,58,55+,No,Travel_Rarely,Research & Development,9,3,Medical,1,214,Female,Research Scientist,2,Married,3346,Upto 5k,Yes,20,9,2,1
+RM309,58,55+,No,Non-Travel,Research & Development,1,4,Life Sciences,1,422,Male,Healthcare Representative,3,Divorced,5660,5k-10k,Yes,13,12,3,5
+RM596,58,55+,Yes,Travel_Rarely,Research & Development,2,4,Life Sciences,1,825,Male,Research Director,2,Single,19246,15k+,Yes,12,40,3,31
+RM661,58,55+,Yes,Travel_Frequently,Research & Development,2,1,Life Sciences,1,918,Male,Laboratory Technician,4,Divorced,2380,Upto 5k,Yes,14,3,2,1
+RM675,58,55+,No,Travel_Rarely,Research & Development,5,3,Technical Degree,1,940,Female,Healthcare Representative,2,Divorced,10552,10k-15k,Yes,13,24,3,6
+RM701,58,55+,Yes,Travel_Rarely,Research & Development,2,3,Technical Degree,1,977,Male,Research Scientist,3,Single,2479,Upto 5k,No,24,7,3,1
+RM939,58,55+,No,Travel_Rarely,Research & Development,23,4,Life Sciences,1,1308,Male,Research Scientist,3,Divorced,2372,Upto 5k,No,12,2,3,2
+RM967,58,55+,Yes,Travel_Rarely,Research & Development,7,4,Medical,1,1360,Female,Manufacturing Director,1,Married,10008,10k-15k,Yes,14,31,2,10
+RM1010,58,55+,No,Travel_Rarely,Research & Development,1,3,Medical,1,1423,Female,Research Director,1,Married,19701,15k+,Yes,21,32,3,9
+RM1302,58,55+,No,Non-Travel,Sales,2,3,Medical,1,1824,Male,Manager,2,Divorced,16291,15k+,No,22,37,2,16
+RM1311,58,55+,No,Travel_Frequently,Research & Development,15,4,Life Sciences,1,1837,Male,Research Director,3,Married,15787,15k+,Yes,14,23,3,2
+RM1375,58,55+,No,Travel_Rarely,Sales,21,3,Life Sciences,1,1938,Female,Manager,4,Married,17875,15k+,Yes,13,29,2,1
+RM007,59,55+,No,Travel_Rarely,Research & Development,3,3,Medical,1,10,Female,Laboratory Technician,1,Married,2670,Upto 5k,Yes,20,12,2,1
+RM064,59,55+,No,Travel_Rarely,Sales,25,3,Life Sciences,1,81,Female,Sales Executive,1,Single,7637,5k-10k,No,11,28,2,21
+RM071,59,55+,No,Travel_Frequently,Sales,1,1,Life Sciences,1,91,Female,Sales Executive,3,Single,5473,5k-10k,No,11,20,2,4
+RM106,59,55+,No,Non-Travel,Human Resources,2,4,Human Resources,1,140,Female,Manager,4,Married,18844,15k+,No,21,30,3,3
+RM226,59,55+,No,Travel_Rarely,Research & Development,3,3,Life Sciences,1,309,Male,Research Scientist,4,Married,2177,Upto 5k,No,17,7,3,1
+RM233,59,55+,No,Travel_Rarely,Human Resources,6,2,Medical,1,321,Male,Human Resources,3,Married,2267,Upto 5k,No,17,7,2,2
+RM744,59,55+,No,Travel_Rarely,Research & Development,2,3,Life Sciences,1,1032,Female,Manufacturing Director,4,Single,13726,10k-15k,Yes,13,30,3,5
+RM759,59,55+,No,Travel_Rarely,Sales,1,2,Technical Degree,1,1048,Male,Manager,4,Married,11904,10k-15k,Yes,14,14,1,6
+RM898,59,55+,No,Travel_Rarely,Sales,3,3,Life Sciences,1,1254,Female,Sales Executive,4,Single,5171,5k-10k,No,17,13,3,6
+RM920,59,55+,No,Travel_Rarely,Research & Development,18,4,Medical,1,1283,Male,Manufacturing Director,4,Single,10512,10k-15k,No,12,25,2,9
+RM412,60,55+,No,Travel_Rarely,Research & Development,7,3,Life Sciences,1,549,Female,Manager,1,Married,19566,15k+,No,11,33,1,29
+RM428,60,55+,No,Travel_Frequently,Sales,28,3,Marketing,1,573,Female,Sales Executive,1,Married,10266,10k-15k,No,19,22,4,18
+RM537,60,55+,No,Travel_Rarely,Sales,16,4,Marketing,1,732,Male,Sales Executive,1,Single,5405,5k-10k,No,14,10,3,2
+RM880,60,55+,No,Travel_Rarely,Sales,7,4,Marketing,1,1233,Male,Sales Executive,4,Divorced,5220,5k-10k,Yes,18,12,3,11
+RM1210,60,55+,No,Travel_Rarely,Research & Development,1,4,Medical,1,1697,Male,Healthcare Representative,4,Divorced,10883,10k-15k,No,20,19,4,1

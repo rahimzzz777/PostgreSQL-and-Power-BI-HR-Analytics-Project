@@ -66,20 +66,23 @@ PostgreSQL & Power BI HR Analytics Dashboard
 
 # SQL Analysis
 
+![SQL Analysis](06_Power_BI_Dashboard/sql_analysis.png)
+
+The SQL analysis was performed in PostgreSQL to prepare, validate, and analyze the HR dataset before building the Power BI dashboard.
+
 ## Database Setup
 
-- Create Database
-- Create Table
-- Import Dataset
+- Database Creation
+- Table Creation
+- Data Import
 
 ## Data Preparation & Validation
 
-- Verify Imported Data
-- Validate Record Count
-- Detect Duplicate Records
-- Remove Duplicate Records
-- Create Primary Key
-- Validate Data Integrity
+- Record Validation
+- Duplicate Detection
+- Duplicate Removal
+- Primary Key Creation
+- Data Quality Checks
 
 ## Exploratory Data Analysis
 
@@ -101,7 +104,9 @@ PostgreSQL & Power BI HR Analytics Dashboard
 
 # Power BI Dashboard
 
-The dashboard provides interactive analysis of:
+![Power BI Dashboard](06_Power_BI_Dashboard/hr_analytics_dashboard.png)
+
+The interactive dashboard provides insights into:
 
 - Total Employees
 - Attrition Count
@@ -136,31 +141,33 @@ The dashboard provides interactive analysis of:
 # Power BI Skills Demonstrated
 
 - Data Modeling
-- Data Transformation
+- Power Query
 - DAX Measures
 - KPI Development
 - Interactive Dashboard Design
-- Slicers and Filters
+- Slicers & Filters
+- Data Visualization
 - Business Reporting
 
 ---
 
-# Dashboard Preview
+# Key Business Insights
 
-06_Power_BI_Dashboard/hr_analytics_dashboard.png
+- Analyzed employee distribution across departments.
+- Identified department-wise attrition trends.
+- Evaluated salary distribution across departments and job roles.
+- Examined workforce demographics based on age, gender, and education field.
+- Generated department-level HR summary reports for business decision-making.
+- Built an interactive Power BI dashboard to visualize HR performance metrics and workforce insights.
 
 ---
 
-# Key Insights
+# Conclusion
 
-- Analyzed employee distribution across departments.
-- Identified departments with higher attrition rates.
-- Evaluated salary distribution across job roles.
-- Analyzed workforce demographics based on age, gender, and education.
-- Created department-level HR summary reports to support business decisions.
+This project demonstrates an end-to-end HR Analytics workflow by integrating PostgreSQL and Power BI. PostgreSQL was used for data preparation, validation, exploratory analysis, and business analysis, while Power BI was used to develop an interactive dashboard for visualizing HR metrics and supporting data-driven decision-making.
 
 ---
 
 # Author
 
-Abdul Rahim
+**Abdul Rahim**

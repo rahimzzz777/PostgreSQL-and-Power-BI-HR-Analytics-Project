@@ -147,13 +147,7 @@ The dashboard provides interactive analysis of:
 
 # Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
-
-Example:
-
-```text
 06_Power_BI_Dashboard/hr_analytics_dashboard.png
-```
 
 ---
 
